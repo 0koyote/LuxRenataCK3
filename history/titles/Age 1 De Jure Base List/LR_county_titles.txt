@@ -1507,7 +1507,7 @@ c_blois = {
 		holder = Eudes_II_Blois
 	}
 	6037.1.1 = {
-		holder = Thibauld_III_Blois
+		holder = Thibauld_IV_Blois
 	}
 	6044.1.1 = {
 		holder = 16812
