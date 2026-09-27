@@ -104,6 +104,8 @@
  pontus_diocese_desc:0 "Pontus"
  pontus_diocese_tooltip:0 "Pluck the strings across Pontus' rugged terrain, Relight Amisus' torch where Black Sea tides remain! \n#bold Requirements:# \n#N Control[GetGeographicalRegion('custom_roman_pontus').GetName]"
  palestine_diocese_desc:0 "Palestine"
+ macedonia_diocese_desc:0 "Macedonia"
+ macedonia_diocese_tooltip:0 "Let the lands of Alexander witness the revival of Roman order! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_macedonia').GetName]"
  palestine_diocese_tooltip:0 "Let the sands of the Levant witness the revival of Roman order! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_palestine').GetName]"
  custom_roman_thracia:0 "Region of Thrace Diocese"
  custom_roman_macedonia:0 "Region of Macedonian Diocese"
