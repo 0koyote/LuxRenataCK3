@@ -195,12 +195,6 @@
 
  byzantium_delenda_est_tooltip: "The [GetTitleByKey('e_byzantium').GetNameNoTier] does not exist."
 
-# Destroy The Vatican
- eoe_destroy_the_vatican_decision: "Destroy the Church of Saint Peter"
- eoe_destroy_the_vatican_decision_desc: "We have won. We have reconquered our historical heartlands, we have dismantled the Galilean priesthood and driven out their pathetic 'Pope'. The only thing that remains now is to destroy the last symbol if this foul religion. The chruch of Saint Peter on Vatican Hill."
- eoe_destroy_the_vatican_decision_effect_tooltip: "The [GetBuilding('holy_site_st_peters_basilica_01').GetName] will be destroyed and you will be presented with a choice."
- eoe_vatican_must_not_exist_tooltip: "[GetTitleByKey('k_papal_state').GetDefinitiveName] does not exist."
- eoe_destroy_the_vatican_decision_confirm: "Vatican Hill shall burn!"
 
 
 
