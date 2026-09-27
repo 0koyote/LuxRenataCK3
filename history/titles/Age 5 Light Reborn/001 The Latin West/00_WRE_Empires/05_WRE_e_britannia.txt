@@ -2672,7 +2672,7 @@ k_titular_strathclyde = {
 		holder = dumnagual_iii_alt_clut
 	}
 
-	5760.1.1 = {
+	5764.1.1 = {
 		holder = eugein_ii_alt_clut
 	}
 
