@@ -26,10 +26,10 @@ k_julio_argedai_byz = {
 }
 
 k_titular_cappadocia = {
-	4621.1.1 = {
+	4494.1.1 = {
 		holder = 1710781
 	}
-	4639.1.1 = {
+	4539.1.1 = {
 		holder = 1710782
 	}
 	4651.1.1 = {
