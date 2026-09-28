@@ -41,7 +41,16 @@
 	5010.1.1 = {
 		holder = 0
 	}
-	6066.1.1 = {
+	5866.1.1 = {
+		holder = Khilletzbaal_II_Magonids
+	}
+	5902.1.1 = {
+		holder = 0
+	}
+	6040.1.1 = {
+		holder = Hannibal_VI_Magonids
+	}
+	6060.1.1 = {
 		holder = 161006
 		liege = 0
 		government = despotic_government #republic
