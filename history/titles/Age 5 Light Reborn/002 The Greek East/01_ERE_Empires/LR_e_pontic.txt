@@ -188,7 +188,7 @@ d_paphlagonia = {
 	6060.1.1 = {
 		liege = k_galatia
 		holder = 66
-		government = classical_government
+		government = alexandrian_administrative_government
 	}
 }
 d_helenopontus = {
