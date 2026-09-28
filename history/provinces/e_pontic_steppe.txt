@@ -189,7 +189,7 @@
 557 = {		#Khortytsia
 	culture = hellenistic
 	religion = sol_boreas
-	holding = nomad_holding
+	holding = castle_holding
 }
 5280 = {	#Mariupol
 	holding = none
@@ -363,9 +363,9 @@
 596 = {		#Tana
 	culture = hellenistic
 	religion = sol_boreas
-	holding = nomad_holding
+	holding = castle_holding
 	6178.1.1 = {
-		holding = herder_holding
+		holding = castle_holding
 	}
 	6183.1.1 = {
 		holding = nomad_holding
@@ -379,9 +379,9 @@
 5328 = {	#Kuzeyrog	#ficitonal
 	culture = hellenistic
 	religion = sol_boreas
-	holding = nomad_holding
+	holding = castle_holding
 	5178.1.1 = {
-		holding = herder_holding
+		holding = castle_holding
 	}
 	5183.1.1 = {
 		holding = nomad_holding
@@ -525,7 +525,7 @@
 599 = {		#Yaseni	#river name
 	culture = hellenistic
 	religion = sol_boreas
-	holding = nomad_holding
+	holding = castle_holding
 }
 5337 = {	#Chelbaska	#river name
 	holding = none
@@ -538,7 +538,7 @@
 597 = {		#Azov
 	culture = hellenistic
 	religion = sol_boreas
-	holding = nomad_holding
+	holding = castle_holding
 }
 5288 = {	#Manych	#river name
 	holding = none
