@@ -684,21 +684,21 @@ k_titular_bosporus = {
 	}
 	6060.1.1 = {
 		liege = 0
-		government = hellenic_khanate_government
+		government = classical_government
 		holder = 920
 	}
 }
 d_azov = {
 	6060.1.1 = {
 		liege = k_titular_bosporus
-		government = hellenic_khanate_government
+		government = classical_government
 		holder = 920
 	}
 }
 d_tana = {
 	6060.1.1 = {
 		liege = k_titular_bosporus
-		government = hellenic_khanate_government
+		government = classical_government
 		holder = 920
 	}
 }
