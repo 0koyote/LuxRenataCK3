@@ -5540,6 +5540,41 @@ c_hadrianopolis = {
 
 }
 
+c_helenopontus = {
+	6060.1.1 = {
+		liege = d_helenopontus
+		holder = 55
+	}
+}
+
+c_domanitis = {
+	6060.1.1 = {
+		liege = d_helenopontus
+		holder = 55
+	}
+}
+
+c_gazelonitis = {
+	6060.1.1 = {
+		liege = d_helenopontus
+		holder = 55
+	}
+}
+
+c_sinope = {
+	6060.1.1 = {
+		liege = d_helenopontus
+		holder = 55
+	}
+}
+
+c_pimolisene = {
+	6060.1.1 = {
+		liege = d_helenopontus
+		holder = 55
+	}
+}
+
 # C Nicopolis
 c_nicopolis = {
 	6060.1.1 = {
