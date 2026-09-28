@@ -154,8 +154,8 @@ valid_for_byz_emperor_content_trigger = {
 		AND = {
 			culture = {
 				OR = {
-					this = culture:greek
-					any_parent_culture_or_above = { this = culture:greek }
+					this = culture:roman
+					any_parent_culture_or_above = { this = culture:roman }
 				}
 			}
 			highest_held_title_tier >= tier_empire
