@@ -437,6 +437,14 @@
 
  e_sygria: "Sygria"
  e_sygria_adj: "Sygrian"
+
+ e_constanid: "Constanid Kingdom"
+ e_constanid_adj: "Constanid"
+ e_constanid_article: "the "
+
+ e_brittanic_empire: "Brittanic Empire"
+ e_brittanic_empire_adj: "Brittanic"
+ e_brittanic_empire_article: "the "
  
  e_palmyrene_empire: "Palmyrene Empire"
  e_palmyrene_empire_adj: "Palmyrene"

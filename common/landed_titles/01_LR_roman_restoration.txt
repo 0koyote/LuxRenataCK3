@@ -400,6 +400,11 @@ e_sygria = {
 	capital = c_vermandois
 }
 
+e_constanid = {
+	color = { 41 16 125 }
+	capital = c_somerset
+}
+
 k_diocese_hibernia = {
 	color = { 94 138 22 }
 
