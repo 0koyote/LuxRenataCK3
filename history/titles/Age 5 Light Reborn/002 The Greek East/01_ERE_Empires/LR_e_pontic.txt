@@ -186,9 +186,9 @@ d_honorias = {
 }
 d_paphlagonia = {
 	6060.1.1 = {
-		liege = k_pontus
-		holder = 66
-		government = alexandrian_administrative_government
+		liege = k_galatia
+		holder = 54
+		government = classical_government
 	}
 }
 d_helenopontus = {
