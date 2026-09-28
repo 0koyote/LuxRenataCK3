@@ -429,7 +429,7 @@ d_phrygia = {
 }
 d_optimatoi = {
 	6060.1.1 = {
-		liege = 0
+		liege = e_byzantium
 		holder = 2
 		government = roman_administrative_government
 
