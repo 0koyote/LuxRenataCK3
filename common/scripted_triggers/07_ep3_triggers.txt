@@ -28,7 +28,7 @@ is_roman_emperor_trigger = {
 		has_title = title:e_spqr
 		has_title = title:h_western_roman_empire
 		has_title = title:e_gallic_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
 	}
 }
 
@@ -48,7 +48,7 @@ is_major_western_roman_emperor_trigger = {
 
 is_regional_roman_emperor_trigger = {
 	OR = {
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
 		has_title = title:e_gallic_empire
 	}
 }
@@ -66,7 +66,7 @@ is_minor_roman_emperor_excluding_byzantium_trigger = {
 		has_title = title:e_spqr
 		has_title = title:e_western_roman_empire
 		has_title = title:e_gallic_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
 	}
 }
 
@@ -75,7 +75,7 @@ is_minor_roman_emperor_trigger = {
 		has_title = title:e_eastern_roman_empire
 		has_title = title:e_western_roman_empire
 		has_title = title:e_gallic_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
 	}
 }
 
@@ -83,14 +83,16 @@ is_decayed_roman_emperor_trigger = {
 	OR = {
 		has_title = title:e_byzantium
 		has_title = title:e_spqr
+		has_title = title:e_tadmor
+		has_title = title:e_sygria
 	}
 }
 
 is_decayed_roman_emperor_excluding_byzantium_trigger = {
 	OR = {
-		#has_title = title:e_byzantium
+		has_title = title:e_sygria
 		has_title = title:e_spqr
-		#has_title = title:e_palmyrene
+		has_title = title:e_tadmor
 	}
 }
 
@@ -102,7 +104,7 @@ is_roman_emperor_excluding_byzantium_trigger = {
 		has_title = title:e_spqr
 		has_title = title:e_gallic_empire
 		has_title = title:h_eastern_roman_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
 	}
 }
 
@@ -114,7 +116,7 @@ is_roman_emperor_primary_title_trigger = {
 		primary_title ?= title:e_spqr
 		primary_title ?= title:h_western_roman_empire
 		primary_title ?= title:e_gallic_empire
-		#primary_title ?= title:e_palmyrene_empire
+		primary_title ?= title:e_palmyrene_empire
 	}
 }
 
@@ -124,7 +126,7 @@ is_roman_emperor_primary_title_excluding_byzantium_trigger = {
 		primary_title ?= title:h_western_roman_empire
 		primary_title ?= title:e_spqr
 		primary_title ?= title:e_gallic_empire
-		#primary_title ?= title:e_palmyrene_empire
+		primary_title ?= title:e_palmyrene_empire
 		primary_title ?= title:h_eastern_roman_empire
 	}
 }
