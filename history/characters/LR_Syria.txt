@@ -1431,7 +1431,7 @@ Dido_II_Didonid = { #Fictional Dido the Younger.
 		birth = yes
 	}
     4278.1.1 = {
-		death = { death_reason = death_murder_known killer = Balbazer_I_Didonid } # Ganzhen_5E72_8C9E
+		death = { death_reason = death_murder_known killer = Balbazer_I_Didonid }
 	}
 }
 Balbazer_I_Didonid = { #It's like poetry, it rhymes. 
@@ -1829,6 +1829,554 @@ Mithonbaal_I_Magonids = {
 		death = { death_reason = death_assassination }
 	}
 }
+Balbazer_II_Magonids = {
+	name = Balbazer
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mithonbaal_I_Magonids
+	4966.1.1 = {
+		birth = yes
+	}
+    5015.1.1 = {
+		death = yes
+	}
+}
+Dido_II_Magonids = {
+	name = Dido
+	female = yes
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Balbazer_II_Magonids
+	4990.1.1 = {
+		birth = yes
+	}
+    5050.1.1 = {
+		death = yes
+	}
+}
+Hanno_VII_Magonids = {
+	name = Hanno
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	mother = Dido_II_Magonids
+	5010.1.1 = {
+		birth = yes
+	}
+    5030.1.1 = {
+		death = { death_reason = death_poison }
+	}
+}
+Mago_VI_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	mother = Dido_II_Magonids
+	5012.1.1 = {
+		birth = yes
+	}
+    5044.1.1 = {
+		death = { death_reason = death_battle }
+	}
+}
+Hanno_VIII_Magonids = {
+	name = Hanno
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	mother = Dido_II_Magonids
+	give_nickname = nick_the_younger
+	5031.1.1 = {
+		birth = yes
+	}
+    5080.1.1 = {
+		death = yes
+	}
+}
+Khilletzbaal_I_Magonids = {
+	name = Khilletzbaal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hanno_VIII_Magonids
+	5061.1.1 = {
+		birth = yes
+	}
+    5125.1.1 = {
+		death = { death_reason = death_sea_storm }
+	}
+}
+Khamelqart_I_Magonids = {
+	name = Khamelqart
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Khilletzbaal_I_Magonids
+	5080.1.1 = {
+		birth = yes
+	}
+    5125.1.1 = {
+		death = { death_reason = death_sea_storm }
+	}
+}
+Yehawwielon_I_Magonids = {
+	name = Yehawwielon
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Khilletzbaal_I_Magonids
+	5082.1.1 = {
+		birth = yes
+	}
+    5130.1.1 = {
+		death = yes
+	}
+}
+Khamelqart_II_Magonids = {
+	name = Khamelqart
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Yehawwielon_I_Magonids
+	5120.1.1 = {
+		birth = yes
+	}
+    5168.1.1 = {
+		death = yes
+	}
+}
+Mago_VII_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Khamelqart_II_Magonids
+	5150.1.1 = {
+		birth = yes
+	}
+    5202.1.1 = {
+		death = yes
+	}
+}
+Melqartpilles_II_Magonids = {
+	name = Melqartpilles
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_VII_Magonids
+	5182.1.1 = {
+		birth = yes
+	}
+    5234.1.1 = {
+		death = yes
+	}
+}
+Mago_VIII_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Melqartpilles_II_Magonids
+	5200.1.1 = {
+		birth = yes
+	}
+    5268.1.1 = {
+		death = yes
+	}
+}
+Mago_IX_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_VIII_Magonids
+	5222.1.1 = {
+		birth = yes
+	}
+    5271.1.1 = {
+		death = yes
+	}
+}
+Baalhanno_II_Magonids = {
+	name = Baalhanno
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_IX_Magonids
+	5246.1.1 = {
+		birth = yes
+	}
+    5301.1.1 = {
+		death = { death_reason = death_murder_known killer = Mago_X_Magonids }
+	}
+}
+Khamelqart_III_Magonids = {
+	name = Khamelqart
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Baalhanno_II_Magonids
+	5246.1.1 = {
+		birth = yes
+	}
+    5301.1.1 = {
+		death = { death_reason = death_execution killer = Melqartpilles_III_Magonids }
+	}
+}
+Baalhanno_I_Magonids = {
+	name = Baalhanno
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_VIII_Magonids
+	5224.1.1 = {
+		birth = yes
+	}
+    5280.1.1 = {
+		death = yes
+	}
+}
+Mago_X_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Baalhanno_I_Magonids
+	5245.1.1 = {
+		birth = yes
+	}
+    5304.1.1 = {
+		death = { death_reason = death_murder_known killer = Khamelqart_III_Magonids }
+	}
+}
+Melqartpilles_III_Magonids = {
+	name = Melqartpilles
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_X_Magonids
+	5265.1.1 = {
+		birth = yes
+	}
+    5326.1.1 = {
+		death = yes
+	}
+}
+Mago_XI_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Melqartpilles_III_Magonids
+	5295.1.1 = {
+		birth = yes
+	}
+    5340.1.1 = {
+		death = yes
+	}
+}
+Khimilkt_I_Magonids = {
+	name = KhimilKt
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_XI_Magonids
+	5323.1.1 = {
+		birth = yes
+	}
+    5378.1.1 = {
+		death = yes
+	}
+}
+Hannibal_IV_Magonids = {
+	name = Hannibal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Khimilkt_I_Magonids
+	5348.1.1 = {
+		birth = yes
+	}
+    5416.1.1 = {
+		death = yes
+	}
+}
+Hanno_IX_Magonids = {
+	name = Hanno
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hannibal_IV_Magonids
+	5400.1.1 = {
+		birth = yes
+	}
+    5460.1.1 = {
+		death = yes
+	}
+}
+Gersakkun_I_Magonids = {
+	name = Gersakkun
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hanno_IX_Magonids
+	5423.1.1 = {
+		birth = yes
+	}
+    5490.1.1 = {
+		death = yes
+	}
+}
+Bomilcar_II_Magonids  = {
+	name = Bomilcar 
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Gersakkun_I_Magonids
+	5458.1.1 = {
+		birth = yes
+	}
+    5510.1.1 = {
+		death = yes
+	}
+}
+Melqartpilles_IV_Magonids  = {
+	name = Melqartpilles
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Bomilcar_II_Magonids
+	5492.1.1 = {
+		birth = yes
+	}
+    5560.1.1 = {
+		death = yes
+	}
+}
+Khimilkt_II_Magonids = {
+	name = KhimilKt
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Melqartpilles_IV_Magonids
+	5517.1.1 = {
+		birth = yes
+	}
+    5586.1.1 = {
+		death = yes
+	}
+}
+Mago_XII_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Khimilkt_II_Magonids
+	5562.1.1 = {
+		birth = yes
+	}
+    5602.1.1 = {
+		death = yes
+	}
+}
+Hamilket_I_Magonids = {
+	name = Hamilket
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_XII_Magonids
+	5586.1.1 = {
+		birth = yes
+	}
+    5637.1.1 = {
+		death = yes
+	}
+}
+Anobaal_I_Magonids = {
+	name = Anobaal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hamilket_I_Magonids
+	5612.1.1 = {
+		birth = yes
+	}
+    5670.1.1 = {
+		death = yes
+	}
+}
+Azrubaal_II_Magonids = {
+	name = Azrubaal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hamilket_I_Magonids
+	5630.1.1 = {
+		birth = yes
+	}
+    5699.1.1 = {
+		death = yes
+	}
+}
+Adonibaal_I_Magonids = {
+	name = Adonibaal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Azrubaal_II_Magonids
+	5660.1.1 = {
+		birth = yes
+	}
+    5709.1.1 = {
+		death = yes
+	}
+}
+Mago_XIII_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Adonibaal_I_Magonids
+	5688.1.1 = {
+		birth = yes
+	}
+    5740.1.1 = {
+		death = yes
+	}
+}
+Hanno_X_Magonids = {
+	name = Hanno
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_XIII_Magonids
+	5702.1.1 = {
+		birth = yes
+	}
+    5759.1.1 = {
+		death = yes
+	}
+}
+Hamilket_II_Magonids = {
+	name = Hamilket
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hanno_X_Magonids
+	5720.1.1 = {
+		birth = yes
+	}
+    5784.1.1 = {
+		death = yes
+	}
+}
+Germelqart_I_Magonids = {
+	name = Germelqart
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hamilket_II_Magonids
+	5744.1.1 = {
+		birth = yes
+	}
+    5810.1.1 = {
+		death = yes
+	}
+}
+Hannibal_V_Magonids = {
+	name = Hannibal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Germelqart_I_Magonids
+	5799.1.1 = {
+		birth = yes
+	}
+    5846.1.1 = {
+		death = yes
+	}
+}
+Khilletzbaal_II_Magonids = {
+	name = Khilletzbaal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hannibal_V_Magonids
+	5820.1.1 = {
+		birth = yes
+	}
+    5902.1.1 = {
+		death = yes
+	}
+}
+Hanno_XI_Magonids = {
+	name = Hanno
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hannibal_V_Magonids
+	5840.1.1 = {
+		birth = yes
+	}
+    5900.1.1 = {
+		death = yes
+	}
+}
+Melqartpilles_V_Magonids = {
+	name = Melqartpilles
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hanno_XI_Magonids
+	5866.1.1 = {
+		birth = yes
+	}
+    5912.1.1 = {
+		death = yes
+	}
+}
+Mago_XIV_Magonids = {
+	name = Mago
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Melqartpilles_V_Magonids
+	5890.1.1 = {
+		birth = yes
+	}
+    5940.1.1 = {
+		death = yes
+	}
+}
+Balbazer_III_Magonids = {
+	name = Balbazer
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Mago_XIV_Magonids
+	5915.1.1 = {
+		birth = yes
+	}
+    5960.1.1 = {
+		death = yes
+	}
+}
+Annobaal_II_Magonids = {
+	name = Annobaal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Balbazer_III_Magonids
+	5940.1.1 = {
+		birth = yes
+	}
+    6004.1.1 = {
+		death = yes
+	}
+}
 Melqartpilles_I_Magonids = {
 	name = Melqartpilles
 	dynasty_house = dynasty_house_punic_hannolid
@@ -1840,6 +2388,32 @@ Melqartpilles_I_Magonids = {
 	}
     4970.1.1 = {
 		death = { death_reason = death_vanished } #Vanishes on a southern journey. 
+	}
+}
+Hannibal_VI_Magonids = {
+	name = Hannibal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Annobaal_II_Magonids
+	6000.1.1 = {
+		birth = yes
+	}
+    6060.1.1 = {
+		death = yes
+	}
+}
+161006 = {
+	name = Khilletzbaal
+	dynasty_house = dynasty_house_punic_hannolid
+	faith = hadad
+	culture = carthaginian #phoenician
+	father = Hannibal_VI_Magonids
+	6040.1.1 = {
+		birth = 6040.1.1
+	}
+	6110.1.1 = {
+		death = 6110.1.1
 	}
 }
 #Hannonids

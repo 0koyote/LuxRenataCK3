@@ -12073,18 +12073,6 @@ syriac_abgarid_27 = {
 		death = 6080.1.1
 	}
 }
-161006 = {
-	name = Khilletzbaal
-	dynasty_house = dynasty_house_punic_hannolid
-	faith = hadad
-	culture = carthaginian #phoenician
-	6040.1.1 = {
-		birth = 6040.1.1
-	}
-	6110.1.1 = {
-		death = 6110.1.1
-	}
-}
 161007 = {
 	name = Mamadi
 	dynasty = 1030007
