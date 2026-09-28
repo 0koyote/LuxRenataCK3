@@ -32,6 +32,12 @@ k_titular_ravenna = {
 	}
 }
 
+k_nikaea = {
+	color = { 136 37 120 }
+
+	capital = c_nikaea
+}
+
 k_titular_dioclea = {
 	color = { 25 55 55 }
 	
