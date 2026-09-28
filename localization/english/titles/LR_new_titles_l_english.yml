@@ -438,9 +438,9 @@
  e_sygria: "Sygria"
  e_sygria_adj: "Sygrian"
 
- e_constanid: "Constanid Empire"
- e_constanid_adj: "Constanid"
- e_constanid_article: "the "
+ e_constantinid: "Constantinid Empire"
+ e_constantinid_adj: "Constantinid"
+ e_constantinid_article: "the "
 
  e_brittanic_empire: "Brittanic Empire"
  e_brittanic_empire_adj: "Brittanic"

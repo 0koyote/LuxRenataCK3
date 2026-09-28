@@ -87,7 +87,7 @@ is_decayed_roman_emperor_trigger = {
 		has_title = title:e_spqr
 		has_title = title:e_tadmor
 		has_title = title:e_sygria
-		has_title = title:e_constanid
+		has_title = title:e_constantinid
 	}
 }
 
@@ -121,7 +121,7 @@ is_roman_emperor_primary_title_trigger = {
 		primary_title ?= title:e_gallic_empire
 		primary_title ?= title:e_palmyrene_empire
 		primary_title ?= title:e_brittanic_empire
-		primary_title ?= title:e_constanid
+		primary_title ?= title:e_constantinid
 		primary_title ?= title:e_tadmor
 	}
 }
@@ -135,7 +135,7 @@ is_roman_emperor_primary_title_excluding_byzantium_trigger = {
 		primary_title ?= title:e_palmyrene_empire
 		primary_title ?= title:h_eastern_roman_empire
 		primary_title ?= title:e_brittanic_empire
-		primary_title ?= title:e_constanid
+		primary_title ?= title:e_constantinid
 		primary_title ?= title:e_tadmor
 	}
 }

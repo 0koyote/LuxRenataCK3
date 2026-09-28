@@ -815,7 +815,7 @@ k_petty_danelaw = {
 	}
 }
 
-e_constanid = {
+e_constantinid = {
 	6055.1.1 = {
 		holder = 404
 	}
@@ -928,7 +928,7 @@ k_petty_dumnonia = {
 		holder = 1730177
 	}
 	6055.1.1 = {
-		liege = e_constanid
+		liege = e_constantinid
 		government = roman_administrative_government
 		holder = 404
 	}

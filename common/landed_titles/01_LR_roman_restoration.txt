@@ -382,7 +382,7 @@ e_sygria = {
 	capital = c_vermandois
 }
 
-e_constanid = {
+e_constantinid = {
 	color = { 41 16 125 }
 	capital = c_somerset
 }
