@@ -458,6 +458,10 @@
  h_palmyrene_empire_adj: "Palmyrene"
  h_palmyrene_empire_article: "the "
 
+ e_pontic_empire: "Pontic Empire"
+ e_pontic_empire_adj: "Pontic"
+ e_pontic_empire_article: "the "
+
 #Lux Britain Titles
  k_anglo_saxons: "High Kingdom of England"
  k_anglo_saxons_adj: "Anglish"
