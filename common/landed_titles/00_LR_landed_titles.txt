@@ -12324,6 +12324,11 @@ e_byzantium = {
 	k_hellas = {
 		color = { 0 91 141 }
 		capital = c_attica
+			cultural_names = {
+				name_list_greek = lx_athenai
+				name_list_hellenistic = lx_athenai
+				name_list_roman = lx_athenae
+			}
 
 		ai_primary_priority = {
 			if = {
@@ -12694,6 +12699,12 @@ e_byzantium = {
 		d_thessaly = {
 			color = { 149 188 188 }
 			capital = c_thessalia
+			cultural_names = {
+				name_list_greek = lx_thessalia
+				name_list_hellenistic = lx_thessalia
+				name_list_roman = lx_thessalia
+			}
+			
 
 			c_thessalia = { #Pelasgiotis
 				color = { 133 171 166 }

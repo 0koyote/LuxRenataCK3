@@ -2465,6 +2465,8 @@
  lx_epieros_adj: "Epirote"
  lx_thessalonike: "Thessaloníkē" # Thessaloniki
  lx_thessalonike_adj: "Thessaloníkan"
+ lx_thessalia: "Thessalía"
+ lx_thessalia_adj: "Thessalian"
  lx_perinthos: "Perinthos" # Pirin
  lx_perinthos_adj: "Perinthian"
  lx_melenikon: "Melenikon" # Melnik
@@ -3745,3 +3747,4 @@ lx_thifalia_adj: "Thifalian"
  lx_eranshahr: "Ērānšahr"
  lx_thrake: "Thrākē"
  lx_thrake_adj: "Thrâikes"
+ lx_hellas: "Hellas"
