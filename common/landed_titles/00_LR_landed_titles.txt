@@ -17980,6 +17980,7 @@ e_caspian-pontic_steppe = {
 
 			cultural_names = {
 				name_list_greek = cn_scythia
+				name_list_hellenistic = cn_scythia
 			}
 
 			c_samar = {
@@ -18043,7 +18044,7 @@ e_caspian-pontic_steppe = {
 
 	}
 
-	k_taurica = {
+	k_maeotia = {
 		color = { 5 80 85 }
 		capital = c_tana
 
@@ -18053,6 +18054,7 @@ e_caspian-pontic_steppe = {
 
 			cultural_names = {
 				name_list_greek = cn_southscythia
+				name_list_hellenistic = cn_southscythia
 			}
 
 			c_khortytsia = {
@@ -18060,6 +18062,7 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_hygreis
+					name_list_hellenistic = cn_hygreis
 				}
 
 				b_khortytsia = {
@@ -18088,6 +18091,7 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_oleshia
+					name_list_hellenistic = cn_oleshia
 				}
 
 				b_oleshye = {
@@ -18116,6 +18120,7 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_tmutarakan
+					name_list_hellenistic = cn_tmutarakan
 				}
 
 				b_tmutarakan = {
@@ -18144,6 +18149,7 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_pataroue
+					name_list_hellenistic = cn_pataroue
 				}
 
 				b_yaseni = {
@@ -18167,6 +18173,8 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_paniardis
+					name_list_hellenistic = cn_paniardis
+					
 				}
 
 				b_azov = {
@@ -18199,6 +18207,7 @@ e_caspian-pontic_steppe = {
 
 			cultural_names = {
 				name_list_greek = cn_tanais
+				name_list_hellenistic = cn_tanais
 			}
 
 			c_tana = {
@@ -18206,6 +18215,7 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_tanais
+					name_list_hellenistic = cn_tanais
 				}
 
 				b_tana = {
@@ -18266,6 +18276,7 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_kerkinitis
+					name_list_hellenistic = cn_kerkinitis
 					name_list_russian = cn_kozlov
 				}
 
@@ -18285,6 +18296,7 @@ e_caspian-pontic_steppe = {
 
 				cultural_names = {
 					name_list_greek = cn_scythian_neapolis
+					name_list_hellenistic = cn_scythian_neapolis
 				}
 
 				b_aqmescit = {
