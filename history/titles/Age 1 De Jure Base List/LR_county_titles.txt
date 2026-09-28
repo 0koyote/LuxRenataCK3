@@ -5532,12 +5532,25 @@ c_lower_galatia = {
 }
 
 # C Hadrianopolis
+c_honorias = {
+	6060.1.1 = {
+		liege = d_honorias
+		holder = 66
+	}
+}
+
 c_hadrianopolis = {
 	6060.1.1 = {
 		liege = d_honorias
 		holder = 66
 	}
+}
 
+c_bythinion = {
+	6060.1.1 = {
+		liege = d_honorias
+		holder = 66
+	}
 }
 
 c_helenopontus = {
