@@ -5,7 +5,7 @@
 	monthly_prestige = 0.25
 	monthly_influence = 0.5
 	same_opinion = -15
-	icon = "gfx/interface/icons/traits/trait_augustus_east.dds"
+	icon = "trait_augustus_east.dds"
 	
 	shown_in_ruler_designer = no
 
