@@ -443,7 +443,7 @@ d_optimatoi = {
 }
 k_nikaea = {
 	6066.3.15 = { #warlord startdate
-		liege = k_nikaea
+		liege = 0
 		holder = 2
 		government = roman_administrative_government
 
