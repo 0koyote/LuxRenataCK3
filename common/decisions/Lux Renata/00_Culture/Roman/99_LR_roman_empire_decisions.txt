@@ -566,8 +566,9 @@ merge_pontus_decision = {
 		OR = {
         #culture = { has_cultural_pillar = heritage_byzantine }
         #culture = { has_cultural_pillar = heritage_hellenistic }
-        has_title = title:e_pontus
+		has_title = title:e_pontus
 		has_title = title:e_byzantium
+		top_liege = this
 		}
 		NOR = {
 			title:e_pontus = { is_titular = yes }
