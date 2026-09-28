@@ -196,7 +196,7 @@ k_titular_sarmatia = {
 k_titular_bosporus = {
 	color = { 6 42 127 }
 
-	capital = c_kerch
+	capital = c_tana
 }
 
 k_titular_strathclyde = {
