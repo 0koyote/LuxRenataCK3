@@ -506,14 +506,14 @@ restore_eastern_roman_administration_decision = {
         base = 100
     }
 }
-restore_western_roman_provinces_decision = {
+restore_italia_roman_provinces_decision = {
 	picture = {
 		reference = "gfx/interface/illustrations/loading_screens/load_31.dds"
 	}
 	decision_group_type = roman
 
-	desc = restore_western_roman_provinces_decision_desc
-	selection_tooltip = restore_western_roman_provinces_decision_tooltip
+	desc = restore_italia_roman_provinces_decision_desc
+	selection_tooltip = restore_italia_roman_provinces_decision_tooltip
 
 	is_shown = {
 		is_ruler = yes
@@ -668,7 +668,7 @@ restore_western_roman_provinces_decision = {
 		}
 		prestige_level >= medium_prestige_level
 		custom_description = {
-			text = restore_western_roman_provinces_decision_trigger_1
+			text = restore_italia_roman_provinces_decision_trigger_1
 			subject = root
 			OR = {
 				AND = {
@@ -1150,7 +1150,7 @@ restore_western_roman_provinces_decision = {
 	}
 
 	effect = {
-		custom_tooltip = restore_western_roman_provinces_decision_tooltip_1
+		custom_tooltip = restore_italia_roman_provinces_decision_tooltip_1
 		hidden_effect = {
 			if = {
 				limit = {
@@ -1384,14 +1384,14 @@ restore_western_roman_provinces_decision = {
 		base = 100
 	}
 }
-restore_eastern_roman_provinces_decision = {
+restore_macedonia_roman_provinces_decision = {
 	picture = {
 		reference = "gfx/interface/illustrations/loading_screens/load_31.dds"
 	}
 	decision_group_type = roman
 
-	desc = restore_eastern_roman_provinces_decision_desc
-	selection_tooltip = restore_eastern_roman_provinces_decision_tooltip
+	desc = restore_macedonia_roman_provinces_decision_desc
+	selection_tooltip = restore_macedonia_roman_provinces_decision_tooltip
 
 	is_shown = {
 		is_ruler = yes
@@ -1551,7 +1551,7 @@ restore_eastern_roman_provinces_decision = {
 		}
 		prestige_level >= medium_prestige_level
 		custom_description = {
-			text = restore_eastern_roman_provinces_decision_trigger_01
+			text = restore_macedonia_roman_provinces_decision_trigger_01
 			subject = root
 			OR = {
 				AND = {
@@ -1924,7 +1924,7 @@ restore_eastern_roman_provinces_decision = {
 	}
 
 	effect = {
-		custom_tooltip = restore_eastern_roman_provinces_decision_tooltip_1
+		custom_tooltip = restore_macedonia_roman_provinces_decision_tooltip_1
 		hidden_effect = {
 			if = {
 				limit = {
