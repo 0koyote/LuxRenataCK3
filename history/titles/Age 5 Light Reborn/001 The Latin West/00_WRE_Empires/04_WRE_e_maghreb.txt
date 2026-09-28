@@ -219,8 +219,8 @@ k_carthage = {
     4605.1.1 = {
         holder = Mago_II_Magonids
     }
-    4657.1.1 = {
-        holder = Mago_III
+    4618.1.1 = {
+        holder = Mago_III_Magonids
     }
     4626.1.1 = {
         holder = Hanno_II_Magonids
