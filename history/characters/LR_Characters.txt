@@ -1819,6 +1819,7 @@ desideria_lombards = {
 	trait = education_martial_prowess_3
 	trait = lifestyle_blademaster
 	trait = vengeful
+	trait = petty_caesar
 	father = 1730177
 	6045.1.2 = {
 		birth = 6045.1.2
