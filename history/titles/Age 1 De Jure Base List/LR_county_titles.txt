@@ -5533,6 +5533,10 @@ c_lower_galatia = {
 
 # C Hadrianopolis
 c_hadrianopolis = {
+	6060.1.1 = {
+		liege = d_honorias
+		holder = 66
+	}
 
 }
 

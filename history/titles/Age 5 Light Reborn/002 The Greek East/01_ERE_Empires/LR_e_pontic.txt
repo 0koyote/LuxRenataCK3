@@ -192,10 +192,6 @@ d_paphlagonia = {
 	}
 }
 d_helenopontus = {
-	5867.1.1 = {
-		liege = e_eastern_roman_empire
-		government = roman_administrative_government
-	}
 	6060.1.1 = {
 		liege = k_trebizond
 		holder = 55
