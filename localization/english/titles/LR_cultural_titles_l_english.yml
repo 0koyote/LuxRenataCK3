@@ -3737,7 +3737,7 @@ lx_thifalia_adj: "Thifalian"
  lx_autariata: "Autariata"
  lx_utarritar: "Ütarritar"
  lx_autarrica: "Autarrika"
- lx_melita: "Melita" # Malta
+ lx_melita: "Melita" #Malta
  lx_melita_adj: "Melitan"
 
  lx_pergamon: "Pérgamon"
