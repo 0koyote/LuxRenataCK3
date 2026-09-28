@@ -15,6 +15,9 @@
 		holder = 1710541
 		liege = 0
 	}
+	4965.1.1 = {
+		holder = 0
+	}
 }
 k_pontus = {
 	5867.1.1 = { change_development_level = 5 }
@@ -55,7 +58,7 @@ k_pontus = {
 	}
 	4954.1.1 = {
 		holder = 1710541
-		liege = 0
+		liege = e_pontus
 	}
 	4965.1.1 = {
 		holder = 1710540
