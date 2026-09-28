@@ -177,6 +177,13 @@ k_pontus = {
 		#}		
 	}
 }
+d_honorias = {
+	6060.1.1 = {
+		liege = k_pontus
+		holder = 66
+		government = alexandrian_administrative_government
+	}
+}
 d_paphlagonia = {
 	6060.1.1 = {
 		liege = k_pontus
@@ -305,6 +312,14 @@ d_sebasteia = {
 		government = roman_administrative_government
 	}
 }
+
+d_karin = {
+	6060.1.1 = {
+		liege = k_trebizond
+		holder = 1710353
+	}
+}
+
 k_pontic_steppe = {
 	5867.1.1 = { change_development_level = 2 }
 	6066.1.1 = { change_development_level = 3 }
