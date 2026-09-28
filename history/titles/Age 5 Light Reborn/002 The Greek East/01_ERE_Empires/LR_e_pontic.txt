@@ -187,7 +187,7 @@ d_honorias = {
 d_paphlagonia = {
 	6060.1.1 = {
 		liege = k_galatia
-		holder = 54
+		holder = 66
 		government = classical_government
 	}
 }

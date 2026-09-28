@@ -854,7 +854,7 @@ d_cappadocia = {
 		holder = 1710269
 	}
 	6060.1.1 = {
-		holder = 53
+		holder = 54
 		liege = k_galatia
 		government = classical_government
 	}
