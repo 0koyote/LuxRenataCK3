@@ -168,6 +168,13 @@ restore_western_roman_provinces_system_decision_effect = {
 		title:e_praetorian_prefecture_illyricum = { set_de_jure_liege_title = title:h_western_roman_empire }	
 	}
 	else_if = { 
+		limit = { exists = title:e_spqr.holder }
+		title:k_diocese_illyricum = { set_de_jure_liege_title = title:e_spqr }
+		title:k_diocese_dardania = { set_de_jure_liege_title = title:e_spqr }
+		title:k_diocese_italia_annonaria = { set_de_jure_liege_title = title:e_spqr }
+		title:k_diocese_italia_suburbicaria = { set_de_jure_liege_title = title:e_spqr }
+	}
+	else_if = { 
 		limit = { exists = title:e_western_roman_empire.holder }
 		title:k_diocese_illyricum = { set_de_jure_liege_title = title:e_western_roman_empire }
 		title:k_diocese_dardania = { set_de_jure_liege_title = title:e_western_roman_empire }
