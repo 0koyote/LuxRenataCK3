@@ -17974,6 +17974,71 @@ e_caspian-pontic_steppe = {
 				}
 			}
 		}
+		d_levedia = {
+			color = { 78 31 4 }
+			capital = c_samar
+
+			cultural_names = {
+				name_list_greek = cn_scythia
+			}
+
+			c_samar = {
+				color = { 63 14 3 }
+
+				b_samar = {
+					color = { 63 14 3 }
+					province = 556
+				}
+
+				b_karlivka = {
+					color = { 63 14 3 }
+					province = 5282
+				}
+
+				b_kharka = {
+					color = { 63 14 3 }
+					province = 565
+				}
+
+				b_bohodukhiv = {
+					color = { 63 14 3 }
+					province = 5283
+				}
+			}
+
+			c_bakhmut = {
+				color = { 78 31 4 }
+
+				b_bakhmut = {
+					color = { 78 31 4 }
+					province = 564
+				}
+
+				b_tor = {
+					color = { 78 31 4 }
+					province = 5322
+				}
+
+				b_volcha = {
+					color = { 78 31 4 }
+					province = 5323
+				}
+			}
+
+			c_lozova = {
+				color = { 91 48 8 }
+
+				b_lozova = {
+					color = { 91 48 8 }
+					province = 5320
+				}
+
+				b_pokrovsk = {
+					color = { 91 48 8 }
+					province = 5321
+				}
+			}
+		}
 
 
 	}
@@ -18041,71 +18106,7 @@ e_caspian-pontic_steppe = {
 				}
 			}
 		}
-		d_levedia = {
-			color = { 78 31 4 }
-			capital = c_samar
 
-			cultural_names = {
-				name_list_greek = cn_scythia
-			}
-
-			c_samar = {
-				color = { 63 14 3 }
-
-				b_samar = {
-					color = { 63 14 3 }
-					province = 556
-				}
-
-				b_karlivka = {
-					color = { 63 14 3 }
-					province = 5282
-				}
-
-				b_kharka = {
-					color = { 63 14 3 }
-					province = 565
-				}
-
-				b_bohodukhiv = {
-					color = { 63 14 3 }
-					province = 5283
-				}
-			}
-
-			c_bakhmut = {
-				color = { 78 31 4 }
-
-				b_bakhmut = {
-					color = { 78 31 4 }
-					province = 564
-				}
-
-				b_tor = {
-					color = { 78 31 4 }
-					province = 5322
-				}
-
-				b_volcha = {
-					color = { 78 31 4 }
-					province = 5323
-				}
-			}
-
-			c_lozova = {
-				color = { 91 48 8 }
-
-				b_lozova = {
-					color = { 91 48 8 }
-					province = 5320
-				}
-
-				b_pokrovsk = {
-					color = { 91 48 8 }
-					province = 5321
-				}
-			}
-		}
 		d_azov = {
 			color = { 145 92 34 }
 			capital = c_tmutarakan
