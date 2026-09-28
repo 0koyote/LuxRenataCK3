@@ -377,7 +377,7 @@ h_gallic_empire = {
 	
 }
 
-e_sygria = {
+e_syagria = {
 	color = { 20 168 32 }
 	capital = c_vermandois
 }

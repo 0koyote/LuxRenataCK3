@@ -86,14 +86,14 @@ is_decayed_roman_emperor_trigger = {
 		has_title = title:e_byzantium
 		has_title = title:e_spqr
 		has_title = title:e_tadmor
-		has_title = title:e_sygria
+		has_title = title:e_syagria
 		has_title = title:e_constantinid
 	}
 }
 
 is_decayed_roman_emperor_excluding_byzantium_trigger = {
 	OR = {
-		has_title = title:e_sygria
+		has_title = title:e_syagria
 		has_title = title:e_spqr
 		has_title = title:e_tadmor
 	}

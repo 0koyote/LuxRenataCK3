@@ -1552,7 +1552,7 @@ d_orleans = {
 		government = western_feudal_government
 	}
 }
-e_sygria = {
+e_syagria = {
 	6066.3.15 = {
 		holder = 234
 		liege = 0
@@ -1562,7 +1562,7 @@ e_sygria = {
 d_soissons = {
 	6066.3.15 = {
 		holder = 234
-		liege = e_sygria
+		liege = e_syagria
 		government = roman_administrative_government
 	}
 }
