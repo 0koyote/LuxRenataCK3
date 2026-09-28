@@ -395,6 +395,11 @@ h_gallic_empire = {
 	
 }
 
+e_sygria = {
+	color = { 20 168 32 }
+	capital = c_vermandois
+}
+
 k_diocese_hibernia = {
 	color = { 94 138 22 }
 
