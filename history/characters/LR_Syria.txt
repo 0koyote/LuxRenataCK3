@@ -1945,7 +1945,7 @@ Khamelqart_II_Magonids = {
 		birth = yes
 	}
     5168.1.1 = {
-		death = yes
+		death = { death_reason = death_crucified killer = Yehawwielon_I_Ahirom }
 	}
 }
 Mago_VII_Magonids = {
@@ -2832,7 +2832,7 @@ Hannibal_VII_Barca = {
 	5146.1.1 = {
 		birth = yes
 	}
-	5201.1.1 = {
+	5204.1.1 = {
 		death = yes
 	}
 }
@@ -3436,5 +3436,43 @@ Yehawwielon_I_Ahirom = {
 	}
 	5178.1.1 = {
 		death = { death_reason = death_burned_by_mob }
+	}
+}
+#Philosirid
+Philosir_I_Philosirid = {
+	name = Philosir
+	faith = hadad
+	dynasty = dynasty_punic_philosirid
+	culture = carthaginian #phoenician
+	5269.1.1 = {
+		birth = yes
+	}
+	5330.1.1 = {
+		death = yes
+	}
+}
+KhimilKt_I_Philosirid = {
+	name = KhimilKt
+	faith = hadad
+	dynasty = dynasty_punic_philosirid
+	culture = carthaginian #phoenician
+	5300.1.1 = {
+		birth = yes
+	}
+	5361.1.1 = {
+		death = yes
+	}
+}
+#Baalid
+BaAl_I_Baalid = {
+	name = BaAl
+	faith = hadad
+	dynasty = dynasty_punic_baalid
+	culture = carthaginian #phoenician
+	5289.1.1 = {
+		birth = yes
+	}
+	5354.1.1 = {
+		death = yes
 	}
 }

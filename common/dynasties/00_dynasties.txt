@@ -17773,9 +17773,21 @@ dynasty_punic_ahirom = {
 	name = "dynn_Ahirom"
 	culture = carthaginian
 }
+dynasty_punic_philosirid = {
+	name = "dynn_Philosirid"
+	culture = carthaginian
+}
+dynasty_punic_baalid = {
+	name = "dynn_Baalid"
+	culture = carthaginian
+}
 dynasty_gambia_Lixitae = {
 	name = "dynn_Lixitae"
 	culture = wolof
+}
+dynasty_guinea_kade = {
+	name = "dynn_Kade"
+	culture = mel
 }
 dynasty_persian_jannabi = {
 	name = "dynn_al-Jannabi"
