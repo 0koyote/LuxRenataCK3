@@ -1,0 +1,56 @@
+﻿king_male_punic = {
+	type = character
+	special = holder
+	gender = male
+	tier = kingdom
+	priority = 47
+	heritages = { heritage_phoenician }
+	flavourization_rules = {
+		spouse_takes_title = no
+	}
+}
+king_female_punic = {
+	type = character
+	special = holder
+	gender = female
+	tier = kingdom
+	priority = 47
+	heritages = { heritage_phoenician }
+	flavourization_rules = {
+		spouse_takes_title = no
+	}
+}
+emperor_male_punic = {
+	type = character
+	special = holder
+	gender = male
+	tier = empire
+	priority = 47
+	heritages = { heritage_phoenician }
+	flavourization_rules = {
+		spouse_takes_title = no
+	}
+}
+emperor_female_punic = {
+	type = character
+	special = holder
+	gender = female
+	tier = empire
+	priority = 47
+	heritages = { heritage_phoenician }
+	flavourization_rules = {
+		spouse_takes_title = no
+	}
+}
+kingdom_punic_land = {
+	type = title
+	tier = kingdom
+	priority = 47
+	heritages = { heritage_phoenician }
+}
+empire_punic_land = {
+	type = title
+	tier = empire
+	priority = 47
+	heritages = { heritage_phoenician }
+}
