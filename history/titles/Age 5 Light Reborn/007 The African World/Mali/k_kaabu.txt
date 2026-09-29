@@ -66,6 +66,63 @@
 		holder = Yehawwielon_I_Ahirom
 	}
 	5178.1.1 = {
+		holder = Mago_VII_Magonids
+	}
+	5202.1.1 = {
+		holder = Hannibal_VII_Barca
+	}
+	5204.1.1 = {
+		holder = Melqartpilles_II_Magonids
+	}
+	5234.1.1 = {
+		holder = Mago_VIII_Magonids
+	}
+	5268.1.1 = {
+		holder = Mago_IX_Magonids
+	}
+	5271.1.1 = {
+		holder = Baalhanno_II_Magonids
+	}
+	5301.1.1 = {
+		holder = Melqartpilles_III_Magonids
+	}
+	5304.1.1 = {
+		holder = Hannibal_VIII_Barca
+	}
+	5311.1.1 = {
+		holder = Melqartpilles_III_Magonids
+	}
+	5326.1.1 = {
+		holder = Philosir_I_Philosirid
+	}
+	5330.1.1 = {
+		holder = BaAl_I_Baalid
+	}
+	5354.1.1 = {
+		holder = KhimilKt_I_Philosirid
+	}
+	5361.1.1 = {
+		holder = Cammue_I_Kade
+	}
+	5390.1.1 = {
+		holder = Konah_I_Manon
+	}
+	5425.1.1 = {
+		holder = Sao_II_Manon
+	}
+	5444.1.1 = {
+		holder = Hanno_I_Barca
+	}
+	5460.1.1 = {
+		holder = Gersakkun_I_Magonids
+	}
+	5490.1.1 = {
+		holder = Bomilcar_II_Magonids
+	}
+	5510.1.1 = {
+		holder = Haspar_III_Barca
+	}
+	5518.1.1 = {
 		holder = 0
 	}
 	5866.1.1 = {
