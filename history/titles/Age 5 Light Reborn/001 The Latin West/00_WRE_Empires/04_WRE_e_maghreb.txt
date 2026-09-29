@@ -216,13 +216,16 @@ k_carthage = {
     4591.1.1 = {
         holder = Hannibal_I_Magonids
     }
+    4595.1.1 = {
+        holder = Himilco_II_Magonids
+    }
     4605.1.1 = {
         holder = Mago_II_Magonids
     }
-    4657.1.1 = {
-        holder = Mago_III
-    }
     4626.1.1 = {
+        holder = Mago_III_Magonids
+    }
+    4657.1.1 = {
         holder = Hanno_II_Magonids
     }
     4661.1.1 = {

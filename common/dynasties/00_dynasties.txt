@@ -17765,6 +17765,18 @@ dynasty_punic_baalseer = {
 	name = "dynn_Baalseer"
 	culture = carthaginian
 }
+dynasty_punic_gisgo = {
+	name = "dynn_Gisgo"
+	culture = carthaginian
+}
+dynasty_punic_ahirom = {
+	name = "dynn_Ahirom"
+	culture = carthaginian
+}
+dynasty_gambia_Lixitae = {
+	name = "dynn_Lixitae"
+	culture = wolof
+}
 dynasty_persian_jannabi = {
 	name = "dynn_al-Jannabi"
 	culture = persian

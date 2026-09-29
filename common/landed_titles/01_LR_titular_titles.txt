@@ -604,3 +604,8 @@ k_kamakura_league = {
 	can_be_named_after_dynasty = no
 	capital = c_musashi
 }
+k_cerne = {
+	color = { 40 1 24 }
+	can_be_named_after_dynasty = no
+	capital = c_kasa
+}

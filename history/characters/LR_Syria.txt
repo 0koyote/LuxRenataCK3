@@ -1591,7 +1591,7 @@ Mago_II_Magonids = {
 	4586.1.1 = {
 		birth = yes
 	}
-    4657.1.1 = {
+    4626.1.1 = {
 		death = yes
 	}
 }
@@ -1601,10 +1601,10 @@ Mago_III_Magonids = {
 	faith = palmyran_pagan
 	culture = carthaginian #phoenician
 	father = Mago_II_Magonids
-	4600.1.1 = {
+	4602.1.1 = {
 		birth = yes
 	}
-    4626.1.1 = {
+    4657.1.1 = {
 		death = yes
 	}
 }
@@ -3384,5 +3384,57 @@ Gersakkun_I_Baalseer = {
 	}
 	5010.1.1 = {
 		death = { death_reason = death_suicide }
+	}
+}
+#Gisgo
+Gersakkun_I_Gisgo = {
+	name = Gersakkun  
+	faith = hadad
+	dynasty = dynasty_punic_gisgo
+	culture = carthaginian #phoenician
+	4980.1.1 = {
+		birth = yes
+	}
+	5045.1.1 = {
+		death = yes
+	}
+}
+Bomilcar_I_Gisgo = {
+	name = Bomilcar  
+	faith = hadad
+	dynasty = dynasty_punic_gisgo
+	culture = carthaginian #phoenician
+	father = Gersakkun_I_Gisgo
+	5010.1.1 = {
+		birth = yes
+	}
+	5060.1.1 = {
+		death = yes
+	}
+}
+#Ahirom
+Danel_I_Ahirom = {
+	name = Danel  
+	faith = hadad
+	dynasty = dynasty_punic_ahirom
+	culture = carthaginian #phoenician
+	give_nickname = nick_the_young
+	5100.1.1 = {
+		birth = yes
+	}
+	5160.1.1 = {
+		death = yes
+	}
+}
+Yehawwielon_I_Ahirom = {
+	name = Yehawwielon  
+	faith = palmyran_pagan
+	dynasty = dynasty_punic_ahirom
+	culture = carthaginian #phoenician
+	5116.1.1 = {
+		birth = yes
+	}
+	5178.1.1 = {
+		death = { death_reason = death_burned_by_mob }
 	}
 }

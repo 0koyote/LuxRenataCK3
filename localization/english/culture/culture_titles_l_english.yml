@@ -1449,3 +1449,11 @@
  empire_celestial_chinese_independent: "Huángcháo" # 皇朝
 
  hegemony_celestial_chinese_independent: "Tiāntíng" # 皇朝
+
+#Punic
+king_male_punic: "Sophet"
+king_female_punic: "Sophet"
+emperor_male_punic: "Melek"
+emperor_female_punic: "Milkat"
+kingdom_punic_land: "Sophetate"
+empire_punic_land: "Memleket"

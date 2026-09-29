@@ -1,5 +1,58 @@
 ﻿name_list_carthaginian = {
-    #To do: Dynasties.
+
+	cadet_dynasty_names = {
+		"dynn_Abbarid"
+		"dynn_Adonibaal"
+		"dynn_Ahirom"
+		"dynn_Baalhannid"
+		"dynn_Baalid"
+		"dynn_Barca"
+		"dynn_Bodona"
+		"dynn_Bostara"
+		"dynn_Chelbesid"
+		"dynn_Eshbaalid"
+		"dynn_Eugorid"
+		"dynn_Hannid"
+		"dynn_Hiramid"
+		"dynn_Mago"
+		"dynn_Mattanid"
+		"dynn_Metallid"
+		"dynn_Milkiramid"
+		"dynn_Philosirid"
+		"dynn_Gisgo"
+		"dynn_Gerbalid"
+		"dynn_Hammid"
+		"dynn_Eugarid"
+		"dynn_Mashhid"
+		"dynn_Ummashid"
+	}
+	dynasty_names = {
+		"dynn_Abbarid"
+		"dynn_Adonibaal"
+		"dynn_Ahirom"
+		"dynn_Baalhannid"
+		"dynn_Baalid"
+		"dynn_Barca"
+		"dynn_Bodona"
+		"dynn_Bostara"
+		"dynn_Chelbesid"
+		"dynn_Eshbaalid"
+		"dynn_Eugorid"
+		"dynn_Hannid"
+		"dynn_Hiramid"
+		"dynn_Mago"
+		"dynn_Mattanid"
+		"dynn_Metallid"
+		"dynn_Milkiramid"
+		"dynn_Philosirid"
+		"dynn_Gisgo"
+		"dynn_Gerbalid"
+		"dynn_Hammid"
+		"dynn_Eugarid"
+		"dynn_Mashhid"
+		"dynn_Ummashid"
+	}
+
 	male_names = {
 		Abbar Abdmelqart Adonibaal Agbal Ahirom Azimilik BaAl Balbazer Baalhanno Bodashtart Bodo Bodmelqart Bomilcar Bostar Boulomenus Carthalo Chelbes 
 		Eshbaal Eugoras Germelqart Hamilcar Hannibal Hanno Hasdrubal Himilco Hiram Mago Maharbal Mattan Metallo Milkherem Milkiram 
