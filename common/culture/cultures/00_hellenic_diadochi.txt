@@ -65,17 +65,17 @@ perso_hellenistic = {
 	}
 
 	dlc_tradition = {
-		trait = tradition_imperial_polygamy
+		trait = lux_tradition_imperial_polygamy
 		requires_dlc_flag = roads_to_power
 		fallback = tradition_byzantine_succession
 	}	
 	dlc_tradition = {
-		trait = tradition_imperial_splendour
+		trait = lux_tradition_persian_splendour
 		requires_dlc_flag = roads_to_power
 		fallback = tradition_legalistic
 	}
 	dlc_tradition = {
-		trait = tradition_slave_soldiers
+		trait = lux_tradition_slave_soldiers
 		requires_dlc_flag = roads_to_power
 		fallback = tradition_futuwaa
 	}
@@ -106,12 +106,12 @@ perso_hellenistic = {
 	coa_gfx = { byzantine_group_coa_gfx }
 	#building_gfx = { hellenic_building_gfx }
 	building_gfx = { iranian_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx hellenistic_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	house_coa_frame = house_frame_05
 	
 	ethnicities = {
-		10 = mediterranean_byzantine
+		10 = hellenic
 	}
 }
 
@@ -164,7 +164,7 @@ egyptian_hellenistic = {
 	house_coa_frame = house_frame_05
 	
 	ethnicities = {
-		10 = mediterranean_byzantine
+		10 = hellenic
 	}
 }
 
@@ -187,7 +187,7 @@ syrian_hellenistic = {
 	}
 	
 	dlc_tradition = {
-		trait = tradition_imperial_splendour
+		trait = lux_tradition_persian_splendour
 		requires_dlc_flag = roads_to_power
 		fallback = tradition_legalistic
 	}
@@ -218,7 +218,7 @@ syrian_hellenistic = {
 	house_coa_frame = house_frame_05
 	
 	ethnicities = {
-		10 = mediterranean_byzantine
+		10 = hellenic
 	}
 }
 
@@ -239,17 +239,17 @@ arab_hellenistic = {
 	}
 
 	dlc_tradition = {
-		trait = tradition_imperial_polygamy
+		trait = lux_tradition_imperial_polygamy
 		requires_dlc_flag = roads_to_power
 		fallback = tradition_byzantine_succession
 	}	
 	dlc_tradition = {
-		trait = tradition_imperial_splendour
+		trait = lux_tradition_persian_splendour
 		requires_dlc_flag = roads_to_power
 		fallback = tradition_legalistic
 	}
 	dlc_tradition = {
-		trait = tradition_slave_soldiers
+		trait = lux_tradition_slave_soldiers
 		requires_dlc_flag = roads_to_power
 		fallback = tradition_futuwaa
 	}
@@ -281,12 +281,12 @@ arab_hellenistic = {
 	#building_gfx = { hellenic_building_gfx }
 	coa_gfx = { arabic_group_coa_gfx } 
 	building_gfx = { arabic_group_building_gfx mena_building_gfx } 
-	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx } 
+	clothing_gfx = { dde_abbasid_clothing_gfx mena_clothing_gfx hellenistic_clothing_gfx } 
 	unit_gfx = { eastern_unit_gfx } 
 	house_coa_frame = house_frame_05
 	
 	ethnicities = {
-		10 = mediterranean_byzantine
+		10 = hellenic
 	}
 }
 
@@ -325,12 +325,12 @@ hebrew_hellenistic = {
 
 	coa_gfx = { israelite_group_coa_gfx }
 	building_gfx = { mena_building_gfx }
-	clothing_gfx = { byzantine_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { byzantine_clothing_gfx mena_clothing_gfx hellenistic_clothing_gfx }
 	unit_gfx = { mena_unit_gfx }
 	house_coa_frame = house_frame_05
 
 	ethnicities = {
-		10 = mediterranean_byzantine
+		10 = hellenic
 	}
 }
 cimmerian_hellenistic = {
@@ -368,11 +368,11 @@ cimmerian_hellenistic = {
 	
 	coa_gfx = { byzantine_group_coa_gfx }
 	building_gfx = { steppe_building_gfx }
-	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx }
+	clothing_gfx = { iranian_clothing_gfx mena_clothing_gfx hellenistic_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	house_coa_frame = house_frame_05
 	
 	ethnicities = {
-		10 = mediterranean_byzantine
+		10 = hellenic
 	}
 }

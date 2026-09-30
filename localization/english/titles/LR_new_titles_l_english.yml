@@ -3,6 +3,15 @@
  h_terra_incognita_adj: "Unknown"
  h_terra_incognita_article: "the "
  
+
+ #Roman Kingdom
+ k_roman_kingdom: "Roman Kingdom"
+ k_roman_kingdom_adj: "Roman"
+ k_roman_kingdom_article: "the "
+
+ d_alba_longa: "Alba Longa"
+ d_alba_longa_adj: "Alba Longan"
+ d_alba_longa_article: "the "
  #Roman Republic
  h_roman_republic: "Roman Republic"
  h_roman_republic_adj: "Roman"
@@ -40,6 +49,10 @@
  h_western_roman_empire_article: "the "
  h_western_roman_empire: "Western Roman Empire"
  h_western_roman_empire_adj: "Western Roman"
+
+ e_western_roman_empire: "Western Roman Empire"
+ e_western_roman_empire_article: "the "
+ e_western_roman_empire_adj: "Western Roman"
  
  h_western_roman_empire_latin: "Imperium Romanum Pars Occidentalis"
  h_western_roman_empire_latin_adj: "Western Roman"
@@ -264,6 +277,9 @@
  k_diocese_moesia: "Moesia"
  k_diocese_moesia_adj: "Moesian"
 
+ k_diocese_macedonia: "Macedonia"
+ k_diocese_macedonia_adj: "Macedonian"
+
  k_diocese_asia: "Asia"
  k_diocese_asia_adj: "Asian"
 
@@ -306,6 +322,9 @@
  h_eastern_roman_empire: "Eastern Roman Empire"
  h_eastern_roman_empire_adj: "Roman"
  h_eastern_roman_empire_pre: "Romano"
+ e_eastern_roman_empire: "Eastern Roman Empire"
+ e_eastern_roman_empire_article: "the "
+ e_eastern_roman_empire_adj: "Eastern Roman"
 
  h_eastern_roman_empire_latin_article: "the "
  h_eastern_roman_empire_latin: "Imperium Romanum Pars Orientalis"
@@ -397,7 +416,7 @@
  d_philippopolis_adj: "Odryssian"
  k_macedonia: "Makedonía"
  k_macedonia_adj: "Makedonían"
- e_pontus: "Pontus"
+ e_pontus: "Pontic Empire"
  e_pontus_adj: "Pontic"
  e_pontus_article: "the "
  d_turnovo: "Paristrion"
@@ -410,6 +429,38 @@
  k_palmyra_adj: "Palmyrene"
  k_antiochia: "Antiochia"
  k_antiochia_adj: "Antiochian"
+ k_damascus: "Aram"
+ k_damascus_adj: "Aramaic"
+
+ e_tadmor: "Tadmor"
+ e_tadmor_adj: "Tadmorian"
+
+ e_syagria: "Syagria"
+ e_syagria_adj: "Syagrian"
+
+ e_constantinid: "Constantinid Empire"
+ e_constantinid_adj: "Constantinid"
+ e_constantinid_article: "the "
+
+ e_brittanic_empire: "Brittanic Empire"
+ e_brittanic_empire_adj: "Brittanic"
+ e_brittanic_empire_article: "the "
+
+ h_brittanic_empire: "Brittanic Empire"
+ h_brittanic_empire_adj: "Brittanic"
+ h_brittanic_empire_article: "the "
+ 
+ e_palmyrene_empire: "Palmyrene Empire"
+ e_palmyrene_empire_adj: "Palmyrene"
+ e_palmyrene_empire_article: "the "
+
+ h_palmyrene_empire: "Palmyrene Empire"
+ h_palmyrene_empire_adj: "Palmyrene"
+ h_palmyrene_empire_article: "the "
+
+ e_pontic_empire: "Pontic Empire"
+ e_pontic_empire_adj: "Pontic"
+ e_pontic_empire_article: "the "
 
 #Lux Britain Titles
  k_anglo_saxons: "High Kingdom of England"
@@ -641,30 +692,6 @@
  e_bengal_adj: "Bengali"
  e_bengal_article: "the "
 
- #Lux Greek India
-
- h_greek_india: "Basileia Indikē"
- h_greek_india_adj: "Indo-Hellenic"
- h_greek_india_article: "the "
-
- e_pentapotamia: "Pentapotamia"
- e_pentapotamia_adj: "Pentapotamian"
- e_pentapotamia_article: "the "
-
- k_gandhara:0 "Gandhara"
- k_gandhara_adj:0 "Gandharan"
-
- k_arachosia:0 "Arachosia"
- k_arachosia_adj:0 "Arachosian"
-
- k_taxila:0 "Taxila"
- k_taxila_adj:0 "Taxilan"
-
- k_gedrosia:0 "Gedrosia"
- k_gedrosia_adj:0 "Gedrosian"
-
- d_turan:0 "Turan"
- d_turan_adj:0 "Turanian"
 
  #Lux China
 

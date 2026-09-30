@@ -2,20 +2,8 @@
 	6060.1.1 = {
 		holder = 501 # Trajan
 		liege = e_spqr
-		government = subroman_administrative_government
+		government = roman_administrative_government
 		succession_laws = { noble_family_succession_law }
-		effect = {
-			if = {
-				limit = {
-					exists = holder
-					NOT = { has_dlc_feature = all_under_heaven }
-				}
-				holder = {
-					change_government = classical_government
-					add_realm_law_skip_effects = single_heir_succession_law
-				}
-			}		
-		}		
 		}
 		6067.9.15 = {
 			effect = {
@@ -27,7 +15,7 @@ c_nf_aurelius = {
 	6060.1.1 = {
 		holder = 280 # Sol Christ Aurelius
 		liege = k_venice
-		government = subroman_administrative_government
+		government = roman_administrative_government
 		succession_laws = { noble_family_succession_law }
 		
 		}
@@ -41,7 +29,7 @@ c_nf_augustus = {
 	6060.1.1 = {
 		holder = 29 # Augustus Larp
 		liege = k_titular_naples
-		government = subroman_administrative_government
+		government = roman_administrative_government
 		succession_laws = { noble_family_succession_law }
 		
 		}
@@ -56,7 +44,7 @@ c_nf_honorius = {
 	6065.1.1 = {
 		liege = k_titular_ravenna
 		holder = 274 # Honorius
-		government = subroman_administrative_government
+		government = roman_administrative_government
 		succession_laws = { noble_family_succession_law }
 		
 		}
@@ -71,7 +59,7 @@ c_nf_arcadius = {
 	6065.1.1 = {
 		liege = k_titular_etruria
 		holder = "NerissaArcadia" # Arcadius
-		government = subroman_administrative_government
+		government = roman_administrative_government
 		succession_laws = { noble_family_succession_law }
 		
 		}

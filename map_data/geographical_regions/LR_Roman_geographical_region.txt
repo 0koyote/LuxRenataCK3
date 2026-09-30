@@ -4,7 +4,42 @@
 	}
 }
 
-custom_roman_moesia = {
+custom_roman_italia_annonaria = {
+	duchies = {
+		d_carinthia
+		d_genoa
+		d_piedmonte
+		d_lombardia
+		d_emilia
+		d_flaminia
+		d_verona
+		d_tyrol
+		d_histria
+		d_venice
+		#d_krain
+
+	}
+}
+
+custom_roman_italia_suburbicaria = {
+	duchies = {
+		d_toscana
+		d_pisa
+		d_ancona
+		d_valeria
+		d_samnium
+		#d_latium
+		d_salerno
+		d_sicily
+		d_calabria
+		d_corsica
+		d_capua
+		d_apulia
+		d_sardinia
+	}
+}
+
+custom_roman_macedonia = {
 	duchies = {
 		d_krete
 		d_achaia
@@ -27,7 +62,7 @@ custom_roman_thracia = {
 		d_dobrudja
 		d_philippopolis
 		d_strymon
-		#d_thrace #I know its fucked up
+		d_thrace #I know its fucked up
 		d_macedonia
 
 	}
@@ -45,7 +80,7 @@ custom_roman_armenia = {
 custom_roman_prefecture_macedonia = {
 	regions = {
 		custom_roman_thracia
-		custom_roman_moesia
+		custom_roman_macedonia
 	}
 }
 
@@ -176,40 +211,7 @@ custom_roman_court_title_constantinople_empire = {
 	}
 }
 
-custom_roman_italia_annonaria = {
-	duchies = {
-		d_carinthia
-		d_genoa
-		d_piedmonte
-		d_lombardia
-		d_emilia
-		d_flaminia
-		d_verona
-		d_tyrol
-		d_histria
-		d_venice
-		#d_krain
 
-	}
-}
-
-custom_roman_italia_suburbicaria = {
-	duchies = {
-		d_toscana
-		d_pisa
-		d_ancona
-		d_valeria
-		d_samnium
-		#d_latium
-		d_salerno
-		d_sicily
-		d_calabria
-		d_corsica
-		d_capua
-		d_apulia
-		d_sardinia
-	}
-}
 custom_roman_noricum = {
 	duchies = {
 		d_steyermark
@@ -543,13 +545,12 @@ custom_roman_pontus = {
 	}
 }
 
-custom_eastern_imperial_core = {
+custom_eastern_roman_imperial_core = {
 	regions = {
 		custom_roman_thracia
-		custom_roman_moesia
+		custom_roman_macedonia
 		custom_roman_asia
 		custom_roman_pontus
-		custom_roman_court_title_constantinople
 	}
 }
 
@@ -571,7 +572,7 @@ custom_eastern_roman_empire = {
 	}
 }
 
-custom_western_imperial_core = {
+custom_western_roman_imperial_core = {
 	regions = {
 		custom_roman_italia_annonaria
 		custom_roman_italia_suburbicaria

@@ -1,9 +1,27 @@
-﻿bm_Lux_Invicta_warlords = {
+﻿@bookmark_autokrator_argeadai_2_icon = "gfx/interface/bookmarks/bm_Lux_Invicta_warlords_bookmark_autokrator_byzantium.dds"
+
+bm_Lux_Invicta_warlords = {
 	start_date = 6066.9.26
 	is_playable = yes
 	group = bm_group_Lux_Invicta
 
 	weight = { value = 150 }
 
+	character = {
+		name = "bookmark_autokrator_argeadai_2"
+		dynasty = dynasty_roman_julio_argeadai
+		dynasty_splendor_level = 3
+		type = male
+		birth = 6045.1.1
+		title = e_byzantium
+		government = roman_administrative_government
+		culture = greek
+		rite = sol_imperial
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 71
+		position = { 375 375 }
+
+		animation = map_schadenfreude
+	}
 	
 }

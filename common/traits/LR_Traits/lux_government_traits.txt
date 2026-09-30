@@ -1,0 +1,24 @@
+﻿petty_caesar = {
+	
+	vassal_opinion = 5
+	category = fame
+	monthly_prestige = 0.25
+	monthly_influence = 0.5
+	same_opinion = -15
+	icon = "trait_augustus_east.dds"
+	
+	shown_in_ruler_designer = no
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_petty_caesar_desc
+			}
+			desc = trait_petty_caesar_character_desc
+		}
+	}
+}
+

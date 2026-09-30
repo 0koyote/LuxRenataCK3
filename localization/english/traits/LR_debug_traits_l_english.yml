@@ -3,3 +3,7 @@
  trait_setup_flag_opening_event_desc: ""
  trait_setup_flag_story_content: ""
  trait_setup_flag_story_content_desc: ""
+
+ trait_petty_caesar: "Petty Caesar"
+ trait_petty_caesar_desc: "A ruler who fancies themselves a small-scale Caesar, gaining modest prestige and influence but suffering from the disapproval of like-minded peers."
+ trait_petty_caesar_character_desc:0 "[ROOT.Char.GetSheHe|U] wears a tattered purple, with delusions of granduer. Or Perhaps something greater."

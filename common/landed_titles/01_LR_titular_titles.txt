@@ -32,6 +32,12 @@ k_titular_ravenna = {
 	}
 }
 
+k_nikaea = {
+	color = { 136 37 120 }
+
+	capital = c_nikaea
+}
+
 k_titular_dioclea = {
 	color = { 25 55 55 }
 	
@@ -190,7 +196,7 @@ k_titular_sarmatia = {
 k_titular_bosporus = {
 	color = { 6 42 127 }
 
-	capital = c_kerch
+	capital = c_tana
 }
 
 k_titular_strathclyde = {
@@ -603,4 +609,9 @@ k_kamakura_league = {
 	color = { 255 201 14 }
 	can_be_named_after_dynasty = no
 	capital = c_musashi
+}
+k_cerne = {
+	color = { 40 1 24 }
+	can_be_named_after_dynasty = no
+	capital = c_kasa
 }

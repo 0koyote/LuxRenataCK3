@@ -477,3 +477,11 @@ dynasty_house_kephaides = {
 	name = "dynn_Kephaides"
 	dynasty = dynasty_zeus_olympios
 }
+dynasty_house_punic_magonid = {
+	name = "dynn_punic_Magonid"
+	dynasty = dynasty_punic_didonien
+}
+dynasty_house_punic_hannolid = {
+	name = "dynn_Hannolid"
+	dynasty = dynasty_punic_didonien
+}

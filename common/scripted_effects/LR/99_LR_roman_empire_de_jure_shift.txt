@@ -48,7 +48,7 @@
 				holder = root
 				change = scope:change
 			}
-			copy_title_history = title:e_spqr
+			copy_title_history = title:e_western_roman_empire
 		}
 		resolve_title_and_vassal_change = scope:change
 
@@ -78,11 +78,11 @@
 		# Shift the Kingdoms
 		title:e_praetorian_prefecture_italia = { set_de_jure_liege_title = title:h_western_roman_empire }
 		every_county_in_region = {
-			region = custom_western_imperial_core
-			kingdom = { add_to_list = custom_western_imperial_core }
+			region = custom_western_roman_imperial_core
+			kingdom = { add_to_list = custom_western_roman_imperial_core }
 		}	
 		every_in_list = {
-			list = custom_western_imperial_core
+			list = custom_western_roman_imperial_core
 			limit = {
 				NOT = { de_jure_liege = title:e_praetorian_prefecture_italia }
 			}
@@ -163,11 +163,9 @@ restore_western_roman_provinces_system_decision_effect = {
 		title:k_diocese_dardania = { set_de_jure_liege_title = title:e_praetorian_prefecture_illyricum }
 		title:k_diocese_italia_annonaria = { set_de_jure_liege_title = title:e_praetorian_prefecture_italia }
 		title:k_diocese_italia_suburbicaria = { set_de_jure_liege_title = title:e_praetorian_prefecture_italia }
-		title:k_roma_court = { set_de_jure_liege_title = title:e_roma_court }
 
 		title:e_praetorian_prefecture_italia = { set_de_jure_liege_title = title:h_western_roman_empire }
 		title:e_praetorian_prefecture_illyricum = { set_de_jure_liege_title = title:h_western_roman_empire }	
-		title:e_roma_court = { set_de_jure_liege_title = title:h_western_roman_empire }
 	}
 	else_if = { 
 		limit = { exists = title:e_spqr.holder }
@@ -175,21 +173,35 @@ restore_western_roman_provinces_system_decision_effect = {
 		title:k_diocese_dardania = { set_de_jure_liege_title = title:e_spqr }
 		title:k_diocese_italia_annonaria = { set_de_jure_liege_title = title:e_spqr }
 		title:k_diocese_italia_suburbicaria = { set_de_jure_liege_title = title:e_spqr }
-		title:k_roma_court = { set_de_jure_liege_title = title:e_spqr }
 	}
+	else_if = { 
+		limit = { exists = title:e_western_roman_empire.holder }
+		title:k_diocese_illyricum = { set_de_jure_liege_title = title:e_western_roman_empire }
+		title:k_diocese_dardania = { set_de_jure_liege_title = title:e_western_roman_empire }
+		title:k_diocese_italia_annonaria = { set_de_jure_liege_title = title:e_western_roman_empire }
+		title:k_diocese_italia_suburbicaria = { set_de_jure_liege_title = title:e_western_roman_empire }
+	}
+
 	hidden_effect = {
-		every_county_in_region = {
-			region = custom_roman_illyricum
-			duchy = { add_to_list = custom_roman_illyricum_list }
-		}	
-		every_in_list = {
-			list = custom_roman_illyricum_list
-			limit = {
-				NOT = { de_jure_liege = title:k_diocese_illyricum }
-			}
-			set_de_jure_liege_title = title:k_diocese_illyricum
+		# Creating the Hegemony of Western Roman Empire
+		create_title_and_vassal_change = {
+			type = created
+			save_scope_as = change
+			add_claim_on_loss = no
 		}
-	
+		title:e_western_roman_empire = {
+			change_title_holder = {
+				holder = root
+				change = scope:change
+			}
+			copy_title_history = title:e_spqr
+		}
+		resolve_title_and_vassal_change = scope:change
+
+		every_held_title = { #Should destroy all other Empires owned at the time.
+			title_tier = empire
+			root = { destroy_title = prev }
+		}	
 		every_county_in_region = {
 			region = custom_roman_italia_annonaria
 			duchy = { add_to_list = custom_roman_italia_annonaria_list }
@@ -212,18 +224,6 @@ restore_western_roman_provinces_system_decision_effect = {
 				NOT = { de_jure_liege = title:k_diocese_italia_suburbicaria }
 			}
 			set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
-		}
-
-		every_county_in_region = {
-			region = custom_roman_court_title_roma
-			duchy = { add_to_list = custom_roman_court_title_roma_list }
-		}
-		every_in_list = {
-			list = custom_roman_court_title_roma_list
-			limit = {
-				NOT = { de_jure_liege = title:k_roma_court }
-			}
-			set_de_jure_liege_title = title:k_roma_court
 		}
 	}
 
@@ -297,6 +297,409 @@ restore_western_roman_provinces_system_decision_effect = {
 	}	
 }
 
+restore_roman_italia_suburbicaria_effect = {
+	title:k_sicily = {
+		holder = {
+			destroy_title = title:k_sicily 
+		}
+	}
+	title:k_urbs = {
+		holder = {
+			destroy_title = title:k_urbs 
+		}
+	}
+	title:k_sardinia = {
+		holder = {
+			destroy_title = title:k_sardinia 
+		}
+	}
+
+	title:c_siracusa = {
+		set_de_jure_liege_title = title:d_sicily 
+	}
+	title:c_agrigento = {
+		set_de_jure_liege_title = title:d_sicily
+	}
+	title:c_malta = {
+		set_de_jure_liege_title = title:d_sicily
+	}
+	title:c_messina = {
+		set_de_jure_liege_title = title:d_sicily
+	}
+	title:c_palermo = {
+		set_de_jure_liege_title = title:d_sicily
+	}
+	title:c_reggio_calabria = {
+		set_de_jure_liege_title = title:d_calabria
+	}
+	title:c_cosenza = {
+		set_de_jure_liege_title = title:d_calabria
+	}
+	title:c_camarda = {
+		set_de_jure_liege_title = title:d_calabria
+	}
+	title:c_rossano = {
+		set_de_jure_liege_title = title:d_calabria
+	}
+	title:c_salerno = {
+		set_de_jure_liege_title = title:d_calabria
+	}
+
+	title:c_bari = {
+		set_de_jure_liege_title = title:d_apulia
+	}
+	title:c_apulia = {
+		set_de_jure_liege_title = title:d_apulia
+	}
+	title:c_lecce = {
+		set_de_jure_liege_title = title:d_apulia
+	}
+
+	title:c_benevento = {
+		set_de_jure_liege_title = title:d_samnium
+	}
+	title:c_lanciano = {
+		set_de_jure_liege_title = title:d_samnium
+	}
+	title:c_foggia = {
+		set_de_jure_liege_title = title:d_samnium
+	}
+
+	title:c_capua = {
+		set_de_jure_liege_title = title:d_latium
+	}
+	title:c_napoli = {
+		set_de_jure_liege_title = title:d_latium
+	}
+	title:c_tivoli = {
+		set_de_jure_liege_title = title:d_latium
+	}
+	title:c_viterbo = {
+		set_de_jure_liege_title = title:d_latium
+	}
+
+	title:c_spoleto = {
+		set_de_jure_liege_title = title:d_valeria
+	}
+	title:c_abruzzi = {
+		set_de_jure_liege_title = title:d_valeria
+	}
+	title:c_teramo = {
+		set_de_jure_liege_title = title:d_valeria
+	}
+
+	title:c_ancona = {
+		set_de_jure_liege_title = title:d_ancona
+	}
+	title:c_fermo = {
+		set_de_jure_liege_title = title:d_ancona
+	}
+
+	title:c_urbino = {
+		set_de_jure_liege_title = title:d_flaminia
+	}
+	
+	title:c_firenze = {
+		set_de_jure_liege_title = title:d_toscana
+	}
+	title:c_arezzo = {
+		set_de_jure_liege_title = title:d_toscana
+	}
+	title:c_orbetello = {
+		set_de_jure_liege_title = title:d_toscana
+	}
+	title:c_lucca = {
+		set_de_jure_liege_title = title:d_toscana
+	}
+	title:c_orvieto = {
+		set_de_jure_liege_title = title:d_toscana
+	}
+	title:c_pisa = {
+		set_de_jure_liege_title = title:d_toscana
+	}
+	title:c_siena = {
+		set_de_jure_liege_title = title:d_toscana
+	}
+
+	title:c_cagliari = {
+		set_de_jure_liege_title = title:d_sardinia
+	}
+	title:c_arborea = {
+		set_de_jure_liege_title = title:d_sardinia
+	}
+	title:c_gallura = {
+		set_de_jure_liege_title = title:d_sardinia
+	}
+	title:c_logudoro = {
+		set_de_jure_liege_title = title:d_sardinia
+	}
+	title:c_tortoli = {
+		set_de_jure_liege_title = title:d_sardinia
+	}
+
+	title:c_ajaccio = {
+		set_de_jure_liege_title = title:d_corsica
+	}
+	title:c_bastia = {
+		set_de_jure_liege_title = title:d_corsica
+	}
+	title:c_vecchio = {
+		set_de_jure_liege_title = title:d_corsica
+	}
+
+	title:d_apulia = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_calabria = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_latium = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_corsica = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_ancona = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_samnium = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_sardinia = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_sicily = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_toscana = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+	title:d_valeria = {
+		set_de_jure_liege_title = title:k_diocese_italia_suburbicaria
+	}
+
+	title:d_pisa = { holder = { destroy_title = title:d_pisa } }
+	title:d_salerno = { holder = { destroy_title = title:d_salerno } }
+	title:d_capua = { holder = { destroy_title = title:d_capua } }
+	if = {
+		limit = {
+			title:k_italy = { is_titular = yes }
+		}
+		title:k_italy = { holder = { destroy_title = title:k_italy } }
+	}
+}
+
+restore_roman_provinces_italia_annonaria_effect = {
+	title:c_ravenna = {
+		set_de_jure_liege_title = title:d_flaminia
+	}
+	title:c_bologna = {
+		set_de_jure_liege_title = title:d_flaminia
+	}
+	title:c_casentino = {
+		set_de_jure_liege_title = title:d_flaminia
+	}
+	title:c_ferrara = {
+		set_de_jure_liege_title = title:d_flaminia
+	}
+	title:c_urbino = {
+		set_de_jure_liege_title = title:d_flaminia
+	}
+
+	title:c_parma = {
+		set_de_jure_liege_title = title:d_emilia
+	}
+	title:c_modena = {
+		set_de_jure_liege_title = title:d_emilia
+	}
+	title:c_tortona = {
+		set_de_jure_liege_title = title:d_emilia
+	}
+
+	title:c_genoa = {
+		set_de_jure_liege_title = title:d_genoa
+	}
+	title:c_cuneo = {
+		set_de_jure_liege_title = title:d_genoa
+	}
+	title:c_luni = {
+		set_de_jure_liege_title = title:d_genoa
+	}
+	title:c_monferrato = {
+		set_de_jure_liege_title = title:d_genoa
+	}
+	title:c_turin = {
+		set_de_jure_liege_title = title:d_genoa
+	}
+
+	title:c_lombardia = {
+		set_de_jure_liege_title = title:d_lombardia
+	}
+	title:c_brescia = {
+		set_de_jure_liege_title = title:d_lombardia
+	}
+	title:c_como = {
+		set_de_jure_liege_title = title:d_lombardia
+	}
+	title:c_cremona = {
+		set_de_jure_liege_title = title:d_lombardia
+	}
+	title:c_novara = {
+		set_de_jure_liege_title = title:d_lombardia
+	}
+	title:c_pavia = {
+		set_de_jure_liege_title = title:d_lombardia
+	}
+
+	title:c_aquileia = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_ljubljana = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_gorz = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_polesine = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_kranj = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_friuli = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_pula = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_mantua = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_padua = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_treviso = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_trent = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_veneto = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_venezia = {
+		set_de_jure_liege_title = title:d_histria
+	}
+	title:c_verona = {
+		set_de_jure_liege_title = title:d_histria
+	}
+
+	title:c_grisons = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_alpsee = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_brixen = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_grunningen = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_innsbruck = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_lienz = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_ravensburg = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_sankt_gallen = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+	title:c_zurich = {
+		set_de_jure_liege_title = title:d_currezia
+	}
+
+	title:c_augsburg = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_burgau = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_eschenlohe = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_falkenstein = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_frontenhausen = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_geisenhausen = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_kempten = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_munchen = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_passau = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_regensburg = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_rothenburg = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+	title:c_ingolstadt = {
+		set_de_jure_liege_title = title:d_augsburg
+	}
+
+	title:d_emilia = {
+		set_de_jure_liege_title = title:k_diocese_italia_annonaria
+	}
+	title:d_genoa = {
+		set_de_jure_liege_title = title:k_diocese_italia_annonaria
+	}
+	title:d_flaminia = {
+		set_de_jure_liege_title = title:k_diocese_italia_annonaria
+	}
+	title:d_lombardia = {
+		set_de_jure_liege_title = title:k_diocese_italia_annonaria
+	}
+	title:d_currezia = {
+		set_de_jure_liege_title = title:k_diocese_italia_annonaria
+	}
+	title:d_augsburg = {
+		set_de_jure_liege_title = title:k_diocese_italia_annonaria
+	}
+	title:d_histria = {
+		set_de_jure_liege_title = title:k_diocese_italia_annonaria
+	}
+
+	title:d_bavaria = { holder = { destroy_title = title:d_bavaria } }
+	title:d_tyrol = { holder = { destroy_title = title:d_tyrol } }
+	title:d_krain = { holder = { destroy_title = title:d_krain } }
+	title:d_venice = { holder = { destroy_title = title:d_venice } }
+	title:d_piedmonte = { holder = { destroy_title = title:d_piedmonte } }
+	if = {
+		limit = {
+			title:k_italy = { is_titular = yes }
+		}
+		title:k_italy = { holder = { destroy_title = title:k_italy } }
+	}
+	if = {
+		limit = {
+			title:k_bavaria = { is_titular = yes }
+		}
+		title:k_bavaria = { holder = { destroy_title = title:k_bavaria } }
+	}
+}
+
 restore_eastern_roman_provinces_system_decision_effect = {
 	#Sort the diocese
 	if = {
@@ -310,7 +713,7 @@ restore_eastern_roman_provinces_system_decision_effect = {
 		title:k_diocese_asia = {
 			set_de_jure_liege_title = title:e_byzantium
 		}
-		title:k_diocese_moesia = {
+		title:k_diocese_macedonia = {
 			set_de_jure_liege_title = title:e_byzantium
 		}
 		title:k_diocese_pontus = {
@@ -328,7 +731,7 @@ restore_eastern_roman_provinces_system_decision_effect = {
 		title:k_diocese_asia = {
 			set_de_jure_liege_title = title:e_praetorian_prefecture_macedonia
 		}
-		title:k_diocese_moesia = {
+		title:k_diocese_macedonia = {
 			set_de_jure_liege_title = title:e_praetorian_prefecture_macedonia
 		}
 		title:k_diocese_pontus = {
@@ -371,15 +774,15 @@ restore_eastern_roman_provinces_system_decision_effect = {
 
 		# diocese of Macedonia
 		every_county_in_region = {
-			region = custom_roman_moesia
-			duchy = { add_to_list = custom_roman_moesia_list }
+			region = custom_roman_macedonia
+			duchy = { add_to_list = custom_roman_macedonia_list }
 		}	
 		every_in_list = {
-			list = custom_roman_moesia_list
+			list = custom_roman_macedonia_list
 			limit = {
-				NOT = { de_jure_liege = title:k_diocese_moesia }
+				NOT = { de_jure_liege = title:k_diocese_macedonia }
 			}
-			set_de_jure_liege_title = title:k_diocese_moesia
+			set_de_jure_liege_title = title:k_diocese_macedonia
 		}		
 
 		# diocese of Asia
@@ -524,8 +927,8 @@ restore_roman_provinces_viennensis_decision_effect = {
 	}
 	else_if = {
 		limit = { exists = title:e_spqr.holder }
-		#title:k_diocese_lugdunensis = { set_de_jure_liege_title = title:e_spqr }
-		title:k_diocese_viennensis = { set_de_jure_liege_title = title:e_spqr }
+		#title:k_diocese_lugdunensis = { set_de_jure_liege_title = title:e_western_roman_empire }
+		title:k_diocese_viennensis = { set_de_jure_liege_title = title:e_western_roman_empire }
 	}
 	# Destroy useless kingdoms
 	if = {
@@ -691,8 +1094,8 @@ restore_roman_provinces_lugdunensis_decision_effect = {
 	}
 	else_if = {
 		limit = { exists = title:e_spqr.holder }
-		title:k_diocese_lugdunensis = { set_de_jure_liege_title = title:e_spqr }
-		#title:k_diocese_viennensis = { set_de_jure_liege_title = title:e_spqr }
+		title:k_diocese_lugdunensis = { set_de_jure_liege_title = title:e_western_roman_empire }
+		#title:k_diocese_viennensis = { set_de_jure_liege_title = title:e_western_roman_empire }
 	}
 	# Destroy useless kingdoms
 	if = {
@@ -856,8 +1259,8 @@ restore_roman_provinces_africa_mauretania_decision_effect = {
 	}
 	else_if = {
 		limit = { exists = title:e_spqr.holder }
-		title:k_diocese_africa = { set_de_jure_liege_title = title:e_spqr }
-		title:k_diocese_mauretania = { set_de_jure_liege_title = title:e_spqr }
+		title:k_diocese_africa = { set_de_jure_liege_title = title:e_western_roman_empire }
+		title:k_diocese_mauretania = { set_de_jure_liege_title = title:e_western_roman_empire }
 	}
 
 	# Destroy useless kingdoms
@@ -1148,7 +1551,7 @@ restore_roman_provinces_aegyptus_decision_effect  = {
 		title:k_egypt = { 
 			set_de_jure_liege_title = title:e_egypt
 		}
-	}
+}
 
 restore_roman_provinces_hispania_decision_effect = {
 	#Restore the provinces of Roman Hispania
@@ -1169,7 +1572,7 @@ restore_roman_provinces_hispania_decision_effect = {
 	title:k_diocese_hispania = { set_de_jure_liege_title = title:e_spain }
 	if = {
 		limit = { exists = title:e_spqr.holder }
-		title:k_diocese_hispania = { set_de_jure_liege_title = title:e_spqr }
+		title:k_diocese_hispania = { set_de_jure_liege_title = title:e_western_roman_empire }
 	}
 		
 	title:e_spain = { set_coa = e_spain }
@@ -1268,7 +1671,7 @@ restore_roman_provinces_britannia_decision_effect = {
 	title:k_diocese_britannia = { set_de_jure_liege_title = title:e_praetorian_prefecture_gallia }
 	if = {
 		limit = { exists = title:e_spqr.holder }
-		title:k_diocese_britannia = { set_de_jure_liege_title = title:e_spqr }
+		title:k_diocese_britannia = { set_de_jure_liege_title = title:e_western_roman_empire }
 	}
 	#Fix Northumberland
 	title:c_northumberland = { set_de_jure_liege_title = title:d_lothian }

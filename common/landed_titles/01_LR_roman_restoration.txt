@@ -57,6 +57,17 @@ h_eastern_roman_empire = {
 	}
 }
 
+e_eastern_roman_empire = {
+	color = { 150 35 165 }
+	capital = c_byzantion
+
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
 h_western_roman_empire = {
 	color = { 100 10 22 }
 	capital = c_roma
@@ -65,6 +76,40 @@ h_western_roman_empire = {
 	can_be_named_after_dynasty = no
 	can_create = {
 		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+e_western_roman_empire = {
+	color = { 100 10 22 }
+	capital = c_roma
+
+	definite_form = yes
+	can_be_named_after_dynasty = no
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+}
+
+k_roman_kingdom = {
+	color = { 167 10 0 }
+
+	capital = c_roma #Rome
+	definite_form = yes
+	can_be_named_after_dynasty = no
+
+	can_create = {
+		always = no
+	}
+
+	d_alba_longa = {
+		color = { 167 10 0 }
+
+		capital = c_roma #Rome (due to closeness to Alba Longa)
+		can_be_named_after_dynasty = no
+
+		can_create = {
+			always = no
+		}
 	}
 }
 
@@ -243,6 +288,11 @@ k_diocese_moesia = {
 	capital = c_thessalonika
 }
 
+k_diocese_macedonia = {
+	color = { 105 23 109 }
+	capital = c_thessalonika
+}
+
 k_diocese_mauretania = {
 	color = { 31 14 114 }
 	capital = c_algier
@@ -301,15 +351,6 @@ e_gallic_empire = {
 			add = @better_than_the_alternatives_score
 		}
 	}
-		cultural_names = {
-			name_list_roman = lx_lugdunensis
-			name_list_gallo_roman = lx_lugdunensis
-			name_list_romano_gothic = lx_lugdunensis
-			name_list_romano_hispanic = lx_lugdunensis
-			name_list_romano_briton = lx_lugdunensis
-			name_list_sarmato_briton = lx_lugdunensis
-		}
-
 	color = { 22 103 7 }
 	
 }
@@ -332,17 +373,18 @@ h_gallic_empire = {
 			add = @better_than_the_alternatives_score
 		}
 	}
-		cultural_names = {
-			name_list_roman = lx_lugdunensis
-			name_list_gallo_roman = lx_lugdunensis
-			name_list_romano_gothic = lx_lugdunensis
-			name_list_romano_hispanic = lx_lugdunensis
-			name_list_romano_briton = lx_lugdunensis
-			name_list_sarmato_briton = lx_lugdunensis
-		}
-
 	color = { 12 63 3 }
 	
+}
+
+e_syagria = {
+	color = { 20 168 32 }
+	capital = c_vermandois
+}
+
+e_constantinid = {
+	color = { 41 16 125 }
+	capital = c_somerset
 }
 
 k_diocese_hibernia = {
@@ -405,7 +447,63 @@ h_southern_roman_empire = {
 	ignore_titularity_for_title_weighting = yes
 }
 
+e_tadmor = {
+	color = { 168 136 20 }
+	capital = c_palmyra
+}
 
+e_palmyrene_empire = {
+	color = { 225 133 53 }
+	capital = c_palmyra
+}
+
+h_palmyrene_empire = {
+	color = { 255 120 0 }
+	capital = c_palmyra
+}
+e_brittanic_empire = {
+	capital = c_middlesex
+	ruler_uses_title_name = yes
+	definite_form = yes
+    
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+
+	ai_primary_priority = {
+		if = {
+			limit = {
+				culture = { has_cultural_pillar = heritage_latin }
+			}
+			add = @correct_culture_primary_score
+			add = @better_than_the_alternatives_score
+		}
+	}
+	color = { 18 7 82 }
+	
+}
+
+h_brittanic_empire = {
+	capital = c_middlesex
+	ruler_uses_title_name = yes
+	definite_form = yes
+    
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+
+	ai_primary_priority = {
+		if = {
+			limit = {
+				culture = { has_cultural_pillar = heritage_latin }
+			}
+			add = @correct_culture_primary_score
+			add = @better_than_the_alternatives_score
+		}
+	}
+	color = { 47 7 111 }
+	
+}
 
 
 

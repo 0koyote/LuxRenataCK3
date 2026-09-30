@@ -503,7 +503,7 @@ k_petty_kent = {
 		holder = EadbaldHengist
 	}
 	5640.1.1 = {
-		holder = EorcenberhtHengist
+		holder = EormenredHengist
 	}
 	5664.1.1 = {
 		holder = EcgberhtHengist
@@ -815,6 +815,12 @@ k_petty_danelaw = {
 	}
 }
 
+e_constantinid = {
+	6055.1.1 = {
+		holder = 404
+	}
+}
+
 k_petty_dumnonia = {
 	5867.1.1 = { change_development_level = 2 }
 	6066.1.1 = { change_development_level = 8 }
@@ -922,6 +928,8 @@ k_petty_dumnonia = {
 		holder = 1730177
 	}
 	6055.1.1 = {
+		liege = e_constantinid
+		government = roman_administrative_government
 		holder = 404
 	}
 }
@@ -2672,7 +2680,7 @@ k_titular_strathclyde = {
 		holder = dumnagual_iii_alt_clut
 	}
 
-	5760.1.1 = {
+	5764.1.1 = {
 		holder = eugein_ii_alt_clut
 	}
 
@@ -2733,7 +2741,7 @@ k_titular_strathclyde = {
 #}
 e_britons = {
 	6060.1.1 = {
-		holder = 404
+		holder = 0 #404
 	}
 	6066.3.15 = {
 		holder = 0
@@ -2741,13 +2749,18 @@ e_britons = {
 }
 e_england = {
 	6060.1.1 = {
-		holder = 401
+		holder = 0 #401
 	}
 	6066.3.15 = {
 		holder = 0
 	}
 }
 k_london = {
+	5000.1.1 = {
+		effect = {
+			set_de_jure_liege_title = title:e_britannia
+		}
+	}
 	6060.1.1 = {
 		holder = 1004
 	}
@@ -2839,7 +2852,7 @@ k_petty_sussex = {
 	6060.1.1 = {
 		holder = 402
 		government = western_feudal_government
-		liege = e_england
+		liege = 0
 	}
 
 }

@@ -53,8 +53,8 @@
  restore_dioceses_decision_confirm:0 "Roma Invicta!"
  restore_dioceses_decision_trigger_1:0 "Any of the provinces can be restored"
  NOT_restore_dioceses_decision_trigger_1:0 "Any of the provinces can be restored"
- italia_suburbicariae_diocese_desc:0 "Italia Suburbicaria"
- italia_suburbicariae_diocese_tooltip:0 "Take back the Italian heart of the Empire! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_italia_suburbicaria').GetName]"
+ italia_suburbicaria_diocese_desc:0 "Italia Suburbicaria"
+ italia_suburbicaria_diocese_tooltip:0 "Take back the Italian heart of the Empire! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_italia_suburbicaria').GetName]"
  
  illyricum_pannonia_diocese_desc:0 "Illyricum"
  illyricum_pannonia_diocese_tooltip:0 "Take back the old source of Adriatic piracy! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_illyricum').GetName]"
@@ -98,22 +98,24 @@
  thessalonika_diocese_desc:0 "Thrace"
  thessalonika_diocese_tooltip:0 "Let gold flow and Dionysus' vines reclaim this crossroads of empires! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_thracia').GetName]"
  moesia_diocese_desc:0 "Moesia"
- moesia_diocese_tooltip:0 "Let Athenian wisdom and Thessalian silver reignite Alexander's forge of civilizations! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_moesia').GetName]"
+ moesia_diocese_tooltip:0 "Let Athenian wisdom and Thessalian silver reignite Alexander's forge of civilizations! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_macedonia').GetName]"
  dardania_diocese_desc:0 "Dardania"
  dardania_diocese_tooltip:0 "Let Trajan's columns watch this land rekindle Rome's northern crown! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_dardania').GetName]"
  pontus_diocese_desc:0 "Pontus"
  pontus_diocese_tooltip:0 "Pluck the strings across Pontus' rugged terrain, Relight Amisus' torch where Black Sea tides remain! \n#bold Requirements:# \n#N Control[GetGeographicalRegion('custom_roman_pontus').GetName]"
  palestine_diocese_desc:0 "Palestine"
+ macedonia_diocese_desc:0 "Macedonia"
+ macedonia_diocese_tooltip:0 "Let the lands of Alexander witness the revival of Roman order! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_macedonia').GetName]"
  palestine_diocese_tooltip:0 "Let the sands of the Levant witness the revival of Roman order! \n#bold Requirements:# \n#N Control [GetGeographicalRegion('custom_roman_palestine').GetName]"
  custom_roman_thracia:0 "Region of Thrace Diocese"
- custom_roman_moesia:0 "Region of Macedonian Diocese"
+ custom_roman_macedonia:0 "Region of Macedonian Diocese"
  custom_roman_dardania:0 "Region of Dacia Diocese"
  custom_roman_asia:0 "Region of Asia Diocese"
  custom_roman_pontus:0 "Region of Pontus Diocese"
  custom_gaul:0 "Gaul"
- illyricum_pannoniae_diocese_region:0 "Region of Illyricum Pannoniae Diocese"
- italia_suburbicariae_diocese_region:0 "Region of Italia Suburbicaria Diocese"
- italia_annonariae_diocese_region:0 "Region of Italia Annonaria Diocese"
+ illyricum_pannonia_diocese_region:0 "Region of Illyricum Pannoniae Diocese"
+ italia_suburbicaria_diocese_region:0 "Region of Italia Suburbicaria Diocese"
+ italia_annonaria_diocese_region:0 "Region of Italia Annonaria Diocese"
  hispania_diocese_region:0 "Region of Hispania Diocese"
  viennensise_diocese_region:0 "Region of Viennensis Diocese"
  gallia_diocese_region:0 "Region of Gallia Diocese"
@@ -193,12 +195,6 @@
 
  byzantium_delenda_est_tooltip: "The [GetTitleByKey('e_byzantium').GetNameNoTier] does not exist."
 
-# Destroy The Vatican
- eoe_destroy_the_vatican_decision: "Destroy the Church of Saint Peter"
- eoe_destroy_the_vatican_decision_desc: "We have won. We have reconquered our historical heartlands, we have dismantled the Galilean priesthood and driven out their pathetic 'Pope'. The only thing that remains now is to destroy the last symbol if this foul religion. The chruch of Saint Peter on Vatican Hill."
- eoe_destroy_the_vatican_decision_effect_tooltip: "The [GetBuilding('holy_site_st_peters_basilica_01').GetName] will be destroyed and you will be presented with a choice."
- eoe_vatican_must_not_exist_tooltip: "[GetTitleByKey('k_papal_state').GetDefinitiveName] does not exist."
- eoe_destroy_the_vatican_decision_confirm: "Vatican Hill shall burn!"
 
 
 

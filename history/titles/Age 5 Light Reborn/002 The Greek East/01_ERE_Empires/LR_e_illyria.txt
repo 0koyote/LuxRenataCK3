@@ -302,7 +302,8 @@ d_slavonia = { #Chrobatia
 		holder = 1711017
 	}
 	6058.1.1 = {
-		holder = 21
+		holder = 602
+		government = western_feudal_government
 		liege = k_croatia
 	}
 }
@@ -329,8 +330,8 @@ d_dalmatia = {
 	6015.1.2 = { holder = 1712095 }
 	6022.1.2 = { holder = 1712096 }
 	6033.1.2 = { holder = 1712097 }
-	6060.1.2 = {
-		government = subroman_administrative_government
+	6060.1.1 = {
+		government = roman_administrative_government
 		holder = 18
 	}
 }
@@ -1228,5 +1229,12 @@ c_zolyom = {
 	#}
 	6060.1.1 = {
 		holder = 9
+	}
+}
+
+d_croatia = {
+	6060.1.1 = {
+		liege = 0
+		holder = 1711028
 	}
 }

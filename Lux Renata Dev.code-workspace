@@ -1,17 +1,27 @@
 {
 	"folders": [
 		{
+			"name": "Lux Renata Dev",
 			"path": "."
 		},
 		{
+			"name": "3798537678",
+			"path": "../../../../../../../Program Files (x86)/Steam/steamapps/workshop/content/1158310/3798537678"
+		},
+		{
+			"name": "game",
 			"path": "../../../../../../../Program Files (x86)/Steam/steamapps/common/Crusader Kings III/game"
+		},
+		{
+			"path": "../../../../../../../Program Files (x86)/Steam/steamapps/workshop/content/1158310/2243307127"
 		}
 	],
 	"settings": {
 		"ck3tiger.modPath": "C:/Users/Camer/Documents/Paradox Interactive/Crusader Kings III/mod/Lux Renata Dev.mod",
 		"files.associations": {
 			"*.gui": "paradox-gui",
-			"**/localization/**/*.yml": "paradox-loc"
+			"**/localization/**/*.yml": "paradox-loc",
+			"**/gfx/**/*.asset": "paradox-ck3"
 		},
 		"px.tigerRunOn": "save",
 		"px.trace.server": "off",

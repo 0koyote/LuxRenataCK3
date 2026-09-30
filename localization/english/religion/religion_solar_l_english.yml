@@ -2,7 +2,6 @@
 #Made by Cameron122
 #####################
 l_english:
-
  #Common Solar Localization
  solar_religion: "Solar"
  solar_religion_adj: "Solar"
@@ -240,11 +239,11 @@ l_english:
  holy_order_sacred_band_of_boreas_adj: "Apollo-Borean"
 
  #Solar Christian
- sol_christ: "Helianism"
- sol_christ_adj: "Helianist"
- sol_christ_adherent: "Helianist"
- sol_christ_adherent_plural: "Helianists"
- sol_christ_desc: "Helianism is a Heretical [graeco_roman|E] religion of [statist|E] Soul, with significant Christian influences. Also called Solar Christianity, it was established in the 4th Century CE and popularized during the reign of Imperator Alexandros VII. Helianism claims that the Christian prophet, Jesus of Nazareth, is the only true Sun incarnate and the son of God. While it does share basic elements with other Christian creeds, its pagan elements, such as the adaptation of Dies Natalis Sol Invictus as a central holiday, or the personality cult of the Imperator as Christ's sole successor, make other Christian creeds treat their Solar brethren with suspicion and caution. While moderate Helianists are usually tolerated by followers of the Invincible Sun, more radical elements tend to openly challenge the authority of the Imperators, seeing them as mere usurpers to Christ, who is to return at the end of days to purge the earth of all evil. Helianist monarchs enjoy undisputed authority - which stems from the Solar component, supported by Saint Augustine's theory of Civitas Dei ('City of God') - according to which a strong secular state is required to protect the faithful from evil until the Day of Judgement comes and a pure Kingdom of God is created."
+ sol_christ: "Solar Christianity"
+ sol_christ_adj: "Solar Christian"
+ sol_christ_adherent: "Solar Christian"
+ sol_christ_adherent_plural: "Solar Christians"
+ sol_christ_desc: "Solar Christianity is a Heretical [graeco_roman|E] religion of [statist|E] Soul, with significant Christian influences. Also called Solar Christianity, it was established in the 4th Century CE and popularized during the reign of Imperator Alexandros VII. Helianism claims that the Christian prophet, Jesus of Nazareth, is the only true Sun incarnate and the son of God. While it does share basic elements with other Christian creeds, its pagan elements, such as the adaptation of Dies Natalis Sol Invictus as a central holiday, or the personality cult of the Imperator as Christ's sole successor, make other Christian creeds treat their Solar brethren with suspicion and caution. While moderate Helianists are usually tolerated by followers of the Invincible Sun, more radical elements tend to openly challenge the authority of the Imperators, seeing them as mere usurpers to Christ, who is to return at the end of days to purge the earth of all evil. Helianist monarchs enjoy undisputed authority - which stems from the Solar component, supported by Saint Augustine's theory of Civitas Dei ('City of God') - according to which a strong secular state is required to protect the faithful from evil until the Day of Judgement comes and a pure Kingdom of God is created."
  
  sol_christ_high_god_name: "$solar_high_god_name_solar_god$"
  sol_christ_high_god_name_2: "$solar_high_god_name_solar_god$" # Optional translation alt

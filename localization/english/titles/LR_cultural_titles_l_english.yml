@@ -2335,6 +2335,7 @@
  lx_palu: "Palu"
  lx_honorias: "Honōriás"
  lx_pontos: "Póntos"
+ lx_pontos_empire: "Basileía tou Póntou"
  lx_pontus: "Póntus"
  lx_trebizond: "Trebizond"
  lx_trapezounta: "Trapezounta"
@@ -2464,6 +2465,8 @@
  lx_epieros_adj: "Epirote"
  lx_thessalonike: "Thessaloníkē" # Thessaloniki
  lx_thessalonike_adj: "Thessaloníkan"
+ lx_thessalia: "Thessalía"
+ lx_thessalia_adj: "Thessalian"
  lx_perinthos: "Perinthos" # Pirin
  lx_perinthos_adj: "Perinthian"
  lx_melenikon: "Melenikon" # Melnik
@@ -3694,7 +3697,7 @@ lx_thifalia: "Thifalia"
 lx_thifalia_adj: "Thifalian"
 
 # Formables
-lx_ptolemaic_basileia: "Ptolemaïkē Basileía"
+ lx_ptolemaic_basileia: "Ptolemaïkē Basileía"
 
  eastern_roman_name: "Eastern Roman"
  eastern_roman_collective: "Eastern Roman"
@@ -3716,6 +3719,10 @@ lx_ptolemaic_basileia: "Ptolemaïkē Basileía"
  rule_western_roman_cultures_name_rule: "Western Roman Culture Names"
  setting_western_roman: "Western Roman"
  setting_western_roman_desc: "The Romans of the West's culture will be called Western Roman"
+ 
+ setting_roman_default: "Roman"
+ setting_roman_default_desc: "The Romans of the West's culture will be called Roman"
+
  setting_romae: "Romae"
  setting_romae_desc: "The Romans of the West's culture will be called Romae"
 
@@ -3732,9 +3739,14 @@ lx_ptolemaic_basileia: "Ptolemaïkē Basileía"
  lx_autariata: "Autariata"
  lx_utarritar: "Ütarritar"
  lx_autarrica: "Autarrika"
- lx_melita: "Melita" # Malta
+ lx_melita: "Melita" #Malta
  lx_melita_adj: "Melitan"
 
  lx_pergamon: "Pérgamon"
  lx_pergamon_adj: "Pergamene"
  lx_eranshahr: "Ērānšahr"
+ lx_thrake: "Thrākē"
+ lx_thrake_adj: "Thrâikes"
+ lx_hellas: "Hellas"
+ cn_tanais: "Tanais"
+ cn_tanais_adj: "Tanaisan"

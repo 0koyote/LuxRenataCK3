@@ -28,7 +28,7 @@ is_roman_emperor_trigger = {
 		has_title = title:e_spqr
 		has_title = title:h_western_roman_empire
 		has_title = title:e_gallic_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
 	}
 }
 
@@ -48,8 +48,9 @@ is_major_western_roman_emperor_trigger = {
 
 is_regional_roman_emperor_trigger = {
 	OR = {
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
 		has_title = title:e_gallic_empire
+		has_title = title:e_brittanic_empire
 	}
 }
 
@@ -62,21 +63,43 @@ is_major_roman_emperor_excluding_eastern_roman_emperor_trigger = {
 
 is_minor_roman_emperor_excluding_byzantium_trigger = {
 	OR = {
-		#has_title = title:e_byzantium
-		has_title = title:e_spqr
+		has_title = title:e_western_roman_empire
 		has_title = title:e_gallic_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
+		has_title = title:e_brittanic_empire
 	}
 }
 
 is_minor_roman_emperor_trigger = {
 	OR = {
-		has_title = title:e_byzantium
-		has_title = title:e_spqr
+		has_title = title:e_eastern_roman_empire
+		has_title = title:e_western_roman_empire
 		has_title = title:e_gallic_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
+		has_title = title:e_brittanic_empire
+
 	}
 }
+
+is_decayed_roman_emperor_trigger = {
+	OR = {
+		has_title = title:e_byzantium
+		has_title = title:e_spqr
+		has_title = title:e_tadmor
+		has_title = title:e_syagria
+		has_title = title:e_constantinid
+	}
+}
+
+is_decayed_roman_emperor_excluding_byzantium_trigger = {
+	OR = {
+		has_title = title:e_syagria
+		has_title = title:e_spqr
+		has_title = title:e_tadmor
+		has_title = title:e_constantinid
+	}
+}
+
 
 is_roman_emperor_excluding_byzantium_trigger = {
 	OR = {
@@ -85,7 +108,11 @@ is_roman_emperor_excluding_byzantium_trigger = {
 		has_title = title:e_spqr
 		has_title = title:e_gallic_empire
 		has_title = title:h_eastern_roman_empire
-		#has_title = title:e_palmyrene_empire
+		has_title = title:e_palmyrene_empire
+		has_title = title:e_brittanic_empire
+		has_title = title:e_constantinid
+		has_title = title:e_tadmor
+		has_title = title:e_syagria
 	}
 }
 
@@ -97,7 +124,11 @@ is_roman_emperor_primary_title_trigger = {
 		primary_title ?= title:e_spqr
 		primary_title ?= title:h_western_roman_empire
 		primary_title ?= title:e_gallic_empire
-		#primary_title ?= title:e_palmyrene_empire
+		primary_title ?= title:e_palmyrene_empire
+		primary_title ?= title:e_brittanic_empire
+		primary_title ?= title:e_constantinid
+		primary_title ?= title:e_tadmor
+		primary_title ?= title:e_syagria
 	}
 }
 
@@ -107,8 +138,12 @@ is_roman_emperor_primary_title_excluding_byzantium_trigger = {
 		primary_title ?= title:h_western_roman_empire
 		primary_title ?= title:e_spqr
 		primary_title ?= title:e_gallic_empire
-		#primary_title ?= title:e_palmyrene_empire
+		primary_title ?= title:e_palmyrene_empire
 		primary_title ?= title:h_eastern_roman_empire
+		primary_title ?= title:e_brittanic_empire
+		primary_title ?= title:e_constantinid
+		primary_title ?= title:e_tadmor
+		primary_title ?= title:e_syagria
 	}
 }
 
@@ -118,6 +153,7 @@ valid_for_byz_emperor_content_trigger = {
 		OR = {
 			has_cultural_pillar = heritage_byzantine
 			has_cultural_pillar = heritage_caucasian
+			has_cultural_pillar = heritage_latin
 		}
 	}
 	OR = {
@@ -125,8 +161,8 @@ valid_for_byz_emperor_content_trigger = {
 		AND = {
 			culture = {
 				OR = {
-					this = culture:greek
-					any_parent_culture_or_above = { this = culture:greek }
+					this = culture:roman
+					any_parent_culture_or_above = { this = culture:roman }
 				}
 			}
 			highest_held_title_tier >= tier_empire
@@ -141,6 +177,7 @@ valid_for_byz_governor_content_trigger = {
 		OR = {
 			has_cultural_pillar = heritage_byzantine
 			has_cultural_pillar = heritage_caucasian
+			has_cultural_pillar = heritage_latin
 		}
 	}
 	top_liege = {
@@ -1131,6 +1168,7 @@ ep3_vassal_will_become_admin = {
 		government_has_flag = government_is_clan
 		government_has_flag = government_is_japan_feudal
 		government_has_flag = government_is_classical
+		government_has_flag = government_is_despotic
 	}
 	faith = scope:administrative_liege.faith #The future state faith
 }

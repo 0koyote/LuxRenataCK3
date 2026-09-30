@@ -1,0 +1,7 @@
+﻿historical_bloodlines_inherit_action = {
+	effect = {
+		historical_bloodlines_inherit_effect = yes
+	}
+}
+
+
