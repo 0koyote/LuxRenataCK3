@@ -11,7 +11,7 @@
 		government = gaul_administrative_government
 		fallback_government = classical_government
 		culture = gallo_roman
-		religion = semipelagian
+		rite = semipelagian
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 300 700 }
 		
@@ -31,7 +31,7 @@ challenge_character_2_constantinid_1066 = {
 		title = k_petty_dumnonia
 		government = classical_government
 		culture = romano_briton
-		religion = sol_christ
+		rite = sol_christ
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		history_id = 404
 
