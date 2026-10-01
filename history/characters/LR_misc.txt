@@ -101,7 +101,7 @@
 
 1822007 = {
 	name = "Apollodotus"
-	rite = "sol_apollo"
+	rite = solar_apollo_rite
 	culture = "hellenistic"
 	6029.1.1 = {
 		birth = "6029.1.1"
