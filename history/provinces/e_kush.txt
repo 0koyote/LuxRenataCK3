@@ -57,7 +57,7 @@
 ###c_bazin
 6378 = {	#TOKAR
 	culture = beja
-	rite = alexandros
+	rite = alexandros_rite
 	holding = castle_holding
 }
 6379 = {	#AKIK
@@ -80,7 +80,7 @@
 ###c_badi
 6380 = {	# 6380 - BADI
 	culture = beja
-	rite = alexandros
+	rite = alexandros_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -97,7 +97,7 @@
 ###c_baqlin
 6376 = {	#SINKAT
 	culture = beja
-	rite = alexandros
+	rite = alexandros_rite
 	holding = castle_holding
 }
 6385 = {	#BAQLIN-NORHT

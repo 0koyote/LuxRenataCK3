@@ -194,7 +194,7 @@
 ###c_gojjam
 8321 = {	#GOJJAM
 	culture = ethiopian
-	rite = solomonic_alexandros
+	rite = solomonic_alexandros_rite
 	holding = tribal_holding
 	6066.1.1 = {
 		holding = castle_holding
@@ -216,7 +216,7 @@
 ###c_gafat
 8366 = {	#GAFAT
 	culture = ethiopian
-	rite = solomonic_alexandros
+	rite = solomonic_alexandros_rite
 	holding = tribal_holding
 	6066.1.1 = {
 		holding = castle_holding
@@ -229,7 +229,7 @@
 ###c_agaw_meder
 8371 = {	#AGAW_MEDER
 	culture = ethiopian
-	rite = solomonic_alexandros
+	rite = solomonic_alexandros_rite
 	holding = tribal_holding
 	6066.1.1 = {
 		holding = castle_holding

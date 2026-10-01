@@ -304,7 +304,7 @@
 ###c_thessalonika
 490 = {		#Thessalonike / b_thessaloniki
 	culture = hellenistic
-	rite = alexandros
+	rite = alexandros_rite
 	holding = castle_holding
 	5634.1.1 = {
 		special_building_slot = hagios_demetrios
@@ -539,7 +539,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	
 	holding = castle_holding
 	
@@ -552,7 +552,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	
 	holding = castle_holding #none
 	
@@ -565,7 +565,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	
 	holding = castle_holding
 	
@@ -672,7 +672,7 @@
 5531 = {	# 5531 - Phocaea
 
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	
 	holding = castle_holding
 	
@@ -706,7 +706,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	
 	holding = city_holding
 	
@@ -3036,7 +3036,7 @@
 	
 	# Misc
 	culture = greek
-	rite = alexandros
+	rite = alexandros_rite
 	
 	holding = city_holding
 	
@@ -3049,7 +3049,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = alexandros
+	rite = alexandros_rite
 	
 	holding = castle_holding
 	
@@ -3062,7 +3062,7 @@
 	
 	# Misc
 	culture = greek
-	rite = alexandros
+	rite = alexandros_rite
 	
 	holding = city_holding
 	
@@ -3075,7 +3075,7 @@
 	
 	# Misc
 	culture = greek
-	rite = alexandros
+	rite = alexandros_rite
 	
 	holding = castle_holding #none
 	
@@ -3088,7 +3088,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = alexandros
+	rite = alexandros_rite
 	
 	holding = castle_holding
 	
@@ -4132,7 +4132,7 @@
 	
 	# Misc
 	culture = greek
-	rite = dionysos
+	rite = dionysos_rite
 	terrain = mountain
 	
 	# History
@@ -4172,7 +4172,7 @@
 	
 	# Misc
 	culture = greek
-	rite = dionysos
+	rite = dionysos_rite
 	terrain = mountain
 	
 	# History
@@ -5214,7 +5214,7 @@
 	
 	# History
 	6120.1.1 = { culture = levantine }
-	6270.1.1 = { rite = alexandros }
+	6270.1.1 = { rite = alexandros_rite }
 
 }
 
@@ -5401,7 +5401,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	holding = castle_holding
 	
 	# History
@@ -5449,7 +5449,7 @@
 ### c_pella  
 13485 = {	# Pella
 	culture = hellenistic
-	rite = alexandros
+	rite = alexandros_rite
 	holding = castle_holding
 }
 
@@ -5649,7 +5649,7 @@
 ### c_adramyttion  
 13426 = {	# Lyrnessos
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	holding = city_holding
 }
 
@@ -5906,14 +5906,14 @@
 # SKAMANDREIA in c_abydos
 13361 = {	# Skamandreia
 	culture = hellenistic
-	rite = alexandros
+	rite = alexandros_rite
 	holding = castle_holding #none
 }
 
 # ASSOS TROAS in c_troas
 13360 = {	# Assos Troas
 	culture = hellenistic
-	rite = alexandros
+	rite = alexandros_rite
 	holding = city_holding
 }
 
@@ -6220,35 +6220,35 @@
 # ANTRON KYBELE in c_pergamon
 13365 = {	# Antron Kybele
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	holding = church_holding
 }
 
 # PERPERENE in c_pergamon
 13363 = {	# Perperene
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	holding = castle_holding #none
 }
 
 # ELAIA in c_pergamon
 13415 = {	# Elaia
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	holding = city_holding
 }
 
 # MAGNALIA in c_aeolis
 13375 = {	# Magnalia
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	holding = church_holding
 }
 
 # AIGAI PHOCAEA in c_aeolis
 13416 = {	# Aigai Phocaea
 	culture = hellenistic
-	rite = cybele
+	rite = cybele_rite
 	holding = castle_holding #none
 }
 

@@ -1,0 +1,67 @@
+﻿cybele_rite = {
+	name = cybele
+	desc = cybele_desc
+	founder = d_phrygia
+	faith = hellenic_faith
+
+	color = rgb { 179 128 144 }
+	icon = hellenic_cybele
+    tenets = {
+        tenet_astrology
+		tenet_household_gods
+		tenet_esotericism
+    }
+	doctrines = {
+		doctrine_gender_female_dominated
+		lux_doctrine_clerical_soul
+		lux_doctrine_archaic_ascendant
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { hellenistic }
+}
+
+dionysos_rite = {
+	name = dionysos
+	desc = dionysos_desc
+	founder = d_krete
+	faith = hellenic_faith
+
+	color = rgb { 190 150 180 }
+	icon = hellenic_cybele
+    tenets = {
+        tenet_carnal_exaltation
+		tenet_ritual_celebrations
+		tenet_household_gods
+    }
+	doctrines = {
+		doctrine_deviancy_accepted
+		lux_doctrine_populist_soul
+		lux_doctrine_archaic_ascendant
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { hellenistic }
+}
+
+solomonic_alexandros_rite = {
+	name = solomonic_alexandros
+	desc = solomonic_alexandros_desc
+	founder = d_aksum
+	faith = alexandrian_faith
+
+	color = rgb { 66 73 0 }
+	icon = hellenic_solomon_alexandros
+    tenets = {
+        tenet_communion
+		tenet_astrology
+		tenet_communal_identity
+    }
+	doctrines = {
+		lux_doctrine_christian_ascendant
+		lux_doctrine_martial_soul
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { ethiopian }
+}

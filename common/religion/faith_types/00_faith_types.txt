@@ -2160,13 +2160,13 @@ hantuism = {
 	}
 }
 
-hellenic_pagan = {
+hellenic_faith = {
 	main_rite = hellenic_pagan
 	historical = yes
 
 	faith_details = {
 		religion = hellenism_religion
-		color = { 0.6 0.1 0.1 }
+		color = { 0.071 0.412 0.78 }
 		icon = hellenic
 		reformed_icon = hellenic_reformed
 	}
@@ -2177,9 +2177,45 @@ hellenic_pagan = {
 	}
 
 	holy_sites = {
-		rome
+		delphi
 		alexandria
-		carthage
+		ephesus
+	}
+
+	tenets = {
+		tenet_astrology
+		tenet_communal_identity
+		tenet_esotericism
+	}
+
+	doctrines = {
+		unreformed_faith_doctrine
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman ancient_egyptian trojan macedonian carthaginian }
+}
+
+alexandrian_faith = {
+	main_rite = alexandros_rite
+	historical = yes
+
+	faith_details = {
+		religion = hellenism_religion
+		color = { 0.071 0.412 0.78 }
+		icon = hellenic_alexandros
+		reformed_icon = hellenic_reformed
+	}
+
+	eminent_holy_sites = {
+		athens
+		olympus
+	}
+
+	holy_sites = {
+		delphi
+		alexandria
+		ephesus
 	}
 
 	tenets = {
