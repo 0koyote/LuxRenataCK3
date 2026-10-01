@@ -323,3 +323,17 @@ pope_blessing = {
 		always = no
 	}
 }
+
+lux_doctrine_soul = {
+	category = main
+	is_available_on_create = {
+		always = yes
+	}
+}
+
+lux_doctrine_ascendant = {
+	category = main
+	is_available_on_create = {
+		always = yes
+	}
+}
