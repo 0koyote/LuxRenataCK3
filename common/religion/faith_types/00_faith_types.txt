@@ -2236,6 +2236,45 @@ solar_christ_faith = {
 	cultures = { greek roman }
 }
 
+solar_islam_faith = {
+	main_rite = solar_islam_rite
+	historical = yes
+	head_of_rite = d_sol_islam
+
+	faith_details = {
+		religion = solar_religion
+		color = rgb { 184 219 148 }
+		religious_head = d_sol_islam
+		icon = sol_islam
+	}
+
+	eminent_holy_sites = {
+		baghdad
+		constantinople
+	}
+
+	holy_sites = {
+		petra
+		alexandria
+		emesa
+		jerusalem
+	}
+
+	tenets = {
+		tenet_sun_worship
+		tenet_communion
+		tenet_monasticism
+	}
+
+	doctrines = {
+		lux_doctrine_statist_soul
+		lux_doctrine_christian_ascendant
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
 roman_faith = {
 	main_rite = roman_pagan
 	historical = yes
