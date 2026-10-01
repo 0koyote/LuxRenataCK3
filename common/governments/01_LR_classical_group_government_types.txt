@@ -126,7 +126,6 @@ roman_administrative_government = { #Roman Administrative Government, Hellenisti
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_administrative
-	
 		government_is_classical_group
 		government_is_roman_administrative
 		government_is_roman_government
