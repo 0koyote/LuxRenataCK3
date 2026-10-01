@@ -13,73 +13,70 @@ yearly_global_pulse = {
 			}
 			spawn_historical_characters_effect = yes
 		}
-		#Lux Renata TBA
 		# Visigothic culture split
 		## Deprecated; to reenable, remove always = no line & decomment the trigger_event section.
-		# if = {
-		# 	limit = {
-		# 		always = no
-		# 		current_date <= 5920.1.1 # No need to check this in later starts
-		# 		NOT = { has_global_variable = visigothic_culture_split }
-		# 		current_date >= 5850.1.1
-		# 	}
-		# 	random = {
-		# 		chance = 0 # No chance the first year of play if starting in 867
-		# 		modifier = {
-		# 			add = 10
-		# 			current_date >= 5868.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 10 # 20% chance
-		# 			current_date >= 5875.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 10 # 30% chance
-		# 			current_date >= 5890.1.1
-		# 		}
-		# 		set_global_variable = {
-		# 			name = visigothic_culture_split
-		# 			value = yes
-		# 		}
-		# 		#trigger_event = {
-		# 			#id = global_culture.0001
-		# 			#days = { 60 300 }
-		# 		#}
-		# 	}
-		# }
-		#Lux Renata TBA
+		if = {
+			limit = {
+				always = no
+				current_date <= 920.1.1 # No need to check this in later starts
+				NOT = { has_global_variable = visigothic_culture_split }
+				current_date >= 850.1.1
+			}
+			random = {
+				chance = 0 # No chance the first year of play if starting in 867
+				modifier = {
+					add = 10
+					current_date >= 868.1.1
+				}
+				modifier = {
+					add = 10 # 20% chance
+					current_date >= 875.1.1
+				}
+				modifier = {
+					add = 10 # 30% chance
+					current_date >= 890.1.1
+				}
+				set_global_variable = {
+					name = visigothic_culture_split
+					value = yes
+				}
+				#trigger_event = {
+					#id = global_culture.0001
+					#days = { 60 300 }
+				#}
+			}
+		}
 		# Norse culture split.
-		# if = {
-		# 	limit = {
-		# 		current_date < 5990.1.1
-		# 		NOT = { has_global_variable = norse_culture_split }
-		# 		current_date >= 5950.1.1
-		# 	}
-		# 	random = {
-		# 		chance = 10
-		# 		modifier = {
-		# 			add = 20 # 30% chance
-		# 			current_date >= 5960.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 30 # 60% chance
-		# 			current_date >= 5970.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 40 # 100% chance
-		# 			current_date >= 5980.1.1
-		# 		}
-		# 		set_global_variable = {
-		# 			name = norse_culture_split
-		# 			value = yes
-		# 		}
-		# 		trigger_event = {
-		# 			id = global_culture.0011
-		# 			days = { 60 300 }
-		# 		}
-		# 	}
-		# }
-		#Lux Renata TBA
+		if = {
+			limit = {
+				current_date < 990.1.1
+				NOT = { has_global_variable = norse_culture_split }
+				current_date >= 950.1.1
+			}
+			random = {
+				chance = 10
+				modifier = {
+					add = 20 # 30% chance
+					current_date >= 960.1.1
+				}
+				modifier = {
+					add = 30 # 60% chance
+					current_date >= 970.1.1
+				}
+				modifier = {
+					add = 40 # 100% chance
+					current_date >= 980.1.1
+				}
+				set_global_variable = {
+					name = norse_culture_split
+					value = yes
+				}
+				trigger_event = {
+					id = global_culture.0011
+					days = { 60 300 }
+				}
+			}
+		}
 		# Anglo-Saxon -> Scottish Culture Shift
 		# if = {
 		# 	limit = {
@@ -447,107 +444,105 @@ yearly_global_pulse = {
 		}
 
 		# The Rise of the Seljuk
-		#Lux Renata TBA
-		# if = { limit = { has_game_rule = never_seljuk_invasion } }
-		# else_if = { # Random Seljuk Invasion
-		# 	limit = {
-		# 		has_game_rule = random_seljuk_invasion
-		# 		NOR = {
-		# 			exists = global_var:seljuk_invasion_happened
-		# 			exists = struggle:persian_struggle # We don't allow it during the struggle (not that it can happen in 930)
-		# 		}
-		# 	}
-		# 	random = {
-		# 		chance = fp3_seljuk_chance_of_appearance
-		# 		modifier = {
-		# 			add = 5
-		# 			current_date > 5965.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 5
-		# 			current_date > 5985.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 5
-		# 			current_date > 6005.1.1
-		# 		}
-		# 		modifier = {
-		# 			factor = 0.25
-		# 			OR = {
-		# 				culture:turkish = { culture_number_of_counties = 0 }
-		# 				faith:ashari = { has_followers_trigger = no }
-		# 			}
-		# 		}
-		# 		set_global_variable = {
-		# 			name = seljuk_invasion_happened
-		# 			value = yes
-		# 		}
-		# 		debug_log = "Attempting to spawn seljuk invasion within 240 days"
-		# 		trigger_event = {
-		# 			id = fp3_story_cycle_seljuks_invasion_events.0001
-		# 			days = { 2 240 }
-		# 		}
-		# 	}
-		# }
-		# else_if = { # Historical Seljuk Invasion
-		# 	limit = {
-		# 		current_date < 6066.1.1
-		# 		current_date >= 5945.1.1
-		# 		NOR = {
-		# 			exists = global_var:seljuk_invasion_happened
-		# 			exists = struggle:persian_struggle # We don't allow it during the struggle (not that it can happen in 930)
-		# 		}
-		# 	}
-		# 	random = {
-		# 		chance = fp3_seljuk_chance_of_appearance
-		# 		modifier = {
-		# 			add = 5
-		# 			current_date > 5965.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 5
-		# 			current_date > 5985.1.1
-		# 		}
-		# 		modifier = {
-		# 			add = 5
-		# 			current_date > 6005.1.1
-		# 		}
-		# 		modifier = {
-		# 			factor = 0.25
-		# 			OR = {
-		# 				culture:turkish = { culture_number_of_counties = 0 }
-		# 				faith:ashari = { has_followers_trigger = no }
-		# 			}
-		# 		}
-		# 		set_global_variable = {
-		# 			name = seljuk_invasion_happened
-		# 			value = yes
-		# 		}
-		# 		debug_log = "Attempting to spawn seljuk invasion within 240 days"
-		# 		trigger_event = {
-		# 			id = fp3_story_cycle_seljuks_invasion_events.0001
-		# 			days = { 2 240 }
-		# 		}
-		# 	}
-		# }
+		if = { limit = { has_game_rule = never_seljuk_invasion } }
+		else_if = { # Random Seljuk Invasion
+			limit = {
+				has_game_rule = random_seljuk_invasion
+				NOR = {
+					exists = global_var:seljuk_invasion_happened
+					exists = struggle:persian_struggle # We don't allow it during the struggle (not that it can happen in 930)
+				}
+			}
+			random = {
+				chance = fp3_seljuk_chance_of_appearance
+				modifier = {
+					add = 5
+					current_date > 965.1.1
+				}
+				modifier = {
+					add = 5
+					current_date > 985.1.1
+				}
+				modifier = {
+					add = 5
+					current_date > 1005.1.1
+				}
+				modifier = {
+					factor = 0.25
+					OR = {
+						culture:turkish = { culture_number_of_counties = 0 }
+						faith:sunni = { has_followers_trigger = no }
+					}
+				}
+				set_global_variable = {
+					name = seljuk_invasion_happened
+					value = yes
+				}
+				debug_log = "Attempting to spawn seljuk invasion within 240 days"
+				trigger_event = {
+					id = fp3_story_cycle_seljuks_invasion_events.0001
+					days = { 2 240 }
+				}
+			}
+		}
+		else_if = { # Historical Seljuk Invasion
+			limit = {
+				current_date < 1066.1.1
+				current_date >= 945.1.1
+				NOR = {
+					exists = global_var:seljuk_invasion_happened
+					exists = struggle:persian_struggle # We don't allow it during the struggle (not that it can happen in 930)
+				}
+			}
+			random = {
+				chance = fp3_seljuk_chance_of_appearance
+				modifier = {
+					add = 5
+					current_date > 965.1.1
+				}
+				modifier = {
+					add = 5
+					current_date > 985.1.1
+				}
+				modifier = {
+					add = 5
+					current_date > 1005.1.1
+				}
+				modifier = {
+					factor = 0.25
+					OR = {
+						culture:turkish = { culture_number_of_counties = 0 }
+						faith:sunni = { has_followers_trigger = no }
+					}
+				}
+				set_global_variable = {
+					name = seljuk_invasion_happened
+					value = yes
+				}
+				debug_log = "Attempting to spawn seljuk invasion within 240 days"
+				trigger_event = {
+					id = fp3_story_cycle_seljuks_invasion_events.0001
+					days = { 2 240 }
+				}
+			}
+		}
 
 		# Zanj Rebellion
-		#Lux Renata TBA
-		# if = {
-		# 	limit = {
-		# 		current_date = 5868.1.2
-		# 		NOT = { exists = global_var:zanj_rebellion_happened }
-		# 	}
-		# 	debug_log = "Zanj Rebellion Story Cycle Started"
-		# 	trigger_event = {
-		# 		id = fp3_story_cycle_zanj_rebellion_events.0001
-		# 		days = { 100 5000 }
-		# 	}
-		# 	set_global_variable = {
-		# 		name = zanj_rebellion_happened
-		# 		value = yes
-		# 	}
-		# }
+		if = {
+			limit = {
+				current_date = 868.1.2
+				NOT = { exists = global_var:zanj_rebellion_happened }
+			}
+			debug_log = "Zanj Rebellion Story Cycle Started"
+			trigger_event = {
+				id = fp3_story_cycle_zanj_rebellion_events.0001
+				days = { 100 5000 }
+			}
+			set_global_variable = {
+				name = zanj_rebellion_happened
+				value = yes
+			}
+		}
 		#Grant latin emperor a de jure kingdom after 100 years, if they've failed to grab any de jure lands yet
 		if = {
 			limit = {
