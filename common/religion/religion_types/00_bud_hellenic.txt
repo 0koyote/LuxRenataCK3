@@ -1,6 +1,6 @@
 ﻿bud_hellenic_religion = {
 	religion_details = {
-		family = rf_pagan
+		family = rf_graeco_dharma
 		graphical_faith = "catholic_gfx"
 	}
 

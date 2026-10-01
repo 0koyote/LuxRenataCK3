@@ -1,6 +1,6 @@
 ﻿roman_religion = {
 	religion_details = {
-		family = rf_pagan
+		family = rf_graeco_roman
 		graphical_faith = "catholic_gfx"
 	}
 
