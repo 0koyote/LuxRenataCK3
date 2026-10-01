@@ -239,66 +239,81 @@ l_english:
  holy_order_sacred_band_of_boreas_adj: "Apollo-Borean"
 
  #Solar Christian
- sol_christ: "Solar Christianity"
- sol_christ_adj: "Solar Christian"
- sol_christ_adherent: "Solar Christian"
- sol_christ_adherent_plural: "Solar Christians"
- sol_christ_desc: "Solar Christianity is a Heretical [graeco_roman|E] religion of [statist|E] Soul, with significant Christian influences. Also called Solar Christianity, it was established in the 4th Century CE and popularized during the reign of Imperator Alexandros VII. Helianism claims that the Christian prophet, Jesus of Nazareth, is the only true Sun incarnate and the son of God. While it does share basic elements with other Christian creeds, its pagan elements, such as the adaptation of Dies Natalis Sol Invictus as a central holiday, or the personality cult of the Imperator as Christ's sole successor, make other Christian creeds treat their Solar brethren with suspicion and caution. While moderate Helianists are usually tolerated by followers of the Invincible Sun, more radical elements tend to openly challenge the authority of the Imperators, seeing them as mere usurpers to Christ, who is to return at the end of days to purge the earth of all evil. Helianist monarchs enjoy undisputed authority - which stems from the Solar component, supported by Saint Augustine's theory of Civitas Dei ('City of God') - according to which a strong secular state is required to protect the faithful from evil until the Day of Judgement comes and a pure Kingdom of God is created."
+ solar_christ_faith: "Solar Christianity"
+ solar_christ_faith_adj: "Solar Christian"
+ solar_christ_faith_adherent: "Solar Christian"
+ solar_christ_faith_adherent_plural: "Solar Christians"
+ solar_christ_faith_desc: "Solar Christianity is a Heretical [graeco_roman|E] religion of [statist|E] Soul, with significant Christian influences. Also called Solar Christianity, it was established in the 4th Century CE and popularized during the reign of Imperator Alexandros VII. Helianism claims that the Christian prophet, Jesus of Nazareth, is the only true Sun incarnate and the son of God. While it does share basic elements with other Christian creeds, its pagan elements, such as the adaptation of Dies Natalis Sol Invictus as a central holiday, or the personality cult of the Imperator as Christ's sole successor, make other Christian creeds treat their Solar brethren with suspicion and caution. While moderate Helianists are usually tolerated by followers of the Invincible Sun, more radical elements tend to openly challenge the authority of the Imperators, seeing them as mere usurpers to Christ, who is to return at the end of days to purge the earth of all evil. Helianist monarchs enjoy undisputed authority - which stems from the Solar component, supported by Saint Augustine's theory of Civitas Dei ('City of God') - according to which a strong secular state is required to protect the faithful from evil until the Day of Judgement comes and a pure Kingdom of God is created."
  
- sol_christ_high_god_name: "$solar_high_god_name_solar_god$"
- sol_christ_high_god_name_2: "$solar_high_god_name_solar_god$" # Optional translation alt
- sol_christ_high_god_name_3: "$solar_high_god_name_solar_god$" # Optional translation alt
- sol_christ_high_god_name_possessive: "$solar_high_god_name_solar_god_possessive$"
- sol_christ_good_god_christ_sol: "Sol Christos"
- sol_christ_good_god_son_of_the_sun: "Son of the Sun"
- sol_christ_creator_god_name: "$sol_christ_high_god_name$" # Optional translation alt
- sol_christ_creator_god_name_possessive: "$sol_christ_high_god_name$" # Optional translation alt
- sol_christ_high_god_name_alternate: "$sol_christ_high_god_name$"
- sol_christ_high_god_name_alternate_possessive: "$sol_christ_high_god_name$"
+ solar_christ_rite: "Solar Christianity"
+ solar_christ_rite_adj: "Solar Christian"
+ solar_christ_rite_adherent: "Solar Christian"
+ solar_christ_rite_adherent_plural: "Solar Christians"
+ solar_christ_rite_desc: "Solar Christianity is a Heretical [graeco_roman|E] religion of [statist|E] Soul, with significant Christian influences. Also called Solar Christianity, it was established in the 4th Century CE and popularized during the reign of Imperator Alexandros VII. Helianism claims that the Christian prophet, Jesus of Nazareth, is the only true Sun incarnate and the son of God. While it does share basic elements with other Christian creeds, its pagan elements, such as the adaptation of Dies Natalis Sol Invictus as a central holiday, or the personality cult of the Imperator as Christ's sole successor, make other Christian creeds treat their Solar brethren with suspicion and caution. While moderate Helianists are usually tolerated by followers of the Invincible Sun, more radical elements tend to openly challenge the authority of the Imperators, seeing them as mere usurpers to Christ, who is to return at the end of days to purge the earth of all evil. Helianist monarchs enjoy undisputed authority - which stems from the Solar component, supported by Saint Augustine's theory of Civitas Dei ('City of God') - according to which a strong secular state is required to protect the faithful from evil until the Day of Judgement comes and a pure Kingdom of God is created."
 
- sol_christ_religious_symbol: "$solar_religious_symbol_solar_cross$"
- sol_christ_religious_symbol_2: "$solar_religious_symbol_solar_cross$" # Optional translation alt
- sol_christ_religious_symbol_3: "$solar_religious_symbol_solar_cross$" # Optional translation alt
- sol_christ_religious_text: "The Solar Bible"
- sol_christ_religious_text_2: "$solar_religious_text$" # Optional translation alt
- sol_christ_religious_text_3: "$solar_religious_text$" # Optional translation alt
 
- sol_christ_religious_head_title: "Solar Priest"
- sol_christ_religious_head_title_female: "Solar Priestess"
- sol_christ_religious_head_title_name: "The Solar Temple"
- sol_christ_fertility_god_name: "St. Basilissa"
- sol_christ_fertility_god_name_possessive: "St. Basilissa's"
- sol_christ_wealth_god_name: "St. Eligius"
- sol_christ_wealth_god_name_possessive: "St. Eligius'"
- sol_christ_household_god_name: "St. Andreas"
- sol_christ_household_god_name_possessive: "St. Andreas'"
- sol_christ_fate_god_name: "St. Alexandros"
- sol_christ_fate_god_name_possessive: "St. Alexandros'"
- sol_christ_knowledge_god_name: "St. Hypatia"
- sol_christ_knowledge_god_name_possessive: "St. Hypatia's"
- sol_christ_war_god_name: "St. Georgius"
- sol_christ_war_god_name_possessive: "St. Georgius'"
- sol_christ_trickster_god_name: "St. Genesius"
- sol_christ_trickster_god_name_possessive: "St. Genesius'"
- sol_christ_water_god_name: "St. Julian"
- sol_christ_water_god_name_possessive: "St. Julian's"
- sol_christ_house_of_worship: "church"
- sol_christ_house_of_worship_2: "$sol_christ_house_of_worship$" # Optional translation alt
- sol_christ_house_of_worship_3: "$sol_christ_house_of_worship$" # Optional translation alt
- sol_christ_house_of_worship_plural: "churches"
- sol_christ_priest_male: "prior"
- sol_christ_priest_plural_male: "priors"
- sol_christ_priest_female: "prioress"
- sol_christ_priest_plural_female: "prioresses"
- sol_christ_bishop_male: "abbot"
- sol_christ_bishop_plural_male: "abbots"
- sol_christ_bishop_female: "abbess"
- sol_christ_bishop_plural_female: "abbesses"
+
+ solar_christ_faith_high_god_name: "$solar_high_god_name_solar_god$"
+ solar_christ_faith_high_god_name_2: "$solar_high_god_name_solar_god$" # Optional translation alt
+ solar_christ_faith_high_god_name_3: "$solar_high_god_name_solar_god$" # Optional translation alt
+ solar_christ_faith_high_god_name_possessive: "$solar_high_god_name_solar_god_possessive$"
+ solar_christ_faith_good_god_christ_sol: "Sol Christos"
+ solar_christ_faith_good_god_son_of_the_sun: "Son of the Sun"
+ solar_christ_faith_creator_god_name: "$solar_christ_faith_high_god_name$" # Optional translation alt
+ solar_christ_faith_creator_god_name_possessive: "$solar_christ_faith_high_god_name$" # Optional translation alt
+ solar_christ_faith_high_god_name_alternate: "$solar_christ_faith_high_god_name$"
+ solar_christ_faith_high_god_name_alternate_possessive: "$solar_christ_faith_high_god_name$"
+
+ solar_christ_faith_religious_symbol: "$solar_religious_symbol_solar_cross$"
+ solar_christ_faith_religious_symbol_2: "$solar_religious_symbol_solar_cross$" # Optional translation alt
+ solar_christ_faith_religious_symbol_3: "$solar_religious_symbol_solar_cross$" # Optional translation alt
+ solar_christ_faith_religious_text: "The Solar Bible"
+ solar_christ_faith_religious_text_2: "$solar_religious_text$" # Optional translation alt
+ solar_christ_faith_religious_text_3: "$solar_religious_text$" # Optional translation alt
+
+ solar_christ_faith_religious_head_title: "Solar Priest"
+ solar_christ_faith_religious_head_title_female: "Solar Priestess"
+ solar_christ_faith_religious_head_title_name: "The Solar Temple"
+ solar_christ_faith_fertility_god_name: "St. Basilissa"
+ solar_christ_faith_fertility_god_name_possessive: "St. Basilissa's"
+ solar_christ_faith_wealth_god_name: "St. Eligius"
+ solar_christ_faith_wealth_god_name_possessive: "St. Eligius'"
+ solar_christ_faith_household_god_name: "St. Andreas"
+ solar_christ_faith_household_god_name_possessive: "St. Andreas'"
+ solar_christ_faith_fate_god_name: "St. Alexandros"
+ solar_christ_faith_fate_god_name_possessive: "St. Alexandros'"
+ solar_christ_faith_knowledge_god_name: "St. Hypatia"
+ solar_christ_faith_knowledge_god_name_possessive: "St. Hypatia's"
+ solar_christ_faith_war_god_name: "St. Georgius"
+ solar_christ_faith_war_god_name_possessive: "St. Georgius'"
+ solar_christ_faith_trickster_god_name: "St. Genesius"
+ solar_christ_faith_trickster_god_name_possessive: "St. Genesius'"
+ solar_christ_faith_water_god_name: "St. Julian"
+ solar_christ_faith_water_god_name_possessive: "St. Julian's"
+ solar_christ_faith_house_of_worship: "church"
+ solar_christ_faith_house_of_worship_2: "$solar_christ_faith_house_of_worship$" # Optional translation alt
+ solar_christ_faith_house_of_worship_3: "$solar_christ_faith_house_of_worship$" # Optional translation alt
+ solar_christ_faith_house_of_worship_plural: "churches"
+ solar_christ_faith_priest_male: "prior"
+ solar_christ_faith_priest_plural_male: "priors"
+ solar_christ_faith_priest_female: "prioress"
+ solar_christ_faith_priest_plural_female: "prioresses"
+ solar_christ_faith_bishop_male: "abbot"
+ solar_christ_faith_bishop_plural_male: "abbots"
+ solar_christ_faith_bishop_female: "abbess"
+ solar_christ_faith_bishop_plural_female: "abbesses"
 
  holy_order_ordo_christi_illuminatoris: "Ordo Christi Illuminatoris"
  holy_order_ordo_christi_illuminatoris_adj: "Helianist"
  holy_order_order_of_saint_georgius: "Order of Saint Georgius"
  holy_order_order_of_saint_georgius_adj: "Helianist"
+
+ solar_christ_rite: "Solar Christianity"
+ solar_christ_rite_adj: "Solar Christian"
+ solar_christ_rite_adherent: "Solar Christian"
+ solar_christ_rite_adherent_plural: "Solar Christians"
+ solar_christ_rite_desc: "Solar Christianity is a Heretical [graeco_roman|E] religion of [statist|E] Soul, with significant Christian influences. Also called Solar Christianity, it was established in the 4th Century CE and popularized during the reign of Imperator Alexandros VII. Helianism claims that the Christian prophet, Jesus of Nazareth, is the only true Sun incarnate and the son of God. While it does share basic elements with other Christian creeds, its pagan elements, such as the adaptation of Dies Natalis Sol Invictus as a central holiday, or the personality cult of the Imperator as Christ's sole successor, make other Christian creeds treat their Solar brethren with suspicion and caution. While moderate Helianists are usually tolerated by followers of the Invincible Sun, more radical elements tend to openly challenge the authority of the Imperators, seeing them as mere usurpers to Christ, who is to return at the end of days to purge the earth of all evil. Helianist monarchs enjoy undisputed authority - which stems from the Solar component, supported by Saint Augustine's theory of Civitas Dei ('City of God') - according to which a strong secular state is required to protect the faithful from evil until the Day of Judgement comes and a pure Kingdom of God is created."
+
 
  #Sol Islam
  sol_islam: "Al-Shamsiyyah"
