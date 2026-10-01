@@ -1271,7 +1271,7 @@
 	
 	# History
 	5800.1.1 = { culture = suebi }
-	5800.1.1 = { faith = martinianism }
+	5800.1.1 = { rite = martinianism }
 	6139.7.26 = {
 		culture = suebi
 	}
@@ -1295,7 +1295,7 @@
 	holding = castle_holding
 	
 	# History
-	5600.1.1 = { faith = martinianism }
+	5600.1.1 = { rite = martinianism }
 	6139.7.26 = {
 		culture = suebi
 	}
@@ -1356,7 +1356,7 @@
 	holding = castle_holding
 	
 	# History
-	5700.1.1 = { faith = martinianism }
+	5700.1.1 = { rite = martinianism }
 
 }
 2003 = {	# GRALHEIRA/Cinfaes
@@ -1627,7 +1627,7 @@
 	holding = castle_holding
 
 	# History
-	5950.1.1 = { faith = mari_christ }
+	5950.1.1 = { rite = mari_christ }
 }
 1810 = {	# LOGRONO
 	holding = city_holding
@@ -1648,7 +1648,7 @@
 	5800.1.1 = { culture = andalusian }
 	5950.1.1 = {
 		culture = basque
-		faith = mari_christ
+		rite = mari_christ
 	}
 }
 1890 = {	# TARAZONA/Olite
