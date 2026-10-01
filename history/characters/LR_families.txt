@@ -637,7 +637,7 @@
 	#dynasty = dynasty_hellenistic_argead
 	dynasty_house = house_argeadai
 	health = 8
-	rite = "alexandros"
+	rite = "alexandros_rite"
 	culture = "hellenistic"
 	trait = intellect_good_1
 	trait = ambitious
@@ -657,7 +657,7 @@
 	dynasty_house = house_argeadai
 	father = 1712340
 	health = 8
-	rite = "alexandros"
+	rite = "alexandros_rite"
 	culture = "hellenistic"
 	trait = education_martial_4
 	trait = ambitious

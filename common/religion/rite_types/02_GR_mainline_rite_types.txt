@@ -110,3 +110,25 @@ hellenic_pagan_rite = {
 	# TODO_PAM_DESIGN TIT-72804
 	cultures = { greek hellenistic trojan macedonian }
 }
+
+alexandros_rite = {
+	name = alexandros_rite
+	desc = alexandros_rite_desc
+	founder = d_alexandros
+	faith = alexandrian_faith
+
+	color = rgb { 144 122 21 }
+	icon = hellenic_alexandros
+    tenets = {
+        tenet_pursuit_of_power
+		tenet_astrology
+		tenet_communal_identity
+    }
+	doctrines = {
+		lux_doctrine_archaic_ascendant
+		lux_doctrine_martial_soul
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { hellenistic }
+}
