@@ -249,7 +249,7 @@
 		PantheonTerm2 = religion_the_gods_2
 		PantheonTerm3 = religion_the_gods_3
 		PantheonTermHasHave = pantheon_term_have
-		GoodGodNames = { roman_good_god_poseidon roman_good_god_athena roman_good_god_ares roman_good_god_hera roman_good_god_apollo roman_good_god_artemis roman_good_god_hermes roman_good_god_aphrodite }
+		GoodGodNames = { roman_good_god_neptune roman_good_god_minerva roman_good_god_mars roman_good_god_juno roman_good_god_apollo roman_good_god_diana roman_good_god_hermes roman_good_god_venus }
 		DevilName = roman_devil_name
 		DevilNamePossessive = roman_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_HE
@@ -302,8 +302,8 @@
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
 		DeathDeityHerHim = CHARACTER_HERHIM_HIM
-		WitchGodName = roman_witchgodname_hekate
-		WitchGodNamePossessive = roman_witchgodname_hekate_possessive
+		WitchGodName = roman_witch_god_name_trivia
+		WitchGodNamePossessive = roman_witch_god_name_trivia
 		WitchGodHerHis = CHARACTER_HERHIS_HER
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HER
