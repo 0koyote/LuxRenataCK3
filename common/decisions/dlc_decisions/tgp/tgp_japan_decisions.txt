@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
 ﻿# Admin to Feudal
 ### Establish Sōryō Fief ###
 tgp_japan_establish_house_fief_decision = {
@@ -1874,4 +1871,3 @@ tgp_japan_emperor_war_decision = {
 		base = 200
 	}
 }
->>>>>>> Lux-Renata-main

@@ -588,13 +588,6 @@ choose_master_terrain_decision = {
 
 # Form Bosporan Kingdom 
 ### Restore the Bosporan Kingdom ###
-<<<<<<< HEAD
-#Redone in Hellenic Decisions
-
-# Merging France and Aquitaine
-### France as One ###
-#TBA REDONE IN GAUL DECISIONS
-=======
 form_bosporan_kingdom_decision = {
 	picture = {
 		reference = "gfx/interface/illustrations/event_scenes/ep3_medi_estate.dds"
@@ -892,7 +885,6 @@ merge_aquitaine_decision = {
 		base = 100
 	}
 }
->>>>>>> Lux-Renata-main
 
 # The Legacy of the Adventurer
 # By Ariana Tranumn

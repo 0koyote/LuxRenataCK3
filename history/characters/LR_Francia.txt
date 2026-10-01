@@ -1324,21 +1324,6 @@ Eudes_II_Blois = {
 	6037.1.1 = { death = yes }
 }
 Thibauld_III_Blois = {
-<<<<<<< HEAD
-	name = Thibauld
-	dynasty = 721
-	culture = french
-	faith = catholic
-	father = Eudes_I_Blois
-	5983.1.1 = { birth = yes }
-	6004.1.1 = { death = yes }
-}
-Thibauld_IV_Blois = {
-	name = Thibauld
-	dynasty = 721
-	culture = french
-	faith = catholic
-=======
 	name = Thibauld
 	dynasty = 721
 	culture = french
@@ -1352,7 +1337,6 @@ Thibauld_IV_Blois = {
 	dynasty = 721
 	culture = french
 	rite = catholic
->>>>>>> Lux-Renata-main
 	father = Eudes_II_Blois
 	6012.1.1 = { birth = yes }
 	6100.1.1 = { death = yes }
@@ -1361,11 +1345,7 @@ EtienneIBlois = {
 	name = E_tienne
 	dynasty = 721
 	culture = french
-<<<<<<< HEAD
-	faith = catholic
-=======
 	rite = catholic
->>>>>>> Lux-Renata-main
 	father = Thibauld_IV_Blois
 	6045.1.1 = { birth = yes }
 	6100.1.1 = { death = yes }
@@ -1374,11 +1354,7 @@ Eudes_IV_Blois = {
 	name = Eudes
 	dynasty = 721
 	culture = french
-<<<<<<< HEAD
-	faith = catholic
-=======
 	rite = catholic
->>>>>>> Lux-Renata-main
 	father = Thibauld_IV_Blois
 	6046.1.1 = { birth = yes }
 	6100.1.1 = { death = yes }

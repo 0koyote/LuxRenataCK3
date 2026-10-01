@@ -279,9 +279,5 @@ special_genes = {
 				girl = female
 			}
 		}
-<<<<<<< HEAD
-
-=======
->>>>>>> Lux-Renata-main
 	}
 }

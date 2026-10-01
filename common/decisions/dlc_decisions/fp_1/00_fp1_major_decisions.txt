@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿#cleaned
-=======
 ﻿##################################################
 
 #	Fury of the Northmen Major Decisions List
@@ -633,4 +630,3 @@ forge_the_jomsvikings_decision = {
 		base = 100
 	}
 }
->>>>>>> Lux-Renata-main

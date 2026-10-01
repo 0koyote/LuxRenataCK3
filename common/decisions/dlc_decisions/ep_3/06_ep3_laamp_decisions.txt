@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿#empty
-=======
 ﻿@laamp_gallivanter_ai_will_do_bonus_1_value = 10
 @laamp_gallivanter_ai_will_do_bonus_2_value = 30
 @laamp_gallivanter_ai_will_do_bonus_3_value = 50
@@ -3314,4 +3311,3 @@ humiliate_the_stooge_decision = {
 		}
 	}
 }
->>>>>>> Lux-Renata-main

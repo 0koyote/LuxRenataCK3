@@ -20,9 +20,6 @@ window = {
 	movable = no
 	layer = middle
 
-	### WINDOW SIZE AND BACKGROUND
-	using = agot_faith_window_state_changes
-	
 	using = Window_Size_Sidebar
 	using = Window_Background_Sidebar
 
@@ -35,13 +32,7 @@ window = {
 	state = {
 		name = _show
 		position = { 0 0 }
-<<<<<<< HEAD
-		#LUX RENATA
-		#on_start = "[GetVariableSystem.Set( 'faith_view_tabs', 'beliefs' )]"
-=======
->>>>>>> Lux-Renata-main
 		on_start = "[GetVariableSystem.Set( 'hide_bottom_left_HUD', 'true' )]"
-		on_finish = "[GetScriptedGui('faith_switch_effect').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('faith', FaithWindow.GetFaith.MakeScope).End)]"
 
 		using = Animation_FadeIn_Quick
 		using = Sound_WindowShow_Standard
@@ -442,15 +433,8 @@ window = {
 
 			button_tab = {
 				shortcut = "tab_1"
-<<<<<<< HEAD
-				onclick = "[GetVariableSystem.Set( 'faith_view_tabs', 'beliefs' )]"
-				#AGOT Modified
-				# down = "[GetVariableSystem.HasValue( 'faith_view_tabs', 'beliefs' )]"
-				down = "[Not(Or(GetVariableSystem.HasValue('faith_view_tabs', 'holy_sites'), GetVariableSystem.HasValue('faith_view_tabs', 'patron_gods')))]"
-=======
 				onclick = "[FaithWindow.SetActiveTab( 'tab_beliefs' )]"
 				down = "[FaithWindow.IsActiveTab( 'tab_beliefs' )]"
->>>>>>> Lux-Renata-main
 
 				alwaystransparent = "[FaithWindow.IsActiveTab( 'tab_beliefs' )]"
 
@@ -1512,17 +1496,9 @@ window = {
 					using = tooltip_ne
 				}
 
-<<<<<<< HEAD
-				button_standard = {
-					name = "create_faith"
-					#visible = "[And( ObjectsEqual(Faith.Self, GetPlayer.GetFaith ), GetVariableSystem.HasValue( 'faith_view_tabs', 'beliefs' ))]"
-					visible = "[Not(Or(GetVariableSystem.HasValue('faith_view_tabs', 'holy_sites'), GetVariableSystem.HasValue('faith_view_tabs', 'patron_gods')))]"
-					minimumsize = { 240 0 }
-=======
 				button_decision_entry = {
 					datacontext = "[GetDecisionWithKey( 'create_holy_order_decision' )]"
 					visible = "[Decision.IsShownForPlayer]"
->>>>>>> Lux-Renata-main
 
 					layoutpolicy_horizontal = expanding
 					size = { 1 @rite_button_height }
@@ -1696,11 +1672,6 @@ window = {
 				}
 			}
 		}
-<<<<<<< HEAD
-		#AGOT Added
-		window_faith_major_patron_tab = {}	
-=======
->>>>>>> Lux-Renata-main
 	}
 
 	window_religion_sub_window = {

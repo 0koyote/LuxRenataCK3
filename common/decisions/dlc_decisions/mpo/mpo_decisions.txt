@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿#empty
-=======
 ﻿### Call for Confederation ###
 call_for_confederation_decision = {
 	picture = {
@@ -7045,4 +7042,3 @@ become_nomadic_decision = {
 		base = 0
 	}
 }
->>>>>>> Lux-Renata-main

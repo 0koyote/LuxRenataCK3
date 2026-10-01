@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿#empty
-=======
 ﻿### Pray to Protective Amulet ###
 pray_to_protective_amulet_decision = {
 	picture = {
@@ -205,4 +202,3 @@ adopt_nomadic_ways_decision = {
 		}
 	}
 }
->>>>>>> Lux-Renata-main

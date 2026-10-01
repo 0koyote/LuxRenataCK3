@@ -7,7 +7,6 @@
         "*.txt": "paradox-ck3",
         "*.gui": "paradox-gui",
         "*.mod": "paradox-mod",
-        "**/localization/**/*.yml": "paradox-loc",
-        "**/gfx/**/*.asset": "paradox-ck3"
+        "**/localization/**/*.yml": "paradox-loc"
     }
 }

@@ -1,12 +1,4 @@
 ﻿bud_hellenic_religion = {
-<<<<<<< HEAD
-	family = rf_graeco_dharma
-	graphical_faith = dharmic_gfx
-	doctrine = indo_hellenic_hostility_doctrine
-	#doctrine = eastern_hostility_doctrine
-	doctrine = lux_doctrine_graeco_roman_ascendant
-	
-=======
 	religion_details = {
 		family = rf_pagan
 		graphical_faith = "catholic_gfx"
@@ -16,7 +8,6 @@
 
 	doctrine = pagan_hostility_doctrine
 
->>>>>>> Lux-Renata-main
 	#Main Group
 	doctrine = doctrine_polytheist
 	doctrine = doctrine_no_head

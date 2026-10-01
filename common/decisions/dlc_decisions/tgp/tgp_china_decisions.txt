@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
 ﻿# Attend Children's Examination
 ### Attend Children's Examination ###
 tgp_china_attend_child_exam_decision = {
@@ -1650,4 +1647,3 @@ extract_gold_from_treasury = {
 		base = 100
 	}
 }
->>>>>>> Lux-Renata-main

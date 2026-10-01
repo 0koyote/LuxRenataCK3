@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
 ﻿# Write a book, poetry, fiction, philosophy or governance
 
 ### Author Book ###
@@ -154,4 +151,3 @@ author_book_decision = {
 		base = 100
 	}
 }
->>>>>>> Lux-Renata-main

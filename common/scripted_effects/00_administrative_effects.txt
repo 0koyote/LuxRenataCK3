@@ -69,51 +69,8 @@ change_to_administrative_effect = {
 			OR = {
 				NOT = { government_has_mechanic = administrative }
 				AND = {
-<<<<<<< HEAD
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_japan_administrative }
-					NOT = { government_has_flag = government_is_japan_administrative }
-				}
-				AND = {
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_meritocratic }
-					NOT = { government_has_flag = government_is_meritocratic }
-				}
-				AND = {
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_celestial }
-					NOT = { government_has_flag = government_is_celestial }
-				}
-				AND = {
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_steppe_admin }
-					NOT = { government_has_flag = government_is_steppe_admin }
-				}
-				NOT = { government_allows = administrative }
-				AND = {
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_roman_administrative }
-					NOT = { government_has_flag = government_is_roman_administrative }
-				}
-				
-				AND = {
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_gaul_administrative }
-					NOT = { government_has_flag = government_is_gaul_administrative }
-				}
-				AND = {
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_alexandrian_administrative }
-					NOT = { government_has_flag = government_is_alexandrian_administrative }
-				}
-				AND = {
-					government_allows = administrative
-					scope:governor_liege = { government_has_flag = government_is_western_administrative }
-					NOT = { government_has_flag = government_is_western_administrative }
-=======
 					scope:governor_liege = { government_has_mechanic = administrative }
 					government_type != scope:governor_liege.government_type
->>>>>>> Lux-Renata-main
 				}
 			}
 		}
@@ -174,35 +131,6 @@ change_to_administrative_effect = {
 			}
 			change_government = japan_administrative_government
 		}
-<<<<<<< HEAD
-		if = { # Palatine
-			limit = {
-				trigger_if = {
-					limit = {
-						exists = scope:has_selected_a_government
-					}
-					scope:has_selected_a_government = flag:gaul_administrative
-				}
-				trigger_else_if = {
-					limit = {
-						top_liege = this
-					}
-					has_tgp_dlc_trigger = yes
-					LR_tgp_can_become_gaul_administrative_trigger = yes
-				}
-				trigger_else = {
-					scope:governor_liege = { government_has_flag = government_is_gaul_administrative }
-				}
-			}
-			change_to_administrative_holding_effect = yes
-			tgp_domicile_conversion_when_changing_government_type = {
-				NEW_DOMICILE_TYPE = gallic_manor
-				NEW_GOVERNMENT_TYPE = gaul_administrative_government
-			}
-			change_government = gaul_administrative_government
-		}
-=======
->>>>>>> Lux-Renata-main
 		else_if = { # Celestial
 			limit = {
 				trigger_if = {
@@ -283,89 +211,7 @@ change_to_administrative_effect = {
 			}
 			change_government = meritocratic_government
 		}
-<<<<<<< HEAD
-		else_if = { ##Roman Admin
-			limit = {
-				trigger_if = {
-					limit = {
-						exists = scope:has_selected_a_government
-					}
-					scope:has_selected_a_government = flag:roman_administrative
-				}
-				trigger_else_if = {
-					limit = {
-						scope:governor_liege ?= this
-					}
-					has_ep3_dlc_trigger = yes
-					should_become_roman_admin_trigger = yes
-				}
-				trigger_else = {
-					scope:governor_liege = { government_has_flag = government_is_roman_administrative }
-				}
-			}
-			change_to_administrative_holding_effect = yes
-			tgp_domicile_conversion_when_changing_government_type = {
-				NEW_DOMICILE_TYPE = classical_group_estate
-				NEW_GOVERNMENT_TYPE = roman_administrative_government
-			}
-			change_government = roman_administrative_government
-		}
-		else_if = { ##Diadochi Admin
-			limit = {
-				trigger_if = {
-					limit = {
-						exists = scope:has_selected_a_government
-					}
-					scope:has_selected_a_government = flag:alexandrian_administrative
-				}
-				trigger_else_if = {
-					limit = {
-						scope:governor_liege ?= this
-					}
-					has_ep3_dlc_trigger = yes
-					should_become_alexandrian_admin_trigger = yes
-				}
-				trigger_else = {
-					scope:governor_liege = { government_has_flag = government_is_alexandrian_administrative }
-				}
-			}
-			change_to_administrative_holding_effect = yes
-			tgp_domicile_conversion_when_changing_government_type = {
-				NEW_DOMICILE_TYPE = classical_group_estate
-				NEW_GOVERNMENT_TYPE = alexandrian_administrative_government
-			}
-			change_government = alexandrian_administrative_government
-		}
-		else_if = { ##Western Admin
-			limit = {
-				trigger_if = {
-					limit = {
-						exists = scope:has_selected_a_government
-					}
-					scope:has_selected_a_government = flag:western_administrative
-				}
-				trigger_else_if = {
-					limit = {
-						scope:governor_liege ?= this
-					}
-					has_ep3_dlc_trigger = yes
-					should_become_western_admin_trigger = yes
-				}
-				trigger_else = {
-					scope:governor_liege = { government_has_flag = government_is_western_administrative }
-				}
-			}
-			change_to_administrative_holding_effect = yes
-			tgp_domicile_conversion_when_changing_government_type = {
-				NEW_DOMICILE_TYPE = western_group_estate
-				NEW_GOVERNMENT_TYPE = western_administrative_government
-			}
-			change_government = western_administrative_government
-		}
-		else_if = { # Administrative
-=======
 		else = { # Administrative
->>>>>>> Lux-Renata-main
 			add_character_flag = new_government_is_byz_admin
 			change_to_administrative_holding_effect = yes
 			tgp_domicile_conversion_when_changing_government_type = {

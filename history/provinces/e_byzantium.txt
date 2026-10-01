@@ -103,11 +103,7 @@
 }
 3759 = {	#Bizye AKA Vize
 	culture = greek
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 3758 = {	#Salmydessus
@@ -442,11 +438,7 @@
 ###c_neopatras
 3793 = {	#Neopatras
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = plato_christ
-=======
 	rite = plato_christ
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 3791 = {	#Domokos
@@ -2549,11 +2541,7 @@
 # 5609 - Tanadaris
 5609 = {	# 5609 - Tanadaris
 	culture = perso_hellenistic
-<<<<<<< HEAD
-	religion = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -4728,11 +4716,7 @@
 	
 	# Misc
 	culture = kurdish
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4745,11 +4729,7 @@
 	
 	# Misc
 	culture = assyrian
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	6120.1.1 = { rite = ashari }
@@ -4762,11 +4742,7 @@
 	
 	# Misc
 	culture = kurdish
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4799,11 +4775,7 @@
 # 4815 - HAKKARI
 4815 = {	# Misc
 	culture = perso_hellenistic
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	
@@ -4837,11 +4809,7 @@
 	
 	# Misc
 	culture = kurdish
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4854,11 +4822,7 @@
 	
 	# Misc
 	culture = kurdish
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4871,11 +4835,7 @@
 	
 	# Misc
 	culture = kurdish
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4888,11 +4848,7 @@
 	
 	# Misc
 	culture = kurdish
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4905,11 +4861,7 @@
 	
 	# Misc
 	culture = assyrian
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	holding = castle_holding
 	# History
 	6066.1.1 = {
@@ -4929,11 +4881,7 @@
 	
 	# Misc
 	culture = kurdish
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4957,11 +4905,7 @@
 	
 	# Misc
 	culture = levantine
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -4992,11 +4936,7 @@
 # 4848 - SINJAR
 4848 = {	#Misc
 	culture = assyrian
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	6120.1.1 = {
@@ -5011,11 +4951,7 @@
 	
 	# Misc
 	culture = levantine
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -5027,11 +4963,7 @@
 	
 	# Misc
 	culture = levantine
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -5043,11 +4975,7 @@
 	
 	# Misc
 	culture = levantine
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -5377,11 +5305,7 @@
 	
 	#Misc
 	culture = assyrian
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	6120.1.1 = {
@@ -5395,11 +5319,7 @@
 	
 	# Misc
 	culture = levantine
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	
@@ -5438,11 +5358,7 @@
 	
 	# Misc
 	culture = levantine
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 
@@ -5453,11 +5369,7 @@
 	
 	# Misc
 	culture = levantine
-<<<<<<< HEAD
-	religion = syriac_christ
-=======
 	rite = syriac_christ
->>>>>>> Lux-Renata-main
 	
 	# History
 	
@@ -5511,11 +5423,7 @@
 }
 13495 = {	# Oraion
 	culture = greek
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5534,11 +5442,7 @@
 }
 13481 = {	# Ierissos
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5557,11 +5461,7 @@
 }
 13487 = {	# Methone Makedonia
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 13488 = {	# Pydna
@@ -5580,11 +5480,7 @@
 ### c_acarnania  
 13475 = {	# Amphylokion
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5596,11 +5492,7 @@
 }
 13473 = {	# Pleuron
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5619,22 +5511,14 @@
 }
 13439 = {	# Orchomenos Boeotia
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = neoplato
-=======
 	rite = neoplato
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 ### c_phocis  
 13471 = {	# Chaleion Amphissa
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = neoplato
-=======
 	rite = neoplato
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5658,11 +5542,7 @@
 }
 13444 = {	# Styra Euboea
 	culture = greek
-<<<<<<< HEAD
-	religion = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5681,11 +5561,7 @@
 ### c_thera  
 13382 = {	# Astypalaia
 	culture = greek
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5699,22 +5575,14 @@
 ### c_kos  
 13297 = {	# Padmos
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = sol_apollo
-=======
 	rite = sol_apollo
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 ### c_lemnos  
 13376 = {	# Imbros
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 13377 = {	# Samothrake
@@ -5738,11 +5606,7 @@
 }
 13464 = {	# Thyreia
 	culture = greek
-<<<<<<< HEAD
-	religion = sabellianist
-=======
 	rite = sabellianist
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5754,11 +5618,7 @@
 }
 13462 = {	# Leuktron
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = mithras_sol
-=======
 	rite = mithras_sol
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5770,11 +5630,7 @@
 }
 13345 = {	# Kolybrassos
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5786,11 +5642,7 @@
 }
 13286 = {	# Magarsos
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5804,11 +5656,7 @@
 # MARONEIA in c_mosynopolis
 13493 = {	# Maroneia
 	culture = greek
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5829,11 +5677,7 @@
 # AMBRAKIA in c_nicopolis
 13477 = {	# Ambrakia
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5889,22 +5733,14 @@
 # IOS in c_naxos
 13380 = {	# Ios
 	culture = greek
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 # BOLISSOS in c_chios
 13304 = {	# Bolissos
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = neoplato
-=======
 	rite = neoplato
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5932,11 +5768,7 @@
 # KAMIROS in c_rhodos
 13324 = {	# Kamiros
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = sol_apollo
-=======
 	rite = sol_apollo
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5950,11 +5782,7 @@
 # PHERAI in c_demetrias
 13489 = {	# Pherai
 	culture = greek
-<<<<<<< HEAD
-	religion = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -5996,11 +5824,7 @@
 # KALASYRTA in c_nikomedia
 13412 = {	# Kalasyrta
 	culture = greek
-<<<<<<< HEAD
-	religion = roman_jupiter
-=======
 	rite = roman_jupiter
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6033,11 +5857,7 @@
 # TATTAIOS in c_nikaea
 13334 = {	# Tattaios
 	culture = greek
-<<<<<<< HEAD
-	religion = roman_jupiter
-=======
 	rite = roman_jupiter
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6079,22 +5899,14 @@
 # ADRASTEIA in c_kyzikos
 13355 = {	# Adrasteia
 	culture = greek
-<<<<<<< HEAD
-	religion = roman_jupiter
-=======
 	rite = roman_jupiter
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 # SKAMANDREIA in c_abydos
 13361 = {	# Skamandreia
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = alexandros
-=======
 	rite = alexandros
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6122,11 +5934,7 @@
 # GRENNA in c_pisidia
 13306 = {	# Grenna
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6140,11 +5948,7 @@
 # LYSINIA in c_sozopolis_pisidia
 13303 = {	# Lysinia
 	culture = greek
-<<<<<<< HEAD
-	religion = tarhunt
-=======
 	rite = tarhunt
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6158,11 +5962,7 @@
 # PHELBOS in c_lycia
 13312 = {	# Phelbos
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6176,11 +5976,7 @@
 # BOUBON in c_kabaleia
 13327 = {	# Boubon
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6194,11 +5990,7 @@
 # PATRA in c_telmessos
 13310 = {	# Patra
 	culture = greek
-<<<<<<< HEAD
-	religion = illuyanka
-=======
 	rite = illuyanka
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6212,11 +6004,7 @@
 # DAIDALIA in c_telmessos
 13320 = {	# Daidalia
 	culture = greek
-<<<<<<< HEAD
-	religion = illuyanka
-=======
 	rite = illuyanka
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6230,11 +6018,7 @@
 # ARSINOE CILICIA in c_pamphylia
 13291 = {	# Arsinoe Cilicia
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6248,11 +6032,7 @@
 # KELENDERIS in c_pamphylia
 13293 = {	# Kelenderis
 	culture = greek
-<<<<<<< HEAD
-	religion = sol_imperial
-=======
 	rite = sol_imperial
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6272,22 +6052,14 @@
 # ARIASSOS in c_attaleia
 13315 = {	# Ariassos
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 # MAGYDOS in c_attaleia
 13308 = {	# Magydos
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6308,22 +6080,14 @@
 # ANDABITIS in c_garsauria
 13427 = {	# Andabitis
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 # ZOROPASSOS in c_kyzistra
 13430 = {	# Zoropassos
 	culture = galatian
-<<<<<<< HEAD
-	religion = mithras_sol
-=======
 	rite = mithras_sol
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6337,11 +6101,7 @@
 # MAGABA in c_galatia
 13406 = {	# Magaba
 	culture = galatian
-<<<<<<< HEAD
-	religion = mithras_sol
-=======
 	rite = mithras_sol
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6355,11 +6115,7 @@
 # SADAGOLTHINA in c_lower_galatia
 13408 = {	# Sadagolthina
 	culture = galatian
-<<<<<<< HEAD
-	religion = mithras_sol
-=======
 	rite = mithras_sol
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6373,11 +6129,7 @@
 # PHLAOUIAS in c_arabissus
 13283 = {	# Phlaouias
 	culture = greek
-<<<<<<< HEAD
-	religion = orthodox
-=======
 	rite = orthodox
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6405,11 +6157,7 @@
 # HOLMAI in c_seleucia
 13294 = {	# Holmai
 	culture = greek
-<<<<<<< HEAD
-	religion = sol_christ
-=======
 	rite = sol_christ
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6423,11 +6171,7 @@
 # IMBAROS in c_ninike
 13301 = {	# Imbaros
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6441,11 +6185,7 @@
 # ARIARATHEIA in c_azysia
 13330 = {	# Ariaratheia
 	culture = armenian
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6473,11 +6213,7 @@
 # ALABANDA in c_miletus
 13371 = {	# Alabanda
 	culture = greek
-<<<<<<< HEAD
-	religion = roman_jupiter
-=======
 	rite = roman_jupiter
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6491,11 +6227,7 @@
 # PERPERENE in c_pergamon
 13363 = {	# Perperene
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = cybele
-=======
 	rite = cybele
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6516,11 +6248,7 @@
 # AIGAI PHOCAEA in c_aeolis
 13416 = {	# Aigai Phocaea
 	culture = hellenistic
-<<<<<<< HEAD
-	religion = cybele
-=======
 	rite = cybele
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6541,11 +6269,7 @@
 # TABAI in c_caria
 13351 = {	# Tabai
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6566,11 +6290,7 @@
 # PHYSKOS in c_cnidos
 13321 = {	# Physkos
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6584,11 +6304,7 @@
 # KAUNOS in c_cnidos
 13323 = {	# Kaunos
 	culture = greek
-<<<<<<< HEAD
-	religion = luwian
-=======
 	rite = luwian
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6609,11 +6325,7 @@
 # NYSSA in c_maeonia
 13385 = {	# Nyssa
 	culture = greek
-<<<<<<< HEAD
-	religion = apollinarist
-=======
 	rite = apollinarist
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6634,33 +6346,21 @@
 # POROTTA in c_thyatira
 13423 = {	# Porotta
 	culture = greek
-<<<<<<< HEAD
-	religion = apollinarist
-=======
 	rite = apollinarist
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 # NAKRASSA in c_thyatira
 13417 = {	# Nakrassa
 	culture = greek
-<<<<<<< HEAD
-	religion = apollinarist
-=======
 	rite = apollinarist
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
 # HYRKANIS in c_thyatira
 13424 = {	# Hyrkanis
 	culture = greek
-<<<<<<< HEAD
-	religion = apollinarist
-=======
 	rite = apollinarist
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 
@@ -6674,11 +6374,7 @@
 # HERAKLEIA SALBAKE in c_chonae
 13349 = {	# Herakleia Salbake
 	culture = greek
-<<<<<<< HEAD
-	religion = apollinarist
-=======
 	rite = apollinarist
->>>>>>> Lux-Renata-main
 	holding = castle_holding #none
 }
 

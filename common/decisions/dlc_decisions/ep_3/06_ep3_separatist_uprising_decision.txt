@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿#Empty
-=======
 ﻿#############################################
 # Lead a Separatist Uprising
 #############################################
@@ -106,4 +103,3 @@ separatist_uprising_decision = {
 		}
 	}
 }
->>>>>>> Lux-Renata-main

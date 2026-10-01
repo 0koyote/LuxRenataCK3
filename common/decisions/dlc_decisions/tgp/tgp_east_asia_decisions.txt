@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
 ﻿#Decisions for East Asia
 ### Restore Mandala Capital ###
 restore_mandala_capital_decision = {
@@ -875,4 +872,3 @@ create_bunga_mas_decision = {
 		base = 0
 	}
 }
->>>>>>> Lux-Renata-main

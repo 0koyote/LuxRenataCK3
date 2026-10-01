@@ -1638,11 +1638,7 @@ special_genes = {
 					1 = f_hair_tgp_chinese_04
 					1 = f_hair_tgp_chinese_04_common
 					1 = f_hair_tgp_chinese_05
-<<<<<<< HEAD
-					1 = f_hair_tgp_chinese_05_common	
-=======
 					1 = f_hair_tgp_chinese_05_common
->>>>>>> Lux-Renata-main
 				}
 
 				boy = male
@@ -1763,11 +1759,7 @@ special_genes = {
 				girl = female
 			}
 
-<<<<<<< HEAD
-			#CCP7 Emishi / Ainu 
-=======
 			#CCP7 Emishi / Ainu
->>>>>>> Lux-Renata-main
 			cp7_emishi_ainu_hairstyles_straight_wavy = {
 				index = 80
 				male = {
@@ -1807,20 +1799,12 @@ special_genes = {
 				girl = female
 			}
 
-<<<<<<< HEAD
-			### CCP9 ###	
-=======
 			### CCP9 ###
->>>>>>> Lux-Renata-main
 			ccp9_uighur_hairstyles = {
 				index = 82
 				male = {
 					1 = m_hair_ccp9_uyg_nob_01
-<<<<<<< HEAD
-					
-=======
 
->>>>>>> Lux-Renata-main
 				}
 				female = {
 					1 = f_hair_tgp_chinese_01
@@ -1832,30 +1816,18 @@ special_genes = {
 					1 = f_hair_tgp_chinese_04
 					1 = f_hair_tgp_chinese_04_common
 					1 = f_hair_tgp_chinese_05
-<<<<<<< HEAD
-					1 = f_hair_tgp_chinese_05_common	
-=======
 					1 = f_hair_tgp_chinese_05_common
->>>>>>> Lux-Renata-main
 				}
 
 				boy = male
 				girl = female
 			}
-<<<<<<< HEAD
-			### SP5 ###	
-=======
 			### SP5 ###
->>>>>>> Lux-Renata-main
 			sp5_hairstyles = {
 				index = 83
 				male = {
 					1 = m_hair_sp5_western_01
-<<<<<<< HEAD
-					
-=======
 
->>>>>>> Lux-Renata-main
 				}
 				female = {
 				}
@@ -1863,8 +1835,6 @@ special_genes = {
 				boy = male
 				girl = female
 			}
-<<<<<<< HEAD
-=======
 
 			### PAM ###
 
@@ -1931,7 +1901,6 @@ special_genes = {
 				boy = male
 				girl = female
 			}
->>>>>>> Lux-Renata-main
 		}
 	}
 }

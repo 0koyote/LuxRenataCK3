@@ -62,21 +62,7 @@ purchase_land_interaction = {
 		scope:recipient = {
 			is_landed = yes
 			# Need to own the land/cannot directly buy a governorship (procure estate first)
-<<<<<<< HEAD
-			NOR = { 
-				government_has_flag = government_is_administrative
-				government_has_flag = government_is_japan_administrative
-				government_has_flag = government_is_japan_feudal
-				government_has_flag = government_is_celestial
-				government_has_flag = government_is_meritocratic
-				government_has_flag = government_is_classical_group
-				government_has_flag = government_is_roman_government
-				government_has_flag = government_is_gaul_feudal
-				government_has_flag = government_is_gaul_administrative
-			} 
-=======
 			NOT = { government_allows = noble_families }
->>>>>>> Lux-Renata-main
 		}
 		scope:recipient != scope:actor
 	}

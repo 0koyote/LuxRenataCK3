@@ -859,12 +859,6 @@ on_birth_real_father = {
 # scope:real_father is the biological father
 # scope:is_bastard, true if a known bastard
 on_birth_child = {
-<<<<<<< HEAD
-	on_actions = {
-		historical_bloodlines_inherit_action
-	}
-=======
->>>>>>> Lux-Renata-main
 	events = {
 		middle_east_decisions.0012 #Saoshyant Descendants.
 		major_decisions.0101 #Divine/Consecrated Blood Descendants.

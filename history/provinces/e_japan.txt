@@ -176,17 +176,10 @@
 }
 10547 = {	# SOO
 	culture = nihono_hellenic
-<<<<<<< HEAD
-	religion = bud_pureland
-	holding = castle_holding
-	6066.1.1 = {
-		religion = bud_pureland
-=======
 	rite = bud_pureland
 	holding = castle_holding
 	6066.1.1 = {
 		rite = bud_pureland
->>>>>>> Lux-Renata-main
 	}
 }
 ###c_higo # HIGO

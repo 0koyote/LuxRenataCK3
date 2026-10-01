@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
 ﻿##########
 #Unify Samhan/Goryeo
 ### Unite the Husamguk ###
@@ -131,4 +128,3 @@ tgp_korea_unify_goryeo_decision = {
 		base = 100
 	}
 }
->>>>>>> Lux-Renata-main

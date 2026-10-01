@@ -569,11 +569,8 @@ NGovernment = {
 		"wanua_government"
 		"meritocratic_government"
 		"steppe_admin_government"
-<<<<<<< HEAD
-=======
 		"ecclesiastical_government"
 		
->>>>>>> Lux-Renata-main
 		#####LUX RENATA########		
 
 		"high_tribal_government"

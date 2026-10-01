@@ -3351,11 +3351,7 @@ Philippos_II_Argeadai = { #Filler to link up better.
 	#dna = yffrkivunhl
 	#properties = cl0hck00000
 	health = 8
-<<<<<<< HEAD
-	faith = hypsistarian
-=======
 	rite = hypsistarian
->>>>>>> Lux-Renata-main
 	culture = hellenistic
 	trait = bloodline_mithridates
 	6044.1.1 = {
@@ -5273,11 +5269,7 @@ Olympia_I_Aeacid = { #Olympia, mother of Alexander the Great.
 	female = yes
 	dynasty = dynasty_aeacidae
 	father = Neoptolemos_II_Aeacid
-<<<<<<< HEAD
-	faith = hellenic_pagan 
-=======
 	rite = hellenic_pagan 
->>>>>>> Lux-Renata-main
 	culture = hellenistic 
 	4626.1.1 = {
 		birth = yes
@@ -5499,11 +5491,7 @@ Alketas_III_Aeacid = {
 	name = Alketas
 	dynasty = dynasty_aeacidae
 	father = Mithridates_I_Aeacid
-<<<<<<< HEAD
-	faith = hellenic_pagan 
-=======
 	rite = hellenic_pagan 
->>>>>>> Lux-Renata-main
 	culture = hellenistic 
 	4942.1.1 = {
 		birth = yes
@@ -5791,11 +5779,7 @@ Niketas_I_Aeacid = {
 	name = Niketas
 	dynasty = dynasty_aeacidae
 	father = Pyrrhus_In_Exile_V_Aeacid
-<<<<<<< HEAD
-	faith = mithras_sol
-=======
 	rite = mithras_sol
->>>>>>> Lux-Renata-main
 	culture = hellenistic 
 	5399.1.1 = {
 		birth = yes
@@ -8544,11 +8528,7 @@ Eurydice_I_Lysimachus = {
 	dynasty = dynasty_hellenistic_lysimachus
 	father = 1711575
 	mother = 1711608
-<<<<<<< HEAD
-	faith = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	culture = hellenistic
 	4680.1.1 = {
 		birth = yes
@@ -8600,11 +8580,7 @@ Lysimachus_II_Lysimachus = {
 	dynasty = dynasty_hellenistic_lysimachus
 	father = 1711575
 	mother = 1711606
-<<<<<<< HEAD
-	faith = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	culture = hellenistic
 	trait = bloodline_lysimachus
 	4704.1.1 = {
@@ -8622,11 +8598,7 @@ Phillip_I_Lysimachus = {
 	dynasty = dynasty_hellenistic_lysimachus
 	father = 1711575
 	mother = 1711606
-<<<<<<< HEAD
-	faith = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	culture = hellenistic
 	trait = bloodline_lysimachus
 	4707.1.1 = {
@@ -8643,11 +8615,7 @@ Phillip_I_Lysimachus = {
 	name = Alexandros #son of Lysimachus, client ruler of Chios in 201 BCE
 	dynasty = dynasty_hellenistic_lysimachus
 	father = 1711575
-<<<<<<< HEAD
-	faith = hellenic_pagan
-=======
 	rite = hellenic_pagan
->>>>>>> Lux-Renata-main
 	culture = hellenistic
 	trait = legitimized_bastard
 	trait = bloodline_lysimachus
