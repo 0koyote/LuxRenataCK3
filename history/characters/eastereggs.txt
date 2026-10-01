@@ -569,7 +569,7 @@ easteregg_mathilda_bjarnehed = {
 	name = Mathilda
 	dna = easteregg_mathilda_bjarnehed
 	#dynasty = vanity_bjarnehed
-	rite = catholic
+	rite = roman_rite
 	culture = swedish
 	female = yes
 
@@ -836,7 +836,7 @@ easteregg_sean_hughes = {
 	name = Sean
 	dna = easteregg_sean_hughes
 	#dynasty = vanity_hughes
-	rite = catholic
+	rite = roman_rite
 	culture = saxon
 
 	trait = education_stewardship_3
@@ -883,7 +883,7 @@ easteregg_petter_vilberg = {
 	name = Petter
 	dna = easteregg_petter_vilberg
 	#dynasty = vanity_vilberg
-	rite = catholic
+	rite = roman_rite
 	culture = norwegian
 	martial = 6
 	diplomacy = 6
@@ -929,7 +929,7 @@ easteregg_maximilian_olbers = {
 	name = Maximilian
 	dna = easteregg_maximilian_olbers
 	#dynasty = vanity_olbers
-	rite = catholic
+	rite = roman_rite
 	culture = swedish
 	martial = 6
 	diplomacy = 7
@@ -1237,7 +1237,7 @@ easteregg_paul_depre = {
 	name = "Paul"
 	dna = easteregg_paul_depre
 	#dynasty = vanity_depre
-	rite = catholic
+	rite = roman_rite
 	culture = franconian
 
 	martial = 5
@@ -1288,7 +1288,7 @@ easteregg_debbie_lane = {
 	name = "Debbie"
 	dna = easteregg_debbie_lane
 	#dynasty = vanity_lane
-	rite = catholic
+	rite = roman_rite
 	culture = norse
 	female = yes
 
@@ -1403,7 +1403,7 @@ easteregg_petter_lundh = {
 easteregg_nicholas_meredith = {
 	name = "Nicholas"
 	#dynasty = vanity_meredith
-	rite = catholic
+	rite = roman_rite
 	culture = anglo_saxon
 	
 	#Skills
@@ -1475,7 +1475,7 @@ easteregg_nicholas_meredith = {
 easteregg_william_riggott = {
 	name = "William"
 	#dynasty = vanity_riggott
-	rite = catholic
+	rite = roman_rite
 	culture = anglo_saxon
 
 	#Education
@@ -1559,7 +1559,7 @@ easteregg_anna_johansson = {
 easteregg_arkadiusz_majewski = {
 	name = "Arkadiusz"
 	#dynasty = vanity_majewski
-	rite = catholic
+	rite = roman_rite
 	culture = polish
 
 	#Skills
@@ -1610,7 +1610,7 @@ easteregg_artur_kacprzak = {
 	name = "Artur"
 	dna = easteregg_artur_kacprzak_dna
 	#dynasty = vanity_kacprzak
-	rite = catholic
+	rite = roman_rite
 	culture = polish
 
 	#Skills
@@ -1922,7 +1922,7 @@ easteregg_max_weltz = {
 	name = "Marc"
 	#dynasty = vanity_du_welz
 	dna = easteregg_max_weltz
-	rite = catholic
+	rite = roman_rite
 	culture = french
 
 	#Skills
@@ -2097,7 +2097,7 @@ easteregg_patrick_mauffrey = {
 easteregg_viktor_stadler = {
 	name = "Viktor"
 	#dynasty = vanity_stadler
-	rite = catholic
+	rite = roman_rite
 	culture = swedish
 
 	#Skills
@@ -2149,7 +2149,7 @@ easteregg_viktor_stadler = {
 easteregg_jesse_henning = {
 	name = "Jesse"
 	#dynasty = vanity_henning
-	rite = catholic
+	rite = roman_rite
 	culture = saxon
 
 	#Education
@@ -2186,7 +2186,7 @@ easteregg_jesse_henning = {
 easteregg_rodrigue_delrue = {
 	name = "Rodrigue"
 	#dynasty = vanity_delrue
-	rite = catholic
+	rite = roman_rite
 	culture = french
 
 	diplomacy = 4
@@ -2226,7 +2226,7 @@ easteregg_hanna_lohman = {
 	name = "Hanna"
 	dna = easteregg_hanna_lohman
 	#dynasty = vanity_lohman
-	rite = catholic
+	rite = roman_rite
 	culture = norse
 	female = yes
 
@@ -2283,7 +2283,7 @@ easteregg_hanna_lohman = {
 easteregg_daniel_moore = {
 	name = "Daniel"
 	#dynasty = vanity_moore
-	rite = catholic
+	rite = roman_rite
 	culture = anglo_saxon
 	female = no
 
@@ -2336,7 +2336,7 @@ easteregg_daniel_moore = {
 easteregg_bartosz_byczynski = {
 	name = "Bartosz"
 	#dynasty = vanity_byczynski
-	rite = catholic
+	rite = roman_rite
 	culture = polish
 
 	#Skills
@@ -2389,7 +2389,7 @@ easteregg_bartosz_byczynski = {
 easteregg_joseph_gardener = {
 	name = "Joseph"
 	#dynasty = vanity_gardener
-	rite = catholic
+	rite = roman_rite
 	culture = anglo_saxon
 	female = no
 
@@ -2451,7 +2451,7 @@ easteregg_peter_johannesson = {
 	name = "Peter"
 	dna = easteregg_peter_johannesson
 	#dynasty = vanity_johannesson
-	rite = catholic
+	rite = roman_rite
 	culture = swedish
 	female = no
 
@@ -2619,7 +2619,7 @@ easteregg_bianca_savazzi = {
 	name = "Bianca"
 	dna = easteregg_bianca_savazzi
 	#dynasty = vanity_savazzi
-	rite = catholic
+	rite = roman_rite
 	culture = italian
 	female = yes
 
@@ -2689,7 +2689,7 @@ easteregg_bianca_savazzi = {
 easteregg_steacy_mcilwham = {
 	name = Steacy
 	#dynasty = vanity_mcilwham
-	rite = catholic
+	rite = roman_rite
 	culture = scottish
 	sexuality = heterosexual
 	female = yes
@@ -6605,7 +6605,7 @@ easteregg_emelie_verdugo = {
 easteregg_carsten_mannetje = {
 	name = "Carsten"
 	#dynasty = vanity_mannetje
-	rite = catholic 
+	rite = roman_rite 
 	culture = dutch 
 	female = no
 	sexuality = heterosexual
@@ -6763,7 +6763,7 @@ easteregg_anton_holmqvist = {
 	name = "Anton"
 	#dynasty = vanity_holmqvist
 	dna = easteregg_anton_holmqvist_dna
-	rite = catholic
+	rite = roman_rite
 	culture = swedish
 	female = no
 	#Skills

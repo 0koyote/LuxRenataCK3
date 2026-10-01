@@ -2052,7 +2052,7 @@ lux_renata_1 = {
 anicius_faustus_anicius = {
 	name = Faustus
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	5310.1.1 = { birth = yes }
 	5380.1.1 = { death = yes }
@@ -2061,7 +2061,7 @@ anicius_faustus_anicius = {
 petronius_anicius_anicius = {
 	name = Petronius
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = anicius_faustus_anicius
 	5340.1.1 = { birth = yes }
@@ -2071,7 +2071,7 @@ petronius_anicius_anicius = {
 probus_petronius_anicius = {
 	name = Probus
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = petronius_anicius_anicius
 	5370.1.1 = { birth = yes }
@@ -2081,7 +2081,7 @@ probus_petronius_anicius = {
 faustus_probus_anicius = {
 	name = Faustus
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = probus_petronius_anicius
 	5400.1.1 = { birth = yes }
@@ -2091,7 +2091,7 @@ faustus_probus_anicius = {
 caecina_faustus_anicius = {
 	name = Caecina
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = faustus_probus_anicius
 	5435.1.1 = { birth = yes }
@@ -2101,7 +2101,7 @@ caecina_faustus_anicius = {
 manlius_caecina_anicius = {
 	name = Manlius
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = caecina_faustus_anicius
 	5465.1.1 = { birth = yes }
@@ -2112,7 +2112,7 @@ severina_manlius_anicia = {
 	name = Severina
 	female = yes
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = manlius_caecina_anicius
 	5492.1.1 = { birth = yes }
@@ -2687,7 +2687,7 @@ gregoria_martina_anicia = {
 gordianus_caecina_anicius = {
 	name = Gordianus
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = caecina_faustus_anicius
 	5470.1.1 = { birth = yes }
@@ -2698,7 +2698,7 @@ aemiliana_gordiana_anicia = {
 	name = Aemiliana
 	female = yes
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = gordianus_caecina_anicius
 	5500.1.1 = { birth = yes }
@@ -2709,7 +2709,7 @@ tharsilla_gordiana_anicia = {
 	name = Tharsilla
 	female = yes
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = gordianus_caecina_anicius
 	5504.1.1 = { birth = yes }
@@ -2720,7 +2720,7 @@ gordiana_gordiana_anicia = {
 	name = Gordiana
 	female = yes
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = gordianus_caecina_anicius
 	5510.1.1 = { birth = yes }
@@ -2730,7 +2730,7 @@ gordiana_gordiana_anicia = {
 gordianus_gordianus_anicius = {
 	name = Gordianus
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = gordianus_caecina_anicius
 	5512.1.1 = { birth = yes }
@@ -2755,7 +2755,7 @@ gregorius_gordianus_anicius = { #Pope Gregory the Great, in LR he is sent to pul
 palatinus_gordianus_anicius = {
 	name = Palatinus
 	dynasty = dynasty_roman_anicius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = gordianus_gordianus_anicius
 	mother = silvia_magnus_cassiodorus
@@ -2768,7 +2768,7 @@ palatinus_gordianus_anicius = {
 cassiodorus_senator_senior = {
 	name = Cassiodorus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	5395.1.1 = { birth = yes }
 	5465.1.1 = { death = yes }
@@ -2777,7 +2777,7 @@ cassiodorus_senator_senior = {
 cassiodorus_senator_iunior = {
 	name = Cassiodorus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_senator_senior
 	5425.1.1 = { birth = yes }
@@ -2787,7 +2787,7 @@ cassiodorus_senator_iunior = {
 cassiodorus_patricius = {
 	name = Cassiodorus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_senator_iunior
 	5455.1.1 = { birth = yes }
@@ -2800,7 +2800,7 @@ cassiodorus_senator = {
 	trait = theologian
 	give_nickname = nick_senator
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_patricius
 	5485.1.1 = { birth = yes }
@@ -2810,7 +2810,7 @@ cassiodorus_senator = {
 magnus_cassiodorus = {
 	name = Magnus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_patricius
 	5488.1.1 = { birth = yes }
@@ -2821,7 +2821,7 @@ silvia_magnus_cassiodorus = {
 	name = Silvia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = magnus_cassiodorus
 	5515.1.1 = { birth = yes }
@@ -2831,7 +2831,7 @@ silvia_magnus_cassiodorus = {
 aurelius_magnus_cassiodorus = {
 	name = Aurelius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = magnus_cassiodorus
 	5520.1.1 = { birth = yes }
@@ -2841,7 +2841,7 @@ aurelius_magnus_cassiodorus = {
 romanus_magnus_cassiodorus = {
 	name = Romanus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = magnus_cassiodorus
 	5524.1.1 = { birth = yes }
@@ -2852,7 +2852,7 @@ aurelia_magnus_cassiodoria = {
 	name = Aurelia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = magnus_cassiodorus
 	5528.1.1 = { birth = yes }
@@ -2862,7 +2862,7 @@ aurelia_magnus_cassiodoria = {
 cassiodorus_aurelius_cassiodorus = {
 	name = Cassiodorus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_magnus_cassiodorus
 	5552.1.1 = { birth = yes }
@@ -2872,7 +2872,7 @@ cassiodorus_aurelius_cassiodorus = {
 felix_aurelius_cassiodorus = {
 	name = Felix
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_magnus_cassiodorus
 	5556.1.1 = { birth = yes }
@@ -2883,7 +2883,7 @@ laurentia_aurelia_cassiodoria = {
 	name = Laurentia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_magnus_cassiodorus
 	5560.1.1 = { birth = yes }
@@ -2893,7 +2893,7 @@ laurentia_aurelia_cassiodoria = {
 eusebius_romanus_cassiodorus = {
 	name = Eusebius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_magnus_cassiodorus
 	5558.1.1 = { birth = yes }
@@ -2903,7 +2903,7 @@ eusebius_romanus_cassiodorus = {
 felix_romanus_cassiodorus = {
 	name = Felix
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_magnus_cassiodorus
 	5562.1.1 = { birth = yes }
@@ -2914,7 +2914,7 @@ marcellina_romana_cassiodoria = {
 	name = Marcellina
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_magnus_cassiodorus
 	5566.1.1 = { birth = yes }
@@ -2924,7 +2924,7 @@ marcellina_romana_cassiodoria = {
 laurentius_cassiodorus_cassiodorus = {
 	name = Laurentius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_aurelius_cassiodorus
 	5584.1.1 = { birth = yes }
@@ -2934,7 +2934,7 @@ laurentius_cassiodorus_cassiodorus = {
 magnus_cassiodorus_cassiodorus = {
 	name = Magnus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_aurelius_cassiodorus
 	5588.1.1 = { birth = yes }
@@ -2945,7 +2945,7 @@ aurelia_cassiodorus_cassiodoria = {
 	name = Aurelia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_aurelius_cassiodorus
 	5592.1.1 = { birth = yes }
@@ -2955,7 +2955,7 @@ aurelia_cassiodorus_cassiodoria = {
 romanus_eusebius_cassiodorus = {
 	name = Romanus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = eusebius_romanus_cassiodorus
 	5590.1.1 = { birth = yes }
@@ -2965,7 +2965,7 @@ romanus_eusebius_cassiodorus = {
 marcellinus_eusebius_cassiodorus = {
 	name = Marcellinus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = eusebius_romanus_cassiodorus
 	5594.1.1 = { birth = yes }
@@ -2976,7 +2976,7 @@ eusebia_eusebius_cassiodoria = {
 	name = Eusebia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = eusebius_romanus_cassiodorus
 	5598.1.1 = { birth = yes }
@@ -2986,7 +2986,7 @@ eusebia_eusebius_cassiodoria = {
 felix_laurentius_cassiodorus = {
 	name = Felix
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = laurentius_cassiodorus_cassiodorus
 	5616.1.1 = { birth = yes }
@@ -2996,7 +2996,7 @@ felix_laurentius_cassiodorus = {
 aurelius_laurentius_cassiodorus = {
 	name = Aurelius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = laurentius_cassiodorus_cassiodorus
 	5620.1.1 = { birth = yes }
@@ -3007,7 +3007,7 @@ laurentia_laurentii_cassiodoria = {
 	name = Laurentia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = laurentius_cassiodorus_cassiodorus
 	5624.1.1 = { birth = yes }
@@ -3017,7 +3017,7 @@ laurentia_laurentii_cassiodoria = {
 cassiodorus_romanus_cassiodorus = {
 	name = Cassiodorus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_eusebius_cassiodorus
 	5622.1.1 = { birth = yes }
@@ -3027,7 +3027,7 @@ cassiodorus_romanus_cassiodorus = {
 eusebius_romanus_cassiodorus_ii = {
 	name = Eusebius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_eusebius_cassiodorus
 	5626.1.1 = { birth = yes }
@@ -3038,7 +3038,7 @@ romana_romana_cassiodoria = {
 	name = Romana
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_eusebius_cassiodorus
 	5630.1.1 = { birth = yes }
@@ -3048,7 +3048,7 @@ romana_romana_cassiodoria = {
 justinus_felix_cassiodorus = {
 	name = Justinus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = felix_laurentius_cassiodorus
 	5648.1.1 = { birth = yes }
@@ -3058,7 +3058,7 @@ justinus_felix_cassiodorus = {
 romanus_felix_cassiodorus = {
 	name = Romanus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = felix_laurentius_cassiodorus
 	5652.1.1 = { birth = yes }
@@ -3069,7 +3069,7 @@ felicia_felicis_cassiodoria = {
 	name = Felicia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = felix_laurentius_cassiodorus
 	5656.1.1 = { birth = yes }
@@ -3079,7 +3079,7 @@ felicia_felicis_cassiodoria = {
 magnus_aurelius_cassiodorus = {
 	name = Magnus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_laurentius_cassiodorus
 	5650.1.1 = { birth = yes }
@@ -3089,7 +3089,7 @@ magnus_aurelius_cassiodorus = {
 marcellinus_aurelius_cassiodorus = {
 	name = Marcellinus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_laurentius_cassiodorus
 	5654.1.1 = { birth = yes }
@@ -3100,7 +3100,7 @@ aurelia_aurelii_cassiodoria = {
 	name = Aurelia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_laurentius_cassiodorus
 	5658.1.1 = { birth = yes }
@@ -3110,7 +3110,7 @@ aurelia_aurelii_cassiodoria = {
 laurentius_cassiodorus_cassiodorus_ii = {
 	name = Laurentius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_romanus_cassiodorus
 	5654.1.1 = { birth = yes }
@@ -3120,7 +3120,7 @@ laurentius_cassiodorus_cassiodorus_ii = {
 eusebius_cassiodorus_cassiodorus = {
 	name = Eusebius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_romanus_cassiodorus
 	5658.1.1 = { birth = yes }
@@ -3131,7 +3131,7 @@ cassiodoria_cassiodorus_cassiodoria = {
 	name = Cassiodora
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_romanus_cassiodorus
 	5662.1.1 = { birth = yes }
@@ -3141,7 +3141,7 @@ cassiodoria_cassiodorus_cassiodoria = {
 romanus_justinus_cassiodorus = {
 	name = Romanus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = justinus_felix_cassiodorus
 	5680.1.1 = { birth = yes }
@@ -3151,7 +3151,7 @@ romanus_justinus_cassiodorus = {
 marcellinus_romanus_cassiodorus = {
 	name = Marcellinus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_justinus_cassiodorus
 	5712.1.1 = { birth = yes }
@@ -3161,7 +3161,7 @@ marcellinus_romanus_cassiodorus = {
 aurelius_marcellinus_cassiodorus = {
 	name = Aurelius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = marcellinus_romanus_cassiodorus
 	5744.1.1 = { birth = yes }
@@ -3171,7 +3171,7 @@ aurelius_marcellinus_cassiodorus = {
 felix_aurelius_cassiodorus_ii = {
 	name = Felix
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_marcellinus_cassiodorus
 	5776.1.1 = { birth = yes }
@@ -3181,7 +3181,7 @@ felix_aurelius_cassiodorus_ii = {
 laurentius_felix_cassiodorus = {
 	name = Laurentius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = felix_aurelius_cassiodorus_ii
 	5808.1.1 = { birth = yes }
@@ -3191,7 +3191,7 @@ laurentius_felix_cassiodorus = {
 cassiodorus_laurentius_cassiodorus = {
 	name = Cassiodorus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = laurentius_felix_cassiodorus
 	5840.1.1 = { birth = yes }
@@ -3201,7 +3201,7 @@ cassiodorus_laurentius_cassiodorus = {
 eusebius_cassiodorus_cassiodorus_ii = {
 	name = Eusebius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_laurentius_cassiodorus
 	5872.1.1 = { birth = yes }
@@ -3211,7 +3211,7 @@ eusebius_cassiodorus_cassiodorus_ii = {
 romanus_eusebius_cassiodorus_iii = {
 	name = Romanus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = eusebius_cassiodorus_cassiodorus_ii
 	5904.1.1 = { birth = yes }
@@ -3221,7 +3221,7 @@ romanus_eusebius_cassiodorus_iii = {
 magnus_romanus_cassiodorus = {
 	name = Magnus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_eusebius_cassiodorus_iii
 	5936.1.1 = { birth = yes }
@@ -3231,7 +3231,7 @@ magnus_romanus_cassiodorus = {
 aurelius_romanus_cassiodorus = {
 	name = Aurelius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_eusebius_cassiodorus_iii
 	5940.1.1 = { birth = yes }
@@ -3242,7 +3242,7 @@ felicia_romana_cassiodoria = {
 	name = Felicia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_eusebius_cassiodorus_iii
 	5944.1.1 = { birth = yes }
@@ -3252,7 +3252,7 @@ felicia_romana_cassiodoria = {
 marcellinus_magnus_cassiodorus = {
 	name = Marcellinus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = magnus_romanus_cassiodorus
 	5968.1.1 = { birth = yes }
@@ -3263,7 +3263,7 @@ silvia_magna_cassiodoria = {
 	name = Silvia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = magnus_romanus_cassiodorus
 	5976.1.1 = { birth = yes }
@@ -3273,7 +3273,7 @@ silvia_magna_cassiodoria = {
 cassiodorus_aurelius_cassiodorus_ii = {
 	name = Aurelius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_romanus_cassiodorus
 	5970.1.1 = { birth = yes }
@@ -3283,7 +3283,7 @@ cassiodorus_aurelius_cassiodorus_ii = {
 eusebius_aurelius_cassiodorus = {
 	name = Eusebius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_romanus_cassiodorus
 	5974.1.1 = { birth = yes }
@@ -3294,7 +3294,7 @@ aurelia_aurelii_cassiodoria_2 = {
 	name = Aurelia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_romanus_cassiodorus
 	5978.1.1 = { birth = yes }
@@ -3304,7 +3304,7 @@ aurelia_aurelii_cassiodoria_2 = {
 romanus_marcellinus_cassiodorus = {
 	name = Romanus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = marcellinus_magnus_cassiodorus
 	6000.1.1 = { birth = yes }
@@ -3315,7 +3315,7 @@ marcellina_marcellini_cassiodoria = {
 	name = Marcellina
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = marcellinus_magnus_cassiodorus
 	6008.1.1 = { birth = yes }
@@ -3325,7 +3325,7 @@ marcellina_marcellini_cassiodoria = {
 laurentius_felix_cassiodorus_ii = {
 	name = Laurentius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = marcellinus_magnus_cassiodorus
 	6002.1.1 = { birth = yes }
@@ -3335,7 +3335,7 @@ laurentius_felix_cassiodorus_ii = {
 aurelius_cassiodorus_cassiodorus = {
 	name = Aurelius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_aurelius_cassiodorus_ii
 	6004.1.1 = { birth = yes }
@@ -3345,7 +3345,7 @@ aurelius_cassiodorus_cassiodorus = {
 eusebius_cassiodorus_cassiodorus_iii = {
 	name = Eusebius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_aurelius_cassiodorus_ii
 	6008.1.1 = { birth = yes }
@@ -3356,7 +3356,7 @@ cassiodoria_cassiodorus_cassiodoria_ii = {
 	name = Cassiodora
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = cassiodorus_aurelius_cassiodorus_ii
 	6012.1.1 = { birth = yes }
@@ -3367,7 +3367,7 @@ romana_romani_cassiodoria = {
 	name = Romana
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = romanus_marcellinus_cassiodorus
 	6040.1.1 = { birth = yes }
@@ -3377,7 +3377,7 @@ romana_romani_cassiodoria = {
 marcellinus_laurentius_cassiodorus = {
 	name = Marcellinus
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = laurentius_felix_cassiodorus_ii
 	6034.1.1 = { birth = yes }
@@ -3388,7 +3388,7 @@ laurentia_laurentii_cassiodoria_ii = {
 	name = Laurentia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = laurentius_felix_cassiodorus_ii
 	6042.1.1 = { birth = yes }
@@ -3398,7 +3398,7 @@ laurentia_laurentii_cassiodoria_ii = {
 eusebius_aurelius_cassiodorus_ii = {
 	name = Eusebius
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_cassiodorus_cassiodorus
 	6036.1.1 = { birth = yes }
@@ -3409,7 +3409,7 @@ aurelia_aurelii_cassiodoria_ii = {
 	name = Aurelia
 	female = yes
 	dynasty = dynasty_roman_cassiodorus
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = aurelius_cassiodorus_cassiodorus
 	6044.1.1 = { birth = yes }
@@ -3471,7 +3471,7 @@ aurelia_aurelii_cassiodoria_ii = {
 1712138 = {
 	name = Arcadius
 	dynasty_house = house_arcadius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = 11505
 	mother = 1712130
@@ -3485,7 +3485,7 @@ aurelia_aurelii_cassiodoria_ii = {
 1712139 = {
 	name = Flavianus
 	dynasty_house = house_arcadius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = 1712138
 	5432.1.1 = {
@@ -3498,7 +3498,7 @@ aurelia_aurelii_cassiodoria_ii = {
 1712140 = {
 	name = Publio #Exarch of Carthaginensis
 	dynasty_house = house_arcadius
-	rite = catholic
+	rite = roman_rite
 	culture = romano_hispanic
 	father = 1712139
 	5498.1.1 = {
@@ -3852,7 +3852,7 @@ aurelia_aurelii_cassiodoria_ii = {
 	name = Honorius
 	#dynasty = dynasty_roman_theodosius
 	dynasty_house = house_honorius
-	rite = catholic
+	rite = roman_rite
 	culture = roman
 	father = 11505
 	mother = 1712130

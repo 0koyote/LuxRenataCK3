@@ -199,7 +199,7 @@
 	holding = tribal_holding
 	5965.1.1 = {
 		culture = danish
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 }
@@ -220,7 +220,7 @@
 	holding = tribal_holding
 	5965.1.1 = {
 		culture = danish
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 }
@@ -235,7 +235,7 @@
 	holding = tribal_holding
 	5965.1.1 = {
 		culture = danish
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 }
@@ -261,7 +261,7 @@
 		culture = danish
 	}
 	6030.1.1 = {
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 }
@@ -1091,7 +1091,7 @@
 ###c_vingulmork
 234 = {	#OSLOSYSLAR	- Oslo
 	culture = norse
-	rite = catholic
+	rite = roman_rite
 	holding = tribal_holding
 	6000.1.1 = {
 		holding = castle_holding
@@ -1203,7 +1203,7 @@
 	holding = tribal_holding
 	6020.1.1 = {
 		culture = norse
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 }
@@ -1221,7 +1221,7 @@
 	holding = tribal_holding
 	6020.1.1 = {
 		culture = norse
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 }
@@ -1240,7 +1240,7 @@
 	holding = tribal_holding
 	6020.1.1 = {
 		culture = norse
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 	6066.1.1 = {
@@ -1265,7 +1265,7 @@
 	holding = tribal_holding
 	6020.1.1 = {
 		culture = norse
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 		#speculated to have been founded around 1020s
 	}
@@ -1290,7 +1290,7 @@
 	holding = tribal_holding
 	6020.1.1 = {
 		culture = norse
-		rite = catholic
+		rite = roman_rite
 		holding = castle_holding
 	}
 }

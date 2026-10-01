@@ -4140,7 +4140,7 @@
 	# 4th crusade: to Venice
 	
 	#1205.1.1 = { culture = italian }
-	#1205.1.1 = { rite = catholic }
+	#1205.1.1 = { rite = roman_rite }
 	
 	#1211.1.1 = { b_kandia = city }
 	#1211.1.1 = { capital = b_rethymno }
@@ -4181,7 +4181,7 @@
 	
 	#4th crusade
 	#1205.1.1 = { culture = italian }
-	#1205.1.1 = { rite = catholic }
+	#1205.1.1 = { rite = roman_rite }
 	
 	#1211.1.1 = { capital = b_lassithi }
 	

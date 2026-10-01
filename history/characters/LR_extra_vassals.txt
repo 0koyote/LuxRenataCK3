@@ -183,7 +183,7 @@
 1820023 = {
 	name = Ansila
 	dynasty = 1820021 
-	rite = catholic
+	rite = roman_rite
 	culture = visigothic
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -275,7 +275,7 @@
 1820031 = {
 	name = Oduulf
 	dynasty = 1820028
-	rite = catholic
+	rite = roman_rite
 	culture = visigothic
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -314,7 +314,7 @@
 1820034 = {
 	name = Ermengol
 	dynasty = 266
-	rite = catholic
+	rite = roman_rite
 	culture = catalan
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -342,7 +342,7 @@
 1820038 = {
 	name = BerenguiE_
 	dynasty = 1820033
-	rite = catholic
+	rite = roman_rite
 	culture = occitan
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -355,7 +355,7 @@
 1820039 = {
 	name = Tibericus
 	dynasty = 1820034
-	rite = catholic
+	rite = roman_rite
 	culture = romano_gothic
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -381,7 +381,7 @@
 1820041 = {
 	name = Athon
 	dynasty = 23100
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	trait = faith_warrior
 	6033.1.1 = {
@@ -395,7 +395,7 @@
 1820042 = {
 	name = Galdemar
 	dynasty = 23108
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	trait = faith_warrior
 	6033.1.1 = {
@@ -422,7 +422,7 @@
 1820044 = {
 	name = Guntram
 	dynasty = 1820037
-	rite = catholic
+	rite = roman_rite
 	culture = german
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -435,7 +435,7 @@
 1820045 = {
 	name = Gerold
 	dynasty = 1820038
-	rite = catholic
+	rite = roman_rite
 	culture = german
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -579,7 +579,7 @@
 1820058 = {
 	name = Henrik
 	dynasty = 1820048
-	rite = catholic
+	rite = roman_rite
 	culture = norse
 	6033.1.1 = {
 		birth = 6033.1.1
@@ -953,7 +953,7 @@
 1820095 = {
 	name = AdhE_mar
 	dynasty = 100146
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	6042.1.2 = {
 		birth = yes
@@ -967,7 +967,7 @@
 	name = SolE_ne
 	dynasty = 100138
 	female = yes
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	trait = ambitious
 	trait = gregarious
@@ -1012,7 +1012,7 @@
 1820099 = {
 	name = Robert
 	dynasty = 101754
-	rite = catholic
+	rite = roman_rite
 	culture = norman
 	6040.1.2 = {
 		birth = yes
@@ -1025,7 +1025,7 @@
 1820100 = {
 	name = Richard
 	dynasty = 22001
-	rite = catholic
+	rite = roman_rite
 	culture = norman
 	6037.1.2 = {
 		birth = yes
@@ -1038,7 +1038,7 @@
 1820101 = {
 	name = Guy
 	dynasty = 100098
-	rite = catholic
+	rite = roman_rite
 	culture = norman
 	6041.1.2 = {
 		birth = yes
@@ -1051,7 +1051,7 @@
 1820102 = {
 	name = Alphonse
 	dynasty = 681
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	6040.1.2 = {
 		birth = yes
@@ -1076,7 +1076,7 @@
 1820104 = {
 	name = Manass_Es
 	dynasty = 320
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	6039.1.2 = {
 		birth = yes
@@ -1100,7 +1100,7 @@
 1820106 = {
 	name = JaufrE_
 	dynasty = 100226
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	6040.1.2 = {
 		birth = yes
@@ -1124,7 +1124,7 @@
 1820108 = {
 	name = Othon
 	dynasty = 100077
-	rite = catholic
+	rite = roman_rite
 	culture = french
 	6040.1.2 = {
 		birth = yes
@@ -1136,7 +1136,7 @@
 1820109 = {
 	name = Godfrey
 	dynasty = 308
-	rite = catholic
+	rite = roman_rite
 	culture = norman
 	6039.1.2 = {
 		birth = yes
@@ -1227,7 +1227,7 @@
 1820116 = {
 	name = Kristof
 	dynasty = 209
-	rite = catholic
+	rite = roman_rite
 	culture = dutch
 	6041.1.2 = {
 		birth = yes
@@ -1240,7 +1240,7 @@
 1820117 = {
 	name = Othmar
 	dynasty = 100123
-	rite = catholic
+	rite = roman_rite
 	culture = german
 	6039.1.2 = {
 		birth = yes
@@ -1280,7 +1280,7 @@
 1820120 = {
 	name = Dietpold
 	dynasty = 100086
-	rite = catholic
+	rite = roman_rite
 	culture = german
 	6039.1.2 = {
 		birth = yes
@@ -1293,7 +1293,7 @@
 1820121 = {
 	name = Florian
 	dynasty = 1054
-	rite = catholic
+	rite = roman_rite
 	culture = german
 	6041.1.2 = {
 		birth = yes
@@ -1306,7 +1306,7 @@
 1820122 = {
 	name = Konrad
 	dynasty = 1820076
-	rite = catholic
+	rite = roman_rite
 	culture = german
 	6040.1.2 = {
 		birth = yes
@@ -1319,7 +1319,7 @@
 1820123 = {
 	name = Godomar
 	dynasty = 1820077
-	rite = catholic
+	rite = roman_rite
 	culture = burgundian
 	6039.1.2 = {
 		birth = yes
@@ -1345,7 +1345,7 @@
 1820125 = {
 	name = Septimus
 	dynasty = 1820079
-	rite = catholic
+	rite = roman_rite
 	culture = romano_gothic
 	6041.1.2 = {
 		birth = yes
@@ -1358,7 +1358,7 @@
 1820126 = {
 	name = Erich
 	dynasty = 1820080
-	rite = catholic
+	rite = roman_rite
 	culture = german
 	6040.1.2 = {
 		birth = yes
@@ -1371,7 +1371,7 @@
 1820127 = {
 	name = Theodo
 	dynasty = 1820081
-	rite = catholic
+	rite = roman_rite
 	culture = lombard
 	6039.1.2 = {
 		birth = yes
@@ -1384,7 +1384,7 @@
 1820128 = {
 	name = Lando
 	dynasty = 1820082
-	rite = catholic
+	rite = roman_rite
 	culture = lombard
 	6040.1.2 = {
 		birth = yes
@@ -1397,7 +1397,7 @@
 1820129 = {
 	name = Fausto
 	dynasty = 100354
-	rite = catholic
+	rite = roman_rite
 	culture = lombard
 	6042.1.2 = {
 		birth = yes
@@ -1414,7 +1414,7 @@
 1820133 = {
 	name = Damiano
 	dynasty = 100321
-	rite = catholic
+	rite = roman_rite
 	culture = lombard
 	6040.1.2 = {
 		birth = yes

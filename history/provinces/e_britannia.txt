@@ -412,7 +412,7 @@
 ###c_norfolk
 1522 = {	#Norwich
 	culture = anglo_saxon
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -442,7 +442,7 @@
 ###c_suffolk
 1518 = {	#Ipswich
 	culture = anglo_saxon
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6100.11.11 = {
 		culture = english
@@ -462,7 +462,7 @@
 ###c_cambridgeshire
 1534 = {	#Cambridge
 	culture = anglo_saxon
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6100.11.11 = {
 		culture = english
@@ -721,7 +721,7 @@
 ###c_kent
 1502 = {	#Dover
 	culture = anglo_saxon
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -756,7 +756,7 @@
 ###c_surrey
 1510 = {	#Chertsey
 	culture = anglo_saxon
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6100.11.11 = {
 		culture = english
@@ -775,7 +775,7 @@
 ###c_sussex
 1506 = {	#Lewes
 	culture = anglo_saxon
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6100.11.11 = {
 		culture = english
@@ -969,7 +969,7 @@
 		holding = castle_holding
 	}
 	6185.1.1 = {	#Norman invasion brings Catholic dominance.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 33 = {	#BIRR
@@ -989,7 +989,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 13 = {	#SLEMISH
@@ -1017,7 +1017,7 @@
 		holding = castle_holding
 	}
 	6189.1.1 = {	#Norman invasion brings Catholic dominance.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 17 = {	#ARMAGH
@@ -1045,7 +1045,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 10 = {	#RAPHOE
@@ -1074,7 +1074,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 23 = {	#ATHENRY
@@ -1101,7 +1101,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 21 = {	#CASTLEBAR
@@ -1153,7 +1153,7 @@
 		holding = castle_holding
 	}
 	6169.1.1 = { # "The Irish Church within the Norman area was European in style and more responsive to papal authority. Beyond this area, the old Irish Church remained isolated and more autonomous than it had been prior to 11169."
-		rite = catholic
+		rite = roman_rite
 	}
 }
 38 = {	#ENNISCORTHY
@@ -1175,7 +1175,7 @@
 		holding = castle_holding
 	}
 	6169.1.1 = { # "The Irish Church within the Norman area was European in style and more responsive to papal authority. Beyond this area, the old Irish Church remained isolated and more autonomous than it had been prior to 11169."
-		rite = catholic
+		rite = roman_rite
 	}
 }
 41 = {	#KILKENNY
@@ -1201,7 +1201,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 47 = {	#NENAGH
@@ -1223,7 +1223,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 8749 = {	#KINCORA
@@ -1239,7 +1239,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 50 = {	#EMLY
@@ -1261,7 +1261,7 @@
 		holding = castle_holding
 	}
 	6200.1.1 = {	#By the beginning of the 13th century, Insular Christianity was effectively fully integrated with Rome.
-		rite = catholic
+		rite = roman_rite
 	}
 }
 53 = {	#CORK

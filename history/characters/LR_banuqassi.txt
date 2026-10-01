@@ -1301,7 +1301,7 @@ father=1720463
 name="Moyses" #son of Jacome
 dynasty = 1100235
 culture=romano_gothic
-rite = catholic
+rite = roman_rite
 father=1720445
 5920.1.1={birth=yes}
 5970.1.1={death=yes}
@@ -1311,7 +1311,7 @@ father=1720445
 name="Lop" #son of Moyses
 dynasty = 1100235
 culture=visigothic
-rite = catholic
+rite = roman_rite
 father=1720466
 5940.1.1={birth=yes}
 6000.1.1={death=yes}
@@ -1321,7 +1321,7 @@ father=1720466
 name="Jacome" #son of Lop
 dynasty = 1100235
 culture=visigothic
-rite = catholic
+rite = roman_rite
 father=1720467
 5960.1.1={birth=yes}
 6025.1.1={death=yes}
@@ -1331,7 +1331,7 @@ father=1720467
 name="Moyses" #son of Jacome
 dynasty = 1100235
 culture=visigothic
-rite = catholic
+rite = roman_rite
 father=1720468
 5996.1.1={birth=yes}
 6067.1.1={death=yes}
@@ -1341,7 +1341,7 @@ father=1720468
 name="Jacome" #son of Moyses
 dynasty = 1100235
 culture=visigothic
-rite = catholic
+rite = roman_rite
 father=1720469
 6040.1.1={birth=yes}
 6100.1.1={death=yes}

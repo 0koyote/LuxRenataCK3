@@ -160,7 +160,7 @@
 	holding = castle_holding
 	6022.1.1 = {
 		culture = lombard
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2581 = {	#ASSISSI
@@ -177,7 +177,7 @@
 	holding = castle_holding
 	6022.1.1 = {
 		culture = roman
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2566 = {	#PERUGIA
@@ -191,7 +191,7 @@
 	holding = castle_holding
 	5415.1.1 = {
 		culture = herulian
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2588 = {	#RIETI
@@ -222,7 +222,7 @@
 	holding = castle_holding
 	6022.1.1 = {
 		culture = lombard
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2595 = {	#ATRI
@@ -244,7 +244,7 @@
 	duchy_capital_building = aurelian_walls_01
 	5042.1.1 = {
 		culture = roman
-		rite = catholic
+		rite = roman_rite
 	}
 	6066.1.1 = {
 		buildings = {
@@ -280,7 +280,7 @@
 	holding = castle_holding
 	5042.1.1 = {
 		culture = roman
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2573 = {	#SUTRI
@@ -297,7 +297,7 @@
 	holding = castle_holding
 	5042.1.1 = {
 		culture = roman
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2590 = {	#VELLETRI
@@ -322,7 +322,7 @@
 		rite = arian
 	}
 	566.1.1 = {
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2514 = {	#TRIESTE
@@ -348,7 +348,7 @@
 		rite = arian
 	}
 	566.1.1 = {
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2513 = {	#PORDENONE
@@ -390,7 +390,7 @@
 		rite = arian
 	}
 	566.1.1 = {
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2515 = {	#TRIGLAVSKI
@@ -405,7 +405,7 @@
 	holding = castle_holding
 	5042.1.1 = {
 		culture = roman
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2502 = {	#LESSINIA
@@ -425,7 +425,7 @@
 		rite = arian
 	}
 	566.1.1 = {
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2511 = {	#CENETA
@@ -449,7 +449,7 @@
 		rite = arian
 	}
 	566.1.1 = {
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2509 = {	#LONIGO
@@ -476,7 +476,7 @@
 		rite = arian
 	}
 	566.1.1 = {
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2524 = {	#ADRIA
@@ -570,7 +570,7 @@
 ###c_lombardia
 2482 = {	#MILAN
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5867.1.1 = {
 		buildings = {
@@ -601,7 +601,7 @@
 ###c_brescia
 2494 = {	#BRESCIA
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2493 = {	#BERGAMO
@@ -615,7 +615,7 @@
 ###c_como
 2477 = {	#COMO
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2472 = {	#POMBIA
@@ -628,7 +628,7 @@
 ###c_trent
 2499 = {	#TRENTO
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -651,7 +651,7 @@
 ###c_pavia
 2475 = {	#PAVIA
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2476 = {	#LODI
@@ -667,7 +667,7 @@
 ###c_cremona
 2491 = {	#CREMONA
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2489 = {	#RONCAGLIA
@@ -680,7 +680,7 @@
 ###c_parma
 2532 = {	#PARMA
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2490 = {	#FLORENTIOLA
@@ -693,7 +693,7 @@
 ###c_tortona
 2483 = {	#TORTONA
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2487 = {	#VOGHERA
@@ -753,7 +753,7 @@
 ###c_modena
 2540 = {	#MODENA
 	culture = italian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2535 = {	#CANOSSA
@@ -776,7 +776,7 @@
 ###c_mantua
 2497 = {	#MANTUA
 	culture = italian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2530 = {	#GUASTALLA
@@ -790,7 +790,7 @@
 ###c_pisa
 2536 = {	#PISA
 	culture = italian
-	rite = catholic
+	rite = roman_rite
 	holding = city_holding
 	6066.1.1 = {
 		buildings = {
@@ -1041,7 +1041,7 @@
 	holding = castle_holding
 	5895.1.1 = {
 		culture = norman
-		rite = catholic
+		rite = roman_rite
 	}
 }
 
@@ -1049,7 +1049,7 @@
 ###c_benevento
 2609 = {	#BENEVENTO
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2669 = {	#ALIFE
@@ -1076,7 +1076,7 @@
 	holding = castle_holding
 	5415.1.1 = {
 		culture = herulian
-		rite = catholic
+		rite = roman_rite
 	}
 }
 2605 = {	#LARINO
@@ -1147,7 +1147,7 @@
 ###c_apulia
 2619 = {	#TRANI
 	culture = sicilian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -1170,7 +1170,7 @@
 ###c_bari
 2623 = {	#BARI
 	culture = greek
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2624 = {	#MATERA
@@ -1201,7 +1201,7 @@
 ###c_salerno
 2612 = {	#SALERNO
 	culture = sicilian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5867.1.1 = {
 		buildings = {
@@ -1230,7 +1230,7 @@
 ###c_camarda
 2631 = {	#CAMARDA
 	culture = lombard
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	6091.1.1 = { culture = sicilian	}
 }

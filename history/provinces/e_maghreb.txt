@@ -861,7 +861,7 @@
 ###c_tunis
 4582 = {	#TUNIS / CARTHAGO
 	culture = vandal
-	rite = catholic
+	rite = roman_rite
 	
 	holding = castle_holding
 	
@@ -887,7 +887,7 @@
 }
 4583 = {	#QARTAJANA
 	culture = vandal
-	rite = catholic
+	rite = roman_rite
 	
 	holding = castle_holding
 	

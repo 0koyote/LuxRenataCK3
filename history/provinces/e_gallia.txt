@@ -524,7 +524,7 @@
 ###c_auvergne
 2294 = {	#AURILLAC
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2293 = {	#CARLAT
@@ -537,7 +537,7 @@
 ###c_clermont_sur_allier
 2289 = {	#CLERMONT SUR AILLER
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2295 = {	#LA TOUR
@@ -553,7 +553,7 @@
 ###c_thiers
 2299 = {	#THIERS
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2300 = {	#AMBERT
@@ -563,7 +563,7 @@
 ###c_velay
 2225 = {	#LE PUY
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2296 = {	#VELAY
@@ -574,7 +574,7 @@
 ###c_bourbon
 2310 = {	#BOURBON-LARCHEMBAULT
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 
 	6178.1.1 = {
@@ -594,7 +594,7 @@
 ###c_bellac
 2284 = {	#BELLAC
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2464 = {	#LA TREMOUILLE
@@ -603,7 +603,7 @@
 ###c_jaligny
 2309 = {	#SAINT POURCAIN
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 
 	6178.1.1 = {
@@ -617,7 +617,7 @@
 ###c_la_marche
 2285 = {	#GRANDMONT
 	culture = gallo_roman
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2286 = {	#GUERET
@@ -876,7 +876,7 @@
 ###c_besancon
 2076 = {	#BESANCON
 	culture = burgundian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2077 = {	#VESOUL
@@ -901,7 +901,7 @@
 ###c_bresse
 2071 = {	#BOURG
 	culture = burgundian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2457 = {	#CHAMPAGNOLE
@@ -914,7 +914,7 @@
 ###c_dole
 2458 = {	#DOLE
 	culture = burgundian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2191 = {	#QUINGEY
@@ -931,7 +931,7 @@
 ###c_bern
 2046 = {	#BERN
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2037 = {	#LAUSANNE
@@ -944,7 +944,7 @@
 ###c_aargau
 2049 = {	#BIEL
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2048 = {	#LUCERNE
@@ -954,7 +954,7 @@
 ###c_neuchatel
 2460 = {	#NEUCHATEL
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2074 = {	#PONTARLIER

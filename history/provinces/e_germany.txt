@@ -327,7 +327,7 @@
 ###c_alpsee
 2782 = {	#SCHONGAU
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2781 = {	#PEITING
@@ -353,7 +353,7 @@
 ###c_ravensburg
 2786 = {	#RAVENSBURG
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2787 = {	#BREGENZ
@@ -569,7 +569,7 @@
 ###c_innsbruck
 2950 = {	#INNSBRUCK
 	culture = bavarian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	special_building_slot = schwaz_mines_01
 }
@@ -583,7 +583,7 @@
 ###c_brixen
 2955 = {	#BRIXEN
 	culture = bavarian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2952 = {	#BRUNECK
@@ -594,7 +594,7 @@
 ###c_lienz
 3134 = {	#LIENZ
 	culture = bavarian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 3137 = {	#OBERVALLACH
@@ -1840,7 +1840,7 @@
 ###c_grisons
 2055 = {	#CHUR
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2052 = {	#LIECHTENSTEIN = b_farduzes
@@ -1856,7 +1856,7 @@
 ###c_sankt_gallen
 2053 = {	#SANKT GALLEN
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = church_holding
 }
 2054 = {	#KONSTANZ
@@ -1866,7 +1866,7 @@
 ###c_zurich
 2051 = {	#ZURICH
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2461 = {	#SCHWYZ
@@ -1927,7 +1927,7 @@
 ###c_sundgau
 2057 = {	#MONTBELIARD
 	culture = swabian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2058 = {	#MULHOUSE
@@ -2071,7 +2071,7 @@
 ###c_holland
 2406 = {	#AMSTERDAM
 	culture = frisian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2404 = {	#DELFT
@@ -2115,7 +2115,7 @@
 ###c_zeeland
 2112 = {	#MIDDELBURG
 	culture = frisian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2113 = {	#BERGEN OP ZOOM
@@ -2132,7 +2132,7 @@
 ###c_guelders
 2450 = {	#GELDERN
 	culture = frisian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2103 = {	#NIJMEGEN
@@ -2145,7 +2145,7 @@
 ###c_arnhem
 2428 = {	#ARNHEM
 	culture = frisian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2427 = {	#APELDOORN
@@ -2161,7 +2161,7 @@
 ###c_zutphen
 2429 = {	#ZUTPHEN
 	culture = frisian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2432 = {	#BORCULO
@@ -2181,7 +2181,7 @@
 ###c_nedersticht
 2424 = {	#UTRECHT
 	culture = frisian
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2451 = {	#AMERSFOORT

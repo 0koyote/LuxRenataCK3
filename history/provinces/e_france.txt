@@ -272,7 +272,7 @@
 ###c_rouen
 2179 = {	#ROUEN
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5960.1.1 = { culture = norman }
 	6066.1.1 = {
@@ -295,7 +295,7 @@
 ###c_evreux
 2329 = {	#EVREUX
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5960.1.1 = {	culture = norman }
 }
@@ -309,7 +309,7 @@
 ###c_bayeux
 2170 = {	#BAYEUX
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5960.1.1 = {	culture = norman }
 }
@@ -323,7 +323,7 @@
 ###c_avranches
 2167 = {	#AVRANCHES
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5960.1.1 = {	culture = norman }
 }
@@ -340,7 +340,7 @@
 ###c_alencon
 2325 = {	#ALENCON
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5960.1.1 = {	culture = norman }
 }
@@ -354,7 +354,7 @@
 ###c_lisieux
 2174 = {	#LISIEUX
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5960.1.1 = {	culture = norman }
 }
@@ -365,7 +365,7 @@
 ###c_eu
 2178 = {	#EU
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	5960.1.1 = {	culture = norman }
 }
@@ -437,7 +437,7 @@
 ###c_chartres
 2331 = {	#DREUX
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2322 = {	#CHARTRES
@@ -609,7 +609,7 @@
 ###c_dijon
 2380 = {	#DIJON
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2382 = {	#GRAY
@@ -622,7 +622,7 @@
 ###c_chalon
 2348 = {	#CHALON
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2377 = {	#CITEAUX
@@ -641,7 +641,7 @@
 ###c_auxerre
 2346 = {	#AUXERRE
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2345 = {	#DONZY
@@ -654,7 +654,7 @@
 ###c_tonnerrois
 2351 = {	#TONNERRE
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2379 = {	#MONTBARD
@@ -664,7 +664,7 @@
 ###c_avalois
 2349 = {	#VEZELAY
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = church_holding
 }
 2378 = {	#MORVAN
@@ -674,7 +674,7 @@
 ###c_macon
 2302 = {	#MACON
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2304 = {	#CLUNY
@@ -687,7 +687,7 @@
 ###c_nevers
 2343 = {	#NEVERS
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2307 = {	#MOULINS
@@ -912,7 +912,7 @@
 ###c_brabant
 2105 = {	#LEUVEN
 	culture = dutch
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2107 = {	#BRUSSELS
@@ -925,7 +925,7 @@
 ###c_antwerpen
 2106 = {	#ANTWERP
 	culture = dutch
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2108 = {	#ROSENDAAL
@@ -941,7 +941,7 @@
 ###c_hainaut
 2117 = {	#MONS
 	culture = french
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2127 = {	#TOURNAI
@@ -971,7 +971,7 @@
 ###c_aachen
 2092 = {	#AACHEN
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	special_building = palace_of_aachen_01
 	5867.1.1 = {
@@ -1007,7 +1007,7 @@
 ###c_cleves
 2104 = {	#KLEVE
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2102 = {	#GLADBACH
@@ -1029,7 +1029,7 @@
 ###c_maastricht
 2099 = {	#MAASTRICHT
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2100 = {	#EINDHOVEN
@@ -1148,7 +1148,7 @@
 ###c_cologne
 2088 = {	#COLOGNE
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 	special_building_slot = holy_site_cologne_cathedral_01
 	5867.1.1 = {
@@ -1178,7 +1178,7 @@
 ###c_dortmund
 2673 = {	#DORTMUND
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2677 = {	#ESSEN
@@ -1194,7 +1194,7 @@
 ###c_arnsberg
 2680 = {	#ARNSBERG
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2681 = {	#BILSTEIN
@@ -1204,7 +1204,7 @@
 ###c_mark
 2679 = {	#MARK
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2678 = {	#HAGEN
@@ -1220,7 +1220,7 @@
 ###c_koblenz
 2084 = {	#KOBLENZ
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2086 = {	#ADENAU
@@ -1239,7 +1239,7 @@
 ###c_bergh
 2433 = {	#BERGH
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2688 = {	#SIEGBURG
@@ -1249,7 +1249,7 @@
 ###c_sayn
 2689 = {	#SAYN
 	culture = german
-	rite = catholic
+	rite = roman_rite
 	holding = castle_holding
 }
 2690 = {	#WIED
