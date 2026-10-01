@@ -3,7 +3,7 @@
 ###c_byzantion
 496 = {		#Constantinople / Former Byzantion
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	# History	
 	5769.1.1 = {
@@ -32,46 +32,46 @@
 ###c_kalliopolis
 495 = {		#Kaliopolis
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	#1374 - Ottomans
 }
 3766 = {	#Ainos AKA Enez
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 13353 = {	#panion
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
 13354 = {	#sestos
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = church_holding
 }
 
 13356 = {	#dikaia
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 
 3765 = {	#Kypsela
 	holding = castle_holding #none
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 3764 = {	#Raidestos
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 13309 = {	#Bizanthe
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
@@ -82,51 +82,51 @@
 ###c_brysis
 497 = {		#Thrake	
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	#1374 - Ottomans
 }
 3760 = {	#Arkadiopolis AKA L?leburgaz
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3761 = {	#Selymbria
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3762 = {	#Herakleia Perinthos AKA Marmara Ereglisi
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = church_holding
 }
 3759 = {	#Bizye AKA Vize
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3758 = {	#Salmydessus
 	holding = castle_holding
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 
 13290 = {	# anthyras
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 
 13305 = {	# tzouroulon
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = church_holding
 }
 
 13319 = {	# anialos
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 
@@ -135,56 +135,56 @@
 ###c_mosynopolis
 492 = {		#Strymon	
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3767 = {	#Xanthia AKA Xanthi
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3768 = {	#Traianopolis aka Traianoupoli
 	holding = church_holding
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 3769 = {	#Thasos
 	holding = city_holding
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 3554 = {	#Rodopi
 	holding = castle_holding #none
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 
 ###c_serres
 3771 = {	#Serres
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3770 = {	#Siderokastron
 	holding = castle_holding #none
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	#1st mention in XIIIth century
 }
 3772 = {	#Drama aka Ydrama aka Dyrama
 	holding = city_holding
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 3773 = {	#Kavala
 	holding = castle_holding
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 3774 = {	#Chrysopolis aka Eion
 	holding = castle_holding #none
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 }
 
 ##d_aegean_islands ###################################
@@ -253,12 +253,12 @@
 }
 3752 = {	#Lemnos
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3753 = {	#Skyros
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = church_holding
 	#Set as church_holding to have all 3 holding types
 }
@@ -278,7 +278,7 @@
 ###c_rhodos
 483 = {		#Rhodos
 	culture = hellenistic
-	rite = sol_apollo
+	rite = sol_apollo_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -290,7 +290,7 @@
 }
 3740 = {	#Kos
 	culture = hellenistic
-	rite = sol_apollo
+	rite = sol_apollo_rite
 	holding = castle_holding
 }
 3741 = {	#Lindos
@@ -347,7 +347,7 @@
 ###c_chalkidike
 491 = {		#Polygyros
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	5867.1.1 = {
 		#Placed here to let the county holder control the mine
@@ -357,12 +357,12 @@
 }
 3775 = {	#Rendina AKA Eion
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3777 = {	#Kassandreia
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	#Ancient diocese built on the ruins of an important macedonian city which got destroyed before CK timeframe
 }
@@ -380,7 +380,7 @@
 ###c_veria
 3784 = {	#Veria
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3781 = {	#Maglen
@@ -401,7 +401,7 @@
 ###c_thessalia
 489 = {		#Thessalia
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	#1205 - 4th crusade, kingdom of Thessaloniki
 	#1225 - To the despotate of Epirus and Serbian empire
@@ -459,7 +459,7 @@
 }
 3795 = {	#Grevena
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3796 = {	#Stagoi
@@ -497,7 +497,7 @@
 	
 	# Misc
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	
 	holding = castle_holding
 	
@@ -607,7 +607,7 @@
 	
 	# Misc
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	
 	holding = castle_holding
 	
@@ -662,7 +662,7 @@
 5529 = {	# 5529 - Adramytium
 	
 	culture = hellenistic
-	rite = sol_apollo
+	rite = sol_apollo_rite
 	
 	holding = castle_holding
 
@@ -1122,7 +1122,7 @@
 	
 	# Misc
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	
 	holding = castle_holding
 	
@@ -1397,7 +1397,7 @@
 	
 	# Misc
 	culture = isaurian
-	rite = sol_christ
+	rite = solar_christ_rite
 	
 	holding = castle_holding
 }
@@ -4032,7 +4032,7 @@
 ###c_arbanon
 3720 = {	#Kruj 
 	culture = ostrogothic
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = castle_holding
 }
 3718 = {	#Mat
@@ -4049,7 +4049,7 @@
 ###c_debar
 3724 = {	#Debar
 	culture = gepid
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = castle_holding
 }
 3723 = {	#Peshkopi
@@ -4272,7 +4272,7 @@
 ###c_nikopolis
 507 = {		#Nikopolis
 	culture = west_ostrogoth
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -4327,7 +4327,7 @@
 ###c_vratsa
 3678 = {	#Vratsa
 	culture = west_ostrogoth
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = castle_holding
 }
 3675 = {	#Lom
@@ -4464,10 +4464,10 @@
 ###c_pirin
 3653 = {	#Melnik
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	5950.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 		#Appeared in the region in the Xth century
 	}
 }
@@ -4478,10 +4478,10 @@
 ###c_strumica
 3650 = {	#Strumica
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	5950.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 3648 = {	#Shtip
@@ -4540,7 +4540,7 @@
 ###c_ohrid
 471 = {		#Ochrid
 	culture = vardian
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	5550.1.1 = {
 		special_building_slot = sofia_ohrid
@@ -4567,7 +4567,7 @@
 ###c_philippopolis
 493 = {		#Philippopolis
 	culture = west_ostrogoth
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = castle_holding
 }
 3623 = {	#Tsepina
@@ -4604,7 +4604,7 @@
 ###c_beroe
 3632 = {	#Beroe
 	culture = west_ostrogoth
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3633 = {	#Janitsa
@@ -4618,7 +4618,7 @@
 ###c_burgas
 3628 = {	#Burgas
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -4643,7 +4643,7 @@
 ###c_adrianopolis
 494 = {		#Adrianopolis
 	culture = greek
-	rite = sol_imperial	
+	rite = solar_imperial_rite	
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -4668,7 +4668,7 @@
 ###c_zherkovo
 3618 = {	#Zherkovo
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 3619 = {	#Lyutitsa
@@ -4693,7 +4693,7 @@
 ###c_rhodopes
 3617 = {	#Nevrokop
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 
 	6066.1.1 = {
@@ -5411,38 +5411,38 @@
 ### c_edonis  
 13474 = {	# Abdera Makedon
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
 ### c_philippoi  
 13479 = {	# Philippoi
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 13495 = {	# Oraion
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding #none
 }
 
 ### c_chalkidike  
 13482 = {	# Olynthos
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
 ### c_stageira  
 13480 = {	# Stageira
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 13481 = {	# Ierissos
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding #none
 }
 
@@ -5456,17 +5456,17 @@
 ### c_pieria  
 13486 = {	# Aigai
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 13487 = {	# Methone Makedonia
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding #none
 }
 13488 = {	# Pydna
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 
@@ -5549,19 +5549,19 @@
 ### c_mellos  
 13383 = {	# Mellos
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 13379 = {	# Thermia
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
 ### c_thera  
 13382 = {	# Astypalaia
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding #none
 }
 
@@ -5575,7 +5575,7 @@
 ### c_kos  
 13297 = {	# Padmos
 	culture = hellenistic
-	rite = sol_apollo
+	rite = sol_apollo_rite
 	holding = castle_holding #none
 }
 
@@ -5656,21 +5656,21 @@
 # MARONEIA in c_mosynopolis
 13493 = {	# Maroneia
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding #none
 }
 
 # THERME THESSALONIKE in c_thessalonika
 13484 = {	# Therme Thessalonike
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
 # CHARAKOMA THESSALONIKE in c_thessalonika
 13469 = {	# Charakoma Thessalonike
 	culture = hellenistic
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
@@ -5719,21 +5719,21 @@
 # PAROS in c_naxos
 13378 = {	# Paros
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = church_holding
 }
 
 # AMORGOS in c_naxos
 13381 = {	# Amorgos
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
 # IOS in c_naxos
 13380 = {	# Ios
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding #none
 }
 
@@ -5768,14 +5768,14 @@
 # KAMIROS in c_rhodos
 13324 = {	# Kamiros
 	culture = hellenistic
-	rite = sol_apollo
+	rite = sol_apollo_rite
 	holding = castle_holding #none
 }
 
 # METHYLION in c_thessalia
 13491 = {	# Methylion
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = city_holding
 }
 
@@ -5796,7 +5796,7 @@
 # AIGINION THESSALIA in c_histaiotis
 13490 = {	# Aiginion Thessalia
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 
@@ -6032,13 +6032,13 @@
 # KELENDERIS in c_pamphylia
 13293 = {	# Kelenderis
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding #none
 }
 
 13302 = {	# thynias
 	culture = greek
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 }
 
@@ -6150,21 +6150,21 @@
 # DIOKAISEREIA in c_seleucia
 13295 = {	# Diokaisereia
 	culture = greek
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = city_holding
 }
 
 # HOLMAI in c_seleucia
 13294 = {	# Holmai
 	culture = greek
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = castle_holding #none
 }
 
 # OLBE in c_seleucia
 13296 = {	# Olbe
 	culture = greek
-	rite = sol_christ
+	rite = solar_christ_rite
 	holding = city_holding
 }
 

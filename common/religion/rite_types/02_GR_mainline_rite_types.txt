@@ -11,9 +11,10 @@
 # type: an empty tenets block on a rite falls back to the religion's core
 # tenets rather than the faith's, which would silently drop faith tenets.
 roman_pagan = {
-	faith = roman_pagan
+	faith = roman_faith
+	icon = roman_pagan
 
-	color = { 0.6 0.1 0.1 }
+	color = rgb { 230 26 26 }
 
 	tenets = {
 		tenet_astrology
@@ -22,33 +23,55 @@ roman_pagan = {
 	}
 
 	doctrines = {
+		lux_doctrine_ascendant_pure
+		lux_doctrine_traditional_soul
 		unreformed_faith_doctrine
 	}
 
 	# TODO_PAM_DESIGN TIT-72804
-	cultures = { greek roman ancient_egyptian trojan macedonian carthaginian }
+	cultures = { greek roman }
 }
 
-sol_imperial = {
-	faith = sol_imperial
+solar_imperial_rite = {
+	faith = solar_imperial_faith
 
-	color = { 0.922 0.937 0.055 }
+	color = rgb { 209 208 0 }
 
 	tenets = {
-		tenet_astrology
-		tenet_communal_identity
-		tenet_esotericism
+		tenet_sun_worship
+		tenet_pentarchy
+		tenet_monasticism
 	}
 
 	doctrines = {
-		unreformed_faith_doctrine
+		lux_doctrine_statist_soul
 	}
 
 	# TODO_PAM_DESIGN TIT-72804
-	cultures = { greek roman ancient_egyptian trojan macedonian carthaginian }
+	cultures = { greek roman }
+}
+
+solar_christ_rite = {
+	faith = solar_christ_faith
+
+	color = rgb { 209 208 0 }
+
+	tenets = {
+		tenet_sun_worship
+		tenet_pentarchy
+		tenet_monasticism
+	}
+
+	doctrines = {
+		lux_doctrine_statist_soul
+		lux_doctrine_christian_ascendant
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
 }
 hellenic_pagan = {
-	faith = hellenic_pagan
+	faith = hellenic_faith
 
 	color = { 0.031 0.098 0.859 }
 
@@ -63,5 +86,5 @@ hellenic_pagan = {
 	}
 
 	# TODO_PAM_DESIGN TIT-72804
-	cultures = { greek roman ancient_egyptian trojan macedonian carthaginian }
+	cultures = { greek hellenistic trojan macedonian }
 }

@@ -65,3 +65,69 @@ solomonic_alexandros_rite = {
 	# TODO_PAM_DESIGN TIT-72804
 	cultures = { ethiopian }
 }
+
+roman_caesar_cult = {
+	faith = roman_faith
+	icon = roman_caesar_cult
+	head_of_rite = d_roman_caesar_cult
+
+	color = rgb { 185 50 80 }
+
+	tenets = {
+		tenet_astrology
+		tenet_ancestor_worship
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		lux_doctrine_ascendant_pure
+		lux_doctrine_statist_soul
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
+roman_jupiter = {
+	faith = roman_faith
+	icon = roman_jupiter
+	head_of_rite = d_roman_jupiter
+
+	color = rgb { 200 85 125 }
+
+	tenets = {
+		tenet_astrology
+		tenet_ancestor_worship
+		tenet_ritual_celebrations
+	}
+
+	doctrines = {
+		lux_doctrine_christian_ascendant
+		lux_doctrine_statist_soul
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
+solar_victor_rite = {
+	faith = solar_christ_faith
+	head_of_rite = d_solar_victor
+
+	color = rgb { 185 90 60 }
+
+	tenets = {
+		tenet_sun_worship
+		tenet_human_sacrifice
+		tenet_pursuit_of_power
+	}
+
+	doctrines = {
+		lux_doctrine_martial_soul
+		lux_doctrine_christian_ascendant
+		doctrine_kinslaying_accepted
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}

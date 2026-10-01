@@ -1,6 +1,6 @@
 ﻿solar_religion = {
 	religion_details = {
-		family = rf_pagan
+		family = rf_graeco_roman
 		graphical_faith = "catholic_gfx"
 	}
 
@@ -9,8 +9,8 @@
 	doctrine = pagan_hostility_doctrine
 
 	#Main Group
-	doctrine = doctrine_polytheist
-	doctrine = doctrine_no_head
+	doctrine = doctrine_polytheist #henotheist
+	doctrine = doctrine_spiritual_head
 	doctrine = doctrine_gender_male_dominated
 	doctrine = doctrine_pluralism_pluralistic
 	doctrine = doctrine_theocracy_temporal
@@ -44,7 +44,7 @@
 	doctrine = doctrine_funeral_bewailment # Ancient Greeks were encouraged to grieve publicly
 
 	#Coronation tradition
-	doctrine = doctrine_no_anointment
+	doctrine = doctrine_imperial_anointment
 
 	#Preservation
 	doctrine = doctrine_mythic_literary

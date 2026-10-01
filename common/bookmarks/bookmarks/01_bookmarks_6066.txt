@@ -15,7 +15,7 @@
 		government = roman_administrative_government
 		fallback_government = classical_government
 		culture = greek
-		rite = sol_imperial
+		rite = solar_imperial_rite
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		history_id = lux_renata_1
 		position = { 776 225 }
@@ -35,7 +35,7 @@
 		government = roman_administrative_government
 		fallback_government = classical_government
 		culture = greek
-		rite = sol_imperial
+		rite = solar_imperial_rite
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		position = { 350 200 }
 		
@@ -146,7 +146,7 @@ bm_1066_AD_001 = {
 		government = alexandrian_administrative_government
 		fallback_government = classical_government
 		culture = egyptian_hellenistic
-		rite = sol_apollo
+		rite = sol_apollo_rite
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		position = { 300 720 }
 		
@@ -246,7 +246,7 @@ bm_1066_AD_003 = {
 		government = roman_administrative_government
 		fallback_government = classical_government
 		culture = roman
-		rite = sol_christ
+		rite = solar_christ_rite
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		position = { 975 200 }
 		

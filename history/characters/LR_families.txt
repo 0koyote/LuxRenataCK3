@@ -169,7 +169,7 @@
 1830016 = {
 	name = "Hypatia"
 	female = yes
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	trait = "education_diplomacy_4"
 	
@@ -593,7 +593,7 @@
 	name = "Kallistos" #adrian
 	dynasty = 171
 	health = 8
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	6005.1.1 = {
 		birth = "6005.1.1"
@@ -608,7 +608,7 @@
 	dynasty = 171
 	health = 8
 	father = 1830066
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	6056.1.1 = {
 		birth = "6056.1.1"
@@ -622,7 +622,7 @@
 	dynasty = 171
 	father = 1830066
 	health = 8
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	6051.1.1 = {
 		birth = "6051.1.1"
@@ -675,7 +675,7 @@
 	name = "Raphail" #thrace
 	dynasty = 627
 	health = 8
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	6005.1.1 = {
 		birth = "6005.1.1"
@@ -690,7 +690,7 @@
 	dynasty = 627
 	health = 8
 	father = 1830071
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	trait = "ambitious"
 	6054.1.1 = {
@@ -705,7 +705,7 @@
 	dynasty = 627
 	father = 1830071
 	health = 8
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	6049.1.1 = {
 		birth = "6049.1.1"

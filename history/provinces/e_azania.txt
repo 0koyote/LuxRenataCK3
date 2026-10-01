@@ -60,7 +60,7 @@
 ###c_mogadishu
 8463 = {	#MOGADISHU
 	culture = roman
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
@@ -94,7 +94,7 @@
 	rite = waaqism_pagan
 	holding = tribal_holding
 	6030.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 8510 = {	#GALKAYO
@@ -110,7 +110,7 @@
 	rite = waaqism_pagan
 	holding = tribal_holding
 	6030.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 8465 = {	#EL_DERE
@@ -129,7 +129,7 @@
 	rite = waaqism_pagan
 	holding = castle_holding
 	6030.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 8467 = {	#BELETWEYNE
@@ -149,7 +149,7 @@
 	rite = waaqism_pagan
 	holding = tribal_holding
 	6030.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 8491 = {	#JUBBA-NORTH
@@ -159,7 +159,7 @@
 ###c_baydhabo
 8458 = {	#BAYDHABO
 	culture = roman
-	rite = sol_imperial
+	rite = solar_imperial_rite
 	holding = tribal_holding
 	6003.1.1 = {
 		holding = castle_holding
@@ -183,7 +183,7 @@
 	holding = tribal_holding
 	#holding = castle_holding
 	6030.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 8495 = {	#REEWIN
@@ -196,7 +196,7 @@
 	rite = waaqism_pagan
 	holding = tribal_holding
 	6030.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 8459 = {	#BARDHERE
@@ -565,7 +565,7 @@
 	special_building = swahili_port_zanzibar
 
 	6000.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 12793 = { 	# Tumbatu
@@ -579,7 +579,7 @@
 	holding = castle_holding
 
 	6100.1.1 = {
-		rite = sol_imperial
+		rite = solar_imperial_rite
 	}
 }
 12789 = {	# Mkwaja

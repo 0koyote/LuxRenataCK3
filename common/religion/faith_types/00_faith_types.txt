@@ -2160,6 +2160,118 @@ hantuism = {
 	}
 }
 
+solar_imperial_faith = {
+	main_rite = solar_imperial_rite
+	historical = yes
+
+	faith_details = {
+		religion = solar_religion
+		color = rgb { 209 208 0 }
+		religious_head = k_sol
+		icon = sol_imperial
+	}
+
+	eminent_holy_sites = {
+		rome
+		constantinople
+	}
+
+	holy_sites = {
+		carthage
+		alexandria
+		jerusalem
+		antioch
+	}
+
+	tenets = {
+		tenet_sun_worship
+		tenet_pentarchy
+		tenet_monasticism
+	}
+
+	doctrines = {
+		lux_doctrine_statist_soul
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
+solar_christ_faith = {
+	main_rite = solar_christ_rite
+	historical = yes
+	head_of_rite = d_sol_christ
+
+	faith_details = {
+		religion = solar_religion
+		color = rgb { 255 255 77 }
+		religious_head = d_sol_christ
+		icon = sol_christ
+	}
+
+	eminent_holy_sites = {
+		rome
+		constantinople
+	}
+
+	holy_sites = {
+		carthage
+		alexandria
+		jerusalem
+		antioch
+	}
+
+	tenets = {
+		tenet_sun_worship
+		tenet_communion
+		tenet_monasticism
+	}
+
+	doctrines = {
+		lux_doctrine_statist_soul
+		lux_doctrine_christian_ascendant
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
+roman_faith = {
+	main_rite = roman_pagan
+	historical = yes
+
+	faith_details = {
+		religion = roman_religion
+		color = rgb { 230 26 26 }
+		icon = hellenic
+		reformed_icon = hellenic_reformed
+	}
+
+	eminent_holy_sites = {
+		rome
+		constantinople
+	}
+
+	holy_sites = {
+		carthage
+		alexandria
+		jerusalem
+	}
+
+	tenets = {
+		tenet_astrology
+		tenet_communal_identity
+		tenet_esotericism
+	}
+
+	doctrines = {
+		unreformed_faith_doctrine
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman ancient_egyptian trojan macedonian carthaginian }
+}
+
 hellenic_faith = {
 	main_rite = hellenic_pagan
 	historical = yes

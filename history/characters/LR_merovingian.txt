@@ -999,7 +999,7 @@
 16904 = {
 	name = "Merobaudes"
 	culture = "frankish"
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	5320.1.1 = { birth = yes }
 	5340.1.1 = { culture = "roman" }
 	5383.1.1 = { death = yes }
@@ -1008,7 +1008,7 @@
 16905 = {
 	name = "Bauto"
 	culture = "frankish"
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	father = 16904
 	5340.1.1 = { birth = yes }
 	5344.1.1 = { culture = "roman" }
@@ -1019,7 +1019,7 @@
 	name = "Aelia-Eudoxia" #Based on the Empress of the samename, married Alexandros IX in this world
 	female = yes
 	culture = "frankish"
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	father = 16905
 	5380.1.1 = { birth = yes }
 	5385.1.1 = { culture = "greek" }
@@ -1029,7 +1029,7 @@
 16907 = {
 	name = "Arbogast"
 	culture = "frankish"
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	father = 16905
 	5360.1.1 = { birth = yes }
 	5365.1.1 = { culture = "roman" }
@@ -1039,7 +1039,7 @@
 16908 = {
 	name = "Richomer"
 	culture = "frankish"
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	father = 16904
 	5342.1.1 = { birth = yes }
 	5345.1.1 = { culture = "roman" }
@@ -1059,7 +1059,7 @@
 16910 = {
 	name = "Theudemer"
 	culture = "frankish"
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	father = 16908
 	mother = 16909
 	5375.1.1 = { birth = yes }

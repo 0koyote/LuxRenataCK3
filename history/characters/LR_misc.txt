@@ -113,7 +113,7 @@
 
 1822008 = {
 	name = "Boethios"
-	rite = "sol_imperial"
+	rite = "solar_imperial_rite"
 	culture = "greek"
 	6029.1.1 = {
 		birth = "6029.1.1"
