@@ -79,7 +79,7 @@ texticon = {
 	}
 }
 texticon = {
-	icon = government_type_despotic_administrative
+	icon = government_type_persianate_administrative
 	iconsize = {
 		texture = "gfx/interface/icons/government_types/persianate_administrative_government.dds"
 		size = { 28 28 }
