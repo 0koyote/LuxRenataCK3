@@ -56,7 +56,10 @@ on_game_start = {
 			religion:judaism_religion = {
 				every_faith = {
 					limit = {
-						has_doctrine = temple_authority_rabbinic_doctrine
+						main_rite = {
+							rite_has_doctrine = temple_authority_rabbinic_doctrine
+							rite_has_doctrine = doctrine_polygamy
+						}
 					}
 					remove_doctrine = doctrine_polygamy
 					add_doctrine = doctrine_monogamy
