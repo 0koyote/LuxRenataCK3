@@ -96,10 +96,13 @@ special_genes = {
 					1 = m_beard_tgp_chinese_04
 					1 = m_beard_tgp_chinese_05
 					1 = m_beard_tgp_chinese_06
+<<<<<<< HEAD
+=======
 
 					# PAM
 					1 = m_beard_pam_01
 					1 = m_beard_pam_02
+>>>>>>> Lux-Renata-main
 				}
 				female = {
 					1 = empty
@@ -494,7 +497,10 @@ special_genes = {
 				}
 			}
 
+<<<<<<< HEAD
+=======
 			# Index 22 must stay, because bookmark portraits and historical DNA still use this template
+>>>>>>> Lux-Renata-main
 			orthodox_beards = {
 				index = 22
 				male = {
@@ -513,6 +519,8 @@ special_genes = {
 					1 = empty
 				}
 			}
+<<<<<<< HEAD
+=======
 
 
 			orthodox_beards_straight = {
@@ -544,6 +552,7 @@ special_genes = {
 					1 = empty
 				}
 			}
+>>>>>>> Lux-Renata-main
 			scripted_character_beards_02 = {
 				index = 23
 				male = {
@@ -891,6 +900,8 @@ special_genes = {
 					1 = empty
 				}
 			}
+<<<<<<< HEAD
+=======
 
 			pam_western_beards = {
 				index = 48
@@ -903,6 +914,7 @@ special_genes = {
 					1 = empty
 				}
 			}
+>>>>>>> Lux-Renata-main
 		}
 	}
 }

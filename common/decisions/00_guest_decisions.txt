@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#
+=======
 ﻿### Invite Knights ###
 invite_knights_decision = {
 	picture = {
@@ -303,3 +306,4 @@ invite_poets_decision = {
 		base = 0
 	}
 }
+>>>>>>> Lux-Renata-main

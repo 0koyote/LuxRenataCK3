@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#emptied to clean errors
+=======
 ﻿#################################
 # Embellish Capital 			#
 # By Ola Jentzsch 				#
@@ -599,3 +602,4 @@ fp3_embellish_capital_decision = {
 
 	ai_will_do = { base = 100 }
 }
+>>>>>>> Lux-Renata-main

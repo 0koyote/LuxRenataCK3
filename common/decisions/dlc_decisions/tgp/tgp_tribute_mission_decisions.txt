@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿
+=======
 ﻿#Decisions for and to Tributaries
 
 tribute_mission_decision_mandala = {
@@ -804,3 +807,4 @@ tribute_mission_decision_india = {
 		}
 	}
 }
+>>>>>>> Lux-Renata-main

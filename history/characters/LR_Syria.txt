@@ -4,7 +4,11 @@
 	dynasty = dynasty_armenian_abgarid
 	father = 1830115
 	health = 8
+<<<<<<< HEAD
+	faith = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	culture = assyrian
 	6044.1.1 = {
 		birth = 6044.1.1
@@ -93,7 +97,11 @@ Manu_IV_Abgarid = {
 Abgar_III_Abgarid = {
 	name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = bedouin #Nabataean
     father = Manu_III_Abgarid
     give_nickname = nick_the_black
@@ -224,7 +232,11 @@ Manu_VIII_Abgarid = {
 Abgar_VI_Abgarid = {
 	name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_VII_Abgarid
     give_nickname = nick_the_great
@@ -238,7 +250,11 @@ Abgar_VI_Abgarid = {
 Abgar_VII_Abgarid = {
 	name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_VI_Abgarid
     give_nickname = nick_the_younger
@@ -252,7 +268,11 @@ Abgar_VII_Abgarid = {
 Manu_VIV_Abgarid = {
 	name = Ma_nu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_VII_Abgarid
 	5210.1.1 = {
@@ -265,7 +285,11 @@ Manu_VIV_Abgarid = {
 Abgar_XI_Abgarid = {
 	name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_VIV_Abgarid
 	5226.1.1 = {
@@ -278,7 +302,11 @@ Abgar_XI_Abgarid = {
 Abgar_XII_Abgarid = {
 	name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XI_Abgarid
 	5250.1.1 = {
@@ -291,7 +319,11 @@ Abgar_XII_Abgarid = {
 Manu_X_Abgarid = {
 	name = Ma_nu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XI_Abgarid
 	5280.1.1 = {
@@ -304,7 +336,11 @@ Manu_X_Abgarid = {
 Manu_XI_Abgarid = {
 	name = Ma_nu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_X_Abgarid
 	5347.1.1 = {
@@ -317,7 +353,11 @@ Manu_XI_Abgarid = {
 Manu_XII_Abgarid = {
 	name = Ma_nu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_XI_Abgarid
     give_nickname = nick_the_pious
@@ -331,7 +371,11 @@ Manu_XII_Abgarid = {
 Ishoyahb_I_Abgarid = {
     name = Isho_yahb
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_XII_Abgarid
 	5380.1.1 = {
@@ -344,7 +388,11 @@ Ishoyahb_I_Abgarid = {
 Thomas_I_Abgarid = {
     name = Ta_mhas
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_XII_Abgarid
 	5390.1.1 = {
@@ -357,7 +405,11 @@ Thomas_I_Abgarid = {
 Abgar_XIII_Abgarid = {
     name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Thomas_I_Abgarid
 	5440.1.1 = {
@@ -370,7 +422,11 @@ Abgar_XIII_Abgarid = {
 Abgar_XIV_Abgarid = {
     name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XIII_Abgarid
 	5460.1.1 = {
@@ -383,7 +439,11 @@ Abgar_XIV_Abgarid = {
 Thomas_II_Abgarid = {
     name = Ta_mhas
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XIII_Abgarid
 	5490.1.1 = {
@@ -396,7 +456,11 @@ Thomas_II_Abgarid = {
 Abgar_XV_Abgarid = {
     name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Thomas_II_Abgarid
 	5548.1.1 = {
@@ -409,7 +473,11 @@ Abgar_XV_Abgarid = {
 Manu_XIII_Abgarid = {
     name = Manu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XV_Abgarid
 	5580.1.1 = {
@@ -422,7 +490,11 @@ Manu_XIII_Abgarid = {
 Manu_XIV_Abgarid = {
     name = Manu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XV_Abgarid
 	5600.1.1 = {
@@ -435,7 +507,11 @@ Manu_XIV_Abgarid = {
 Thomas_III_Abgarid = {
     name = Ta_mhas
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_XIV_Abgarid
 	5660.1.1 = {
@@ -448,7 +524,11 @@ Thomas_III_Abgarid = {
 John_I_Abgarid = {
     name = Yohannan
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_XIV_Abgarid
 	5640.1.1 = {
@@ -461,7 +541,11 @@ John_I_Abgarid = {
 Abgar_XVI_Abgarid = {
     name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = John_I_Abgarid
 	5701.1.1 = {
@@ -474,7 +558,11 @@ Abgar_XVI_Abgarid = {
 John_II_Abgarid = {
     name = Yohannan
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XVI_Abgarid
 	5720.1.1 = {
@@ -487,7 +575,11 @@ John_II_Abgarid = {
 Lazar_I_Abgarid = {
     name = Lazar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XVI_Abgarid
 	5762.1.1 = {
@@ -500,7 +592,11 @@ Lazar_I_Abgarid = {
 Abgar_XVII_Abgarid = {
     name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Lazar_I_Abgarid
 	5784.1.1 = {
@@ -513,7 +609,11 @@ Abgar_XVII_Abgarid = {
 John_III_Abgarid = {
     name = Yohannan
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Lazar_I_Abgarid
 	5807.1.1 = {
@@ -526,7 +626,11 @@ John_III_Abgarid = {
 Manu_XV_Abgarid = {
     name = Manu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = John_III_Abgarid
 	5840.1.1 = {
@@ -539,7 +643,11 @@ Manu_XV_Abgarid = {
 Manu_XVI_Abgarid = {
     name = Manu
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_XV_Abgarid
 	5860.1.1 = {
@@ -552,7 +660,11 @@ Manu_XVI_Abgarid = {
 Peter_I_Abgarid = {
     name = Petros
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_XV_Abgarid
 	5870.1.1 = {
@@ -565,7 +677,11 @@ Peter_I_Abgarid = {
 John_IV_Abgarid = {
     name = Yohannan
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Peter_I_Abgarid
 	5900.1.1 = {
@@ -578,7 +694,11 @@ John_IV_Abgarid = {
 Abgar_XVIII_Abgarid = {
     name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = John_IV_Abgarid
 	5940.1.1 = {
@@ -591,7 +711,11 @@ Abgar_XVIII_Abgarid = {
 Abgar_XVIV_Abgarid = {
     name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Abgar_XVIII_Abgarid
 	5980.1.1 = {
@@ -605,7 +729,11 @@ Abgar_XVIV_Abgarid = {
 	name = "Petros" #osroene
 	dynasty = dynasty_armenian_abgarid
 	health = 8
+<<<<<<< HEAD
+	faith = "syriac_christ"
+=======
 	rite = "syriac_christ"
+>>>>>>> Lux-Renata-main
 	culture = "assyrian"
     father = Abgar_XVIV_Abgarid
 	6005.1.1 = {
@@ -621,7 +749,11 @@ Abgar_XVIV_Abgarid = {
 	dynasty = dynasty_armenian_abgarid
 	father = 1830115
 	health = 8
+<<<<<<< HEAD
+	faith = "syriac_christ"
+=======
 	rite = "syriac_christ"
+>>>>>>> Lux-Renata-main
 	culture = assyrian
 	6054.1.1 = {
 		birth = "6054.1.1"
@@ -635,7 +767,11 @@ Abgar_XVIV_Abgarid = {
 	dynasty = dynasty_armenian_abgarid
 	father = 1830115
 	health = 8
+<<<<<<< HEAD
+	faith = "syriac_christ"
+=======
 	rite = "syriac_christ"
+>>>>>>> Lux-Renata-main
 	culture = assyrian
 	6049.1.1 = {
 		birth = "6049.1.1"
@@ -660,7 +796,11 @@ Paqor_II_Abgarid = {
 Abgar_VIII_Abgarid = {
 	name = Abgar
 	dynasty = dynasty_armenian_abgarid
+<<<<<<< HEAD
+	faith = syriac_christ #Syriac Christian
+=======
 	rite = syriac_christ #Syriac Christian
+>>>>>>> Lux-Renata-main
 	culture = assyrian
     father = Manu_VIII_Abgarid
 	5235.1.1 = {
@@ -1057,7 +1197,11 @@ Hairan_IV_Zenobidias = {
 	}
 	5621.1.1 = {
 		name = Paul
+<<<<<<< HEAD
+		religion = "syriac_christ" #Syriac
+=======
 		rite = "syriac_christ" #Syriac
+>>>>>>> Lux-Renata-main
 	}
     5630.1.1 = {
 		death = {
@@ -1396,7 +1540,11 @@ Dido_I_Didonid = {
     name = Dido
 	female = yes
 	dynasty = dynasty_punic_didonien
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	4162.1.1 = {
 		birth = yes
@@ -1408,7 +1556,11 @@ Dido_I_Didonid = {
 Mattan_I_Didonid = { #Fictional son of Dido, and IDK: Aeneas?
     name = Mattan
 	dynasty = dynasty_punic_didonien
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	mother = Dido_I_Didonid
 	father = aineias_trojan_dardanides
@@ -1423,7 +1575,11 @@ Dido_II_Didonid = { #Fictional Dido the Younger.
     name = Dido
 	dynasty = dynasty_punic_didonien
 	female = yes
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mattan_I_Didonid
 	give_nickname = nick_the_younger
@@ -1437,7 +1593,11 @@ Dido_II_Didonid = { #Fictional Dido the Younger.
 Balbazer_I_Didonid = { #It's like poetry, it rhymes. 
     name = Balbazer
 	dynasty = dynasty_punic_didonien
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mattan_I_Didonid
 	trait = murderer
@@ -1451,7 +1611,11 @@ Balbazer_I_Didonid = { #It's like poetry, it rhymes.
 Balbazer_II_Didonid = {
     name = Balbazer
 	dynasty = dynasty_punic_didonien
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_I_Didonid
 	4280.1.1 = {
@@ -1464,7 +1628,11 @@ Balbazer_II_Didonid = {
 Mattan_II_Didonid = {
     name = Mattan
 	dynasty = dynasty_punic_didonien
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_II_Didonid
 	4315.1.1 = {
@@ -1477,7 +1645,11 @@ Mattan_II_Didonid = {
 Hanno_I_Didonid = { #Hanno I
     name = Hanno
 	dynasty = dynasty_punic_didonien
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mattan_II_Didonid
 	4390.1.1 = {
@@ -1490,7 +1662,11 @@ Hanno_I_Didonid = { #Hanno I
 Mago_I_Magonids = { #Mago I
     name = Mago 
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_I_Didonid
 	trait = bastard
@@ -1504,7 +1680,11 @@ Mago_I_Magonids = { #Mago I
 Hasdrubal_I_Magonids = { #Hasdrubal I
     name = Hasdrubal 
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_I_Magonids
 	4440.1.1 = {
@@ -1517,7 +1697,11 @@ Hasdrubal_I_Magonids = { #Hasdrubal I
 Hamilcar_I_Magonids = { #Hamilcar I
     name = Hamilcar  
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_I_Magonids
 	4445.1.1 = {
@@ -1530,7 +1714,11 @@ Hamilcar_I_Magonids = { #Hamilcar I
 Hanno_I_Magonids = { #Hanno (The Navigator)
     name = Hanno  
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Magonids
 	give_nickname = nick_the_navigator
@@ -1544,7 +1732,11 @@ Hanno_I_Magonids = { #Hanno (The Navigator)
 Hannibal_I_Magonids = {
     name = Hannibal  
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_I_Magonids
 	4550.1.1 = {
@@ -1557,7 +1749,11 @@ Hannibal_I_Magonids = {
 Himilco_I_Magonids = {
     name = Himilco  
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Magonids
 	4512.1.1 = {
@@ -1570,7 +1766,11 @@ Himilco_I_Magonids = {
 Himilco_II_Magonids = {
     name = Himilco   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Himilco_I_Magonids
 	4570.1.1 = {
@@ -1585,7 +1785,11 @@ Himilco_II_Magonids = {
 Mago_II_Magonids = {
     name = Mago   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Himilco_II_Magonids
 	4586.1.1 = {
@@ -1598,7 +1802,11 @@ Mago_II_Magonids = {
 Mago_III_Magonids = {
     name = Mago   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_II_Magonids
 	4602.1.1 = {
@@ -1611,7 +1819,11 @@ Mago_III_Magonids = {
 Hanno_II_Magonids = {
     name = Hanno   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_III_Magonids
 	4620.1.1 = {
@@ -1624,7 +1836,11 @@ Hanno_II_Magonids = {
 Hanno_III_Magonids = {
     name = Hanno   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_II_Magonids
 	4661.1.1 = {
@@ -1637,7 +1853,11 @@ Hanno_III_Magonids = {
 Mago_IV_Magonids = {
     name = Hanno   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_III_Magonids
 	4683.1.1 = {
@@ -1650,7 +1870,11 @@ Mago_IV_Magonids = {
 Bomilcar_I_Magonids = {
     name = Bomilcar   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_IV_Magonids
 	4720.1.1 = {
@@ -1666,7 +1890,11 @@ Bomilcar_I_Magonids = {
 Hanno_IV_Magonids = { #Hanno son of Bomilcar
     name = Hanno   
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Bomilcar_I_Magonids
 	mother = Mashah_I_Barca
@@ -1680,7 +1908,11 @@ Hanno_IV_Magonids = { #Hanno son of Bomilcar
 Hasdrubal_II_Magonids = { #Hasdrubal the Boetharch
     name = Hasdrubal    
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_IV_Magonids
 	4790.1.1 = {
@@ -1693,7 +1925,11 @@ Hasdrubal_II_Magonids = { #Hasdrubal the Boetharch
 Hannibal_II_Magonids = {
     name = Hannibal    
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_II_Magonids
 	4825.1.1 = {
@@ -1708,7 +1944,11 @@ Hannibal_II_Magonids = {
 Mago_V_Magonids = {
     name = Mago    
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_II_Magonids
 	4840.1.1 = {
@@ -1724,7 +1964,11 @@ Dido_I_Magonids = {
     name = Dido   
 	female = yes
 	dynasty_house = dynasty_house_punic_magonid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_III_Magonids
 	4616.1.1 = {
@@ -1738,7 +1982,11 @@ Dido_I_Magonids = {
 Hanno_V_Magonids = { #Fictional brother of Hasdrubal the Boetharch
     name = Hanno    
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_IV_Magonids
 	give_nickname = nick_the_stranger
@@ -1752,7 +2000,11 @@ Hanno_V_Magonids = { #Fictional brother of Hasdrubal the Boetharch
 Hanno_VI_Magonids = {
     name = Hanno    
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_V_Magonids
 	give_nickname = nick_the_younger
@@ -1766,7 +2018,11 @@ Hanno_VI_Magonids = {
 Hannibal_III_Magonids = {
     name = Hannibal    
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_V_Magonids
 	4866.1.1 = {
@@ -1779,7 +2035,11 @@ Hannibal_III_Magonids = {
 Balbazer_I_Magonids = {
     name = Balbazer    
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_III_Magonids
 	give_nickname = nick_the_pious
@@ -1793,7 +2053,11 @@ Balbazer_I_Magonids = {
 Paltibaal_I_Magonids = {
     name = Paltibaal    
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_I_Magonids
 	4904.1.1 = {
@@ -1806,7 +2070,11 @@ Paltibaal_I_Magonids = {
 Azrubaal_I_Magonids = {
 	name = Azrubaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_I_Magonids
 	4906.1.1 = {
@@ -1819,7 +2087,11 @@ Azrubaal_I_Magonids = {
 Mithonbaal_I_Magonids = {
 	name = Mithonbaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_I_Magonids
 	4907.1.1 = {
@@ -1832,7 +2104,11 @@ Mithonbaal_I_Magonids = {
 Balbazer_II_Magonids = {
 	name = Balbazer
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mithonbaal_I_Magonids
 	4966.1.1 = {
@@ -1846,7 +2122,11 @@ Dido_II_Magonids = {
 	name = Dido
 	female = yes
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_II_Magonids
 	4990.1.1 = {
@@ -1859,7 +2139,11 @@ Dido_II_Magonids = {
 Hanno_VII_Magonids = {
 	name = Hanno
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	mother = Dido_II_Magonids
 	5010.1.1 = {
@@ -1872,7 +2156,11 @@ Hanno_VII_Magonids = {
 Mago_VI_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	mother = Dido_II_Magonids
 	5012.1.1 = {
@@ -1885,7 +2173,11 @@ Mago_VI_Magonids = {
 Hanno_VIII_Magonids = {
 	name = Hanno
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	mother = Dido_II_Magonids
 	give_nickname = nick_the_younger
@@ -1899,7 +2191,11 @@ Hanno_VIII_Magonids = {
 Khilletzbaal_I_Magonids = {
 	name = Khilletzbaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_VIII_Magonids
 	5061.1.1 = {
@@ -1912,7 +2208,11 @@ Khilletzbaal_I_Magonids = {
 Khamelqart_I_Magonids = {
 	name = Khamelqart
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Khilletzbaal_I_Magonids
 	5080.1.1 = {
@@ -1925,7 +2225,11 @@ Khamelqart_I_Magonids = {
 Yehawwielon_I_Magonids = {
 	name = Yehawwielon
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Khilletzbaal_I_Magonids
 	5082.1.1 = {
@@ -1938,7 +2242,11 @@ Yehawwielon_I_Magonids = {
 Khamelqart_II_Magonids = {
 	name = Khamelqart
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Yehawwielon_I_Magonids
 	5120.1.1 = {
@@ -1951,7 +2259,11 @@ Khamelqart_II_Magonids = {
 Mago_VII_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Khamelqart_II_Magonids
 	5150.1.1 = {
@@ -1964,7 +2276,11 @@ Mago_VII_Magonids = {
 Melqartpilles_II_Magonids = {
 	name = Melqartpilles
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_VII_Magonids
 	5182.1.1 = {
@@ -1977,7 +2293,11 @@ Melqartpilles_II_Magonids = {
 Mago_VIII_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Melqartpilles_II_Magonids
 	5200.1.1 = {
@@ -1990,7 +2310,11 @@ Mago_VIII_Magonids = {
 Mago_IX_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_VIII_Magonids
 	5222.1.1 = {
@@ -2003,7 +2327,11 @@ Mago_IX_Magonids = {
 Baalhanno_II_Magonids = {
 	name = Baalhanno
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_IX_Magonids
 	5246.1.1 = {
@@ -2016,7 +2344,11 @@ Baalhanno_II_Magonids = {
 Khamelqart_III_Magonids = {
 	name = Khamelqart
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Baalhanno_II_Magonids
 	5246.1.1 = {
@@ -2029,7 +2361,11 @@ Khamelqart_III_Magonids = {
 Baalhanno_I_Magonids = {
 	name = Baalhanno
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_VIII_Magonids
 	5224.1.1 = {
@@ -2042,7 +2378,11 @@ Baalhanno_I_Magonids = {
 Mago_X_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Baalhanno_I_Magonids
 	5245.1.1 = {
@@ -2055,7 +2395,11 @@ Mago_X_Magonids = {
 Melqartpilles_III_Magonids = {
 	name = Melqartpilles
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_X_Magonids
 	5265.1.1 = {
@@ -2068,7 +2412,11 @@ Melqartpilles_III_Magonids = {
 Mago_XI_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Melqartpilles_III_Magonids
 	5295.1.1 = {
@@ -2081,7 +2429,11 @@ Mago_XI_Magonids = {
 Khimilkt_I_Magonids = {
 	name = KhimilKt
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_XI_Magonids
 	5323.1.1 = {
@@ -2094,7 +2446,11 @@ Khimilkt_I_Magonids = {
 Hannibal_IV_Magonids = {
 	name = Hannibal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Khimilkt_I_Magonids
 	5348.1.1 = {
@@ -2107,7 +2463,11 @@ Hannibal_IV_Magonids = {
 Hanno_IX_Magonids = {
 	name = Hanno
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_IV_Magonids
 	5400.1.1 = {
@@ -2120,7 +2480,11 @@ Hanno_IX_Magonids = {
 Gersakkun_I_Magonids = {
 	name = Gersakkun
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_IX_Magonids
 	5423.1.1 = {
@@ -2133,7 +2497,11 @@ Gersakkun_I_Magonids = {
 Bomilcar_II_Magonids  = {
 	name = Bomilcar 
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Gersakkun_I_Magonids
 	5458.1.1 = {
@@ -2146,7 +2514,11 @@ Bomilcar_II_Magonids  = {
 Melqartpilles_IV_Magonids  = {
 	name = Melqartpilles
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Bomilcar_II_Magonids
 	5492.1.1 = {
@@ -2159,7 +2531,11 @@ Melqartpilles_IV_Magonids  = {
 Khimilkt_II_Magonids = {
 	name = KhimilKt
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Melqartpilles_IV_Magonids
 	5517.1.1 = {
@@ -2172,7 +2548,11 @@ Khimilkt_II_Magonids = {
 Mago_XII_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Khimilkt_II_Magonids
 	5562.1.1 = {
@@ -2185,7 +2565,11 @@ Mago_XII_Magonids = {
 Hamilket_I_Magonids = {
 	name = Hamilket
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_XII_Magonids
 	5586.1.1 = {
@@ -2198,7 +2582,11 @@ Hamilket_I_Magonids = {
 Anobaal_I_Magonids = {
 	name = Anobaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilket_I_Magonids
 	5612.1.1 = {
@@ -2211,7 +2599,11 @@ Anobaal_I_Magonids = {
 Azrubaal_II_Magonids = {
 	name = Azrubaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilket_I_Magonids
 	5630.1.1 = {
@@ -2224,7 +2616,11 @@ Azrubaal_II_Magonids = {
 Adonibaal_I_Magonids = {
 	name = Adonibaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Azrubaal_II_Magonids
 	5660.1.1 = {
@@ -2237,7 +2633,11 @@ Adonibaal_I_Magonids = {
 Mago_XIII_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Adonibaal_I_Magonids
 	5688.1.1 = {
@@ -2250,7 +2650,11 @@ Mago_XIII_Magonids = {
 Hanno_X_Magonids = {
 	name = Hanno
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_XIII_Magonids
 	5702.1.1 = {
@@ -2263,7 +2667,11 @@ Hanno_X_Magonids = {
 Hamilket_II_Magonids = {
 	name = Hamilket
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_X_Magonids
 	5720.1.1 = {
@@ -2276,7 +2684,11 @@ Hamilket_II_Magonids = {
 Germelqart_I_Magonids = {
 	name = Germelqart
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilket_II_Magonids
 	5744.1.1 = {
@@ -2289,7 +2701,11 @@ Germelqart_I_Magonids = {
 Hannibal_V_Magonids = {
 	name = Hannibal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Germelqart_I_Magonids
 	5799.1.1 = {
@@ -2302,7 +2718,11 @@ Hannibal_V_Magonids = {
 Khilletzbaal_II_Magonids = {
 	name = Khilletzbaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_V_Magonids
 	5820.1.1 = {
@@ -2315,7 +2735,11 @@ Khilletzbaal_II_Magonids = {
 Hanno_XI_Magonids = {
 	name = Hanno
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_V_Magonids
 	5840.1.1 = {
@@ -2328,7 +2752,11 @@ Hanno_XI_Magonids = {
 Melqartpilles_V_Magonids = {
 	name = Melqartpilles
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_XI_Magonids
 	5866.1.1 = {
@@ -2341,7 +2769,11 @@ Melqartpilles_V_Magonids = {
 Mago_XIV_Magonids = {
 	name = Mago
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Melqartpilles_V_Magonids
 	5890.1.1 = {
@@ -2354,7 +2786,11 @@ Mago_XIV_Magonids = {
 Balbazer_III_Magonids = {
 	name = Balbazer
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_XIV_Magonids
 	5915.1.1 = {
@@ -2367,7 +2803,11 @@ Balbazer_III_Magonids = {
 Annobaal_II_Magonids = {
 	name = Annobaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_III_Magonids
 	5940.1.1 = {
@@ -2380,7 +2820,11 @@ Annobaal_II_Magonids = {
 Melqartpilles_I_Magonids = {
 	name = Melqartpilles
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Balbazer_I_Magonids
 	4920.1.1 = {
@@ -2393,7 +2837,11 @@ Melqartpilles_I_Magonids = {
 Hannibal_VI_Magonids = {
 	name = Hannibal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Annobaal_II_Magonids
 	6000.1.1 = {
@@ -2406,7 +2854,11 @@ Hannibal_VI_Magonids = {
 161006 = {
 	name = Khilletzbaal
 	dynasty_house = dynasty_house_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_VI_Magonids
 	6040.1.1 = {
@@ -2420,7 +2872,11 @@ Hannibal_VI_Magonids = {
 Hanno_I_Hannolid = {
     name = Hanno   
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	give_nickname = nick_the_great
 	4595.1.1 = {
@@ -2438,7 +2894,11 @@ Hanno_I_Hannolid = {
 Gersakkun_I_Hannolid = {
     name = Gersakkun   
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_I_Hannolid
 	mother = Dido_I_Magonids
@@ -2452,7 +2912,11 @@ Gersakkun_I_Hannolid = {
 Hamilcar_I_Hannolid = {
     name = Hamilcar    
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Gersakkun_I_Hannolid
 	4650.1.1 = {
@@ -2465,7 +2929,11 @@ Hamilcar_I_Hannolid = {
 Hanno_II_Hannolid = {
     name = Hanno
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Hannolid
 	4670.1.1 = {
@@ -2478,7 +2946,11 @@ Hanno_II_Hannolid = {
 Hasdrubal_I_Hannolid = {
     name = Hasdrubal
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_II_Hannolid
 	4690.1.1 = {
@@ -2491,7 +2963,11 @@ Hasdrubal_I_Hannolid = {
 Hannibal_I_Hannolid = {
     name = Hannibal    
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_I_Hannolid
 	4710.1.1 = {
@@ -2504,7 +2980,11 @@ Hannibal_I_Hannolid = {
 Hanno_III_Hannolid = { #Hanno the Great (II)
 	name = Hanno
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_I_Hannolid
 	give_nickname = nick_the_great
@@ -2518,7 +2998,11 @@ Hanno_III_Hannolid = { #Hanno the Great (II)
 Hamilket_I_Hannolid = {
 	name = Hamilket
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_III_Hannolid
 	4760.1.1 = {
@@ -2531,7 +3015,11 @@ Hamilket_I_Hannolid = {
 Hasdrubal_II_Hannolid = {
 	name = Hasdrubal
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilket_I_Hannolid
 	4790.1.1 = {
@@ -2544,7 +3032,11 @@ Hasdrubal_II_Hannolid = {
 Hanno_IV_Hannolid = { #Hanno the Great (III)
 	name = Hanno
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_II_Hannolid
 	give_nickname = nick_the_great
@@ -2558,7 +3050,11 @@ Hanno_IV_Hannolid = { #Hanno the Great (III)
 Bomilcar_I_Hannolid = {
 	name = Bomilcar 
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Gersakkun_I_Hannolid
 	4661.1.1 = {
@@ -2573,7 +3069,11 @@ Bomilcar_I_Hannolid = {
 Hanno_V_Hannolid = {
 	name = Hanno
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Bomilcar_I_Hannolid
 	4677.1.1 = {
@@ -2588,7 +3088,11 @@ Hanno_V_Hannolid = {
 Hamilcar_II_Hannolid = {
 	name = Hamilcar
 	dynasty = dynasty_punic_hannolid
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_IV_Hannolid
 	give_nickname = nick_the_traitor
@@ -2603,7 +3107,11 @@ Hamilcar_II_Hannolid = {
 Hamilcar_I_Barca = {
 	name = Hamilcar  
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	4726.1.1 = {
 		birth = yes
@@ -2615,7 +3123,11 @@ Hamilcar_I_Barca = {
 Hannibal_I_Barca = {
 	name = Hannibal  
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Barca
 	trait = education_martial_4
@@ -2629,7 +3141,11 @@ Hannibal_I_Barca = {
 Haspar_I_Barca = {
 	name = Haspar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_I_Barca
 	4783.1.1 = {
@@ -2642,7 +3158,11 @@ Haspar_I_Barca = {
 Hannibal_II_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Haspar_I_Barca
 	give_nickname = nick_the_lesser
@@ -2656,7 +3176,11 @@ Hannibal_II_Barca = {
 Mago_II_Barca = {
 	name = Mago
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_II_Barca
 	give_nickname = nick_the_exile
@@ -2670,7 +3194,11 @@ Mago_II_Barca = {
 Hannibal_III_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_II_Barca
 	4870.1.1 = {
@@ -2683,7 +3211,11 @@ Hannibal_III_Barca = {
 Hasdrubal_III_Barca = {
 	name = Hasdrubal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_III_Barca
 	4900.1.1 = {
@@ -2696,7 +3228,11 @@ Hasdrubal_III_Barca = {
 Hamilcar_II_Barca = {
 	name = Hamilcar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_III_Barca
 	4904.1.1 = {
@@ -2709,7 +3245,11 @@ Hamilcar_II_Barca = {
 Hasdrubal_IV_Barca = {
 	name = Hasdrubal 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Barca
 	4940.1.1 = {
@@ -2722,7 +3262,11 @@ Hasdrubal_IV_Barca = {
 Agbal_I_Barca = {
 	name = Agbal 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_IV_Barca
 	4962.1.1 = {
@@ -2735,7 +3279,11 @@ Agbal_I_Barca = {
 Baalhanno_I_Barca = {
 	name = Baalhanno 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Agbal_I_Barca
 	4990.1.1 = {
@@ -2748,7 +3296,11 @@ Baalhanno_I_Barca = {
 Hannibal_IV_Barca = {
 	name = Hannibal 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Baalhanno_I_Barca
 	5010.1.1 = {
@@ -2761,7 +3313,11 @@ Hannibal_IV_Barca = {
 Hamilcar_III_Barca = {
 	name = Hamilcar 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_IV_Barca
 	5026.1.1 = {
@@ -2774,7 +3330,11 @@ Hamilcar_III_Barca = {
 Hannibal_V_Barca = {
 	name = Hannibal 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_III_Barca
 	5066.1.1 = {
@@ -2787,7 +3347,11 @@ Hannibal_V_Barca = {
 Hasdrubal_V_Barca = {
 	name = Hasdrubal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_III_Barca
 	5068.1.1 = {
@@ -2800,7 +3364,11 @@ Hasdrubal_V_Barca = {
 Haspar_II_Barca = {
 	name = Haspar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_V_Barca
 	5096.1.1 = {
@@ -2813,7 +3381,11 @@ Haspar_II_Barca = {
 Hannibal_VI_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Haspar_II_Barca
 	5115.1.1 = {
@@ -2826,7 +3398,11 @@ Hannibal_VI_Barca = {
 Hannibal_VII_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_VI_Barca
 	5146.1.1 = {
@@ -2839,7 +3415,11 @@ Hannibal_VII_Barca = {
 Mago_III_Barca = {
 	name = Mago
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_VII_Barca
 	5196.1.1 = {
@@ -2852,7 +3432,11 @@ Mago_III_Barca = {
 Baalhanno_II_Barca = {
 	name = Baalhanno
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_III_Barca
 	5223.1.1 = {
@@ -2865,7 +3449,11 @@ Baalhanno_II_Barca = {
 Mago_IV_Barca = {
 	name = Mago
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Baalhanno_II_Barca
 	5240.1.1 = {
@@ -2878,7 +3466,11 @@ Mago_IV_Barca = {
 Hannibal_VIII_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mago_IV_Barca
 	5270.1.1 = {
@@ -2891,7 +3483,11 @@ Hannibal_VIII_Barca = {
 Hannibal_IX_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_VIII_Barca
 	5299.1.1 = {
@@ -2904,7 +3500,11 @@ Hannibal_IX_Barca = {
 Azrubaal_I_Barca = {
 	name = Azrubaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_IX_Barca
 	5321.1.1 = {
@@ -2917,7 +3517,11 @@ Azrubaal_I_Barca = {
 Azrubaal_II_Barca = {
 	name = Azrubaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Azrubaal_I_Barca
 	5359.1.1 = {
@@ -2930,7 +3534,11 @@ Azrubaal_II_Barca = {
 Hasdrubal_VI_Barca = {
 	name = Hasdrubal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Azrubaal_II_Barca
 	5380.1.1 = {
@@ -2943,7 +3551,11 @@ Hasdrubal_VI_Barca = {
 Hanno_I_Barca = {
 	name = Hanno
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_VI_Barca
 	5404.1.1 = {
@@ -2956,7 +3568,11 @@ Hanno_I_Barca = {
 Hannibal_X_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_I_Barca
 	5420.1.1 = {
@@ -2969,7 +3585,11 @@ Hannibal_X_Barca = {
 Hannibal_XI_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_X_Barca
 	5447.1.1 = {
@@ -2982,7 +3602,11 @@ Hannibal_XI_Barca = {
 Haspar_III_Barca = {
 	name = Haspar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hannibal_XI_Barca
 	5470.1.1 = {
@@ -2995,7 +3619,11 @@ Haspar_III_Barca = {
 Hamilcar_IV_Barca = {
 	name = Hamilcar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Haspar_III_Barca
 	5500.1.1 = {
@@ -3008,7 +3636,11 @@ Hamilcar_IV_Barca = {
 Hanno_II_Barca = {
 	name = Hanno
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_IV_Barca
 	5524.1.1 = {
@@ -3021,7 +3653,11 @@ Hanno_II_Barca = {
 Baalhanno_III_Barca = {
 	name = Baalhanno
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_II_Barca
 	5560.1.1 = {
@@ -3034,7 +3670,11 @@ Baalhanno_III_Barca = {
 Hannibal_XII_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_II_Barca
 	5588.1.1 = {
@@ -3047,7 +3687,11 @@ Hannibal_XII_Barca = {
 Azrubaal_III_Barca = {
 	name = Azrubaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hanno_II_Barca
 	5600.1.1 = {
@@ -3060,7 +3704,11 @@ Azrubaal_III_Barca = {
 Sakarbaal_I_Barca = {
 	name = Sakarbaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Azrubaal_III_Barca
 	5633.1.1 = {
@@ -3073,7 +3721,11 @@ Sakarbaal_I_Barca = {
 Mithonbaal_I_Barca = {
 	name = Mithonbaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Sakarbaal_I_Barca
 	5660.1.1 = {
@@ -3086,7 +3738,11 @@ Mithonbaal_I_Barca = {
 Anobaal_I_Barca = {
 	name = Anobaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mithonbaal_I_Barca
 	5700.1.1 = {
@@ -3099,7 +3755,11 @@ Anobaal_I_Barca = {
 Hamilcar_V_Barca = {
 	name = Hamilcar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Anobaal_I_Barca
 	5730.1.1 = {
@@ -3112,7 +3772,11 @@ Hamilcar_V_Barca = {
 Sakarbaal_II_Barca = {
 	name = Sakarbaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_V_Barca
 	5759.1.1 = {
@@ -3125,7 +3789,11 @@ Sakarbaal_II_Barca = {
 Hannibal_XIV_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Sakarbaal_II_Barca
 	5791.1.1 = {
@@ -3138,7 +3806,11 @@ Hannibal_XIV_Barca = {
 Aderbaal_I_Barca = {
 	name = Aderbaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Sakarbaal_II_Barca
 	5816.1.1 = {
@@ -3151,7 +3823,11 @@ Aderbaal_I_Barca = {
 Baalhanno_IV_Barca = {
 	name = Baalhanno
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Aderbaal_I_Barca
 	5844.1.1 = {
@@ -3164,7 +3840,11 @@ Baalhanno_IV_Barca = {
 Hasdrubal_VII_Barca = {
 	name = Hasdrubal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Baalhanno_IV_Barca
 	5888.1.1 = {
@@ -3177,7 +3857,11 @@ Hasdrubal_VII_Barca = {
 Hamilcar_VI_Barca = {
 	name = Hamilcar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hasdrubal_VII_Barca
 	5900.1.1 = {
@@ -3190,7 +3874,11 @@ Hamilcar_VI_Barca = {
 Hamilcar_VII_Barca = {
 	name = Hamilcar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_VI_Barca
 	5916.1.1 = {
@@ -3203,7 +3891,11 @@ Hamilcar_VII_Barca = {
 Hamilcar_VIII_Barca = {
 	name = Hamilcar
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_VI_Barca
 	5940.1.1 = {
@@ -3216,7 +3908,11 @@ Hamilcar_VIII_Barca = {
 Baalhanno_V_Barca = {
 	name = Baalhanno
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_VIII_Barca
 	5959.1.1 = {
@@ -3229,7 +3925,11 @@ Baalhanno_V_Barca = {
 Aderbaal_II_Barca = {
 	name = Aderbaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Baalhanno_V_Barca
 	5980.1.1 = {
@@ -3242,7 +3942,11 @@ Aderbaal_II_Barca = {
 Mithonbaal_II_Barca = {
 	name = Mithonbaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Aderbaal_II_Barca
 	6019.1.1 = {
@@ -3255,7 +3959,11 @@ Mithonbaal_II_Barca = {
 Khilletzbaal_I_Barca = {
 	name = Khilletzbaal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Mithonbaal_II_Barca
 	6050.1.1 = {
@@ -3268,7 +3976,11 @@ Khilletzbaal_I_Barca = {
 Hannibal_XIII_Barca = {
 	name = Hannibal
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Baalhanno_V_Barca
 	6020.1.1 = {
@@ -3281,7 +3993,11 @@ Hannibal_XIII_Barca = {
 Hasdrubal_I_Barca = {
 	name = Hasdrubal 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Barca
 	4756.1.1 = {
@@ -3294,7 +4010,11 @@ Hasdrubal_I_Barca = {
 Mago_I_Barca = {
 	name = Mago 
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Barca
 	4758.1.1 = {
@@ -3308,7 +4028,11 @@ Yasha_I_Barca = { #Unamed daughter of Hamilcar Barca
 	name = Yasha 
 	female = yes
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Barca
 	4748.1.1 = {
@@ -3322,7 +4046,11 @@ Mashah_I_Barca = { #Unamed daughter of Hamilcar Barca
 	name = Mashah 
 	female = yes
 	dynasty = dynasty_punic_barcid
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	father = Hamilcar_I_Barca
 	4740.1.1 = {
@@ -3334,7 +4062,11 @@ Mashah_I_Barca = { #Unamed daughter of Hamilcar Barca
 }
 Hasdrubal_II_Barca = {
 	name = Hasdrubal  
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	culture = carthaginian #phoenician
 	give_nickname = nick_the_fair
 	4731.1.1 = {
@@ -3350,7 +4082,11 @@ Hasdrubal_II_Barca = {
 #Baalseer
 Hanno_I_Baalseer = {
 	name = Hanno  
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_baalseer
 	culture = carthaginian #phoenician
 	4932.1.1 = {
@@ -3362,7 +4098,11 @@ Hanno_I_Baalseer = {
 }
 Bomilcar_I_Baalseer = {
 	name = Bomilcar  
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_baalseer
 	culture = carthaginian #phoenician
 	father = Hanno_I_Baalseer
@@ -3375,7 +4115,11 @@ Bomilcar_I_Baalseer = {
 }
 Gersakkun_I_Baalseer = {
 	name = Gersakkun  
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_baalseer
 	culture = carthaginian #phoenician
 	father = Bomilcar_I_Baalseer
@@ -3389,7 +4133,11 @@ Gersakkun_I_Baalseer = {
 #Gisgo
 Gersakkun_I_Gisgo = {
 	name = Gersakkun  
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_gisgo
 	culture = carthaginian #phoenician
 	4980.1.1 = {
@@ -3401,7 +4149,11 @@ Gersakkun_I_Gisgo = {
 }
 Bomilcar_I_Gisgo = {
 	name = Bomilcar  
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_gisgo
 	culture = carthaginian #phoenician
 	father = Gersakkun_I_Gisgo
@@ -3415,7 +4167,11 @@ Bomilcar_I_Gisgo = {
 #Ahirom
 Danel_I_Ahirom = {
 	name = Danel  
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_ahirom
 	culture = carthaginian #phoenician
 	give_nickname = nick_the_young
@@ -3428,7 +4184,11 @@ Danel_I_Ahirom = {
 }
 Yehawwielon_I_Ahirom = {
 	name = Yehawwielon  
+<<<<<<< HEAD
+	faith = palmyran_pagan
+=======
 	rite = palmyran_pagan
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_ahirom
 	culture = carthaginian #phoenician
 	5116.1.1 = {
@@ -3441,7 +4201,11 @@ Yehawwielon_I_Ahirom = {
 #Philosirid
 Philosir_I_Philosirid = {
 	name = Philosir
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_philosirid
 	culture = carthaginian #phoenician
 	5269.1.1 = {
@@ -3453,7 +4217,11 @@ Philosir_I_Philosirid = {
 }
 KhimilKt_I_Philosirid = {
 	name = KhimilKt
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_philosirid
 	culture = carthaginian #phoenician
 	5300.1.1 = {
@@ -3466,7 +4234,11 @@ KhimilKt_I_Philosirid = {
 #Baalid
 BaAl_I_Baalid = {
 	name = BaAl
+<<<<<<< HEAD
+	faith = hadad
+=======
 	rite = hadad
+>>>>>>> Lux-Renata-main
 	dynasty = dynasty_punic_baalid
 	culture = carthaginian #phoenician
 	5289.1.1 = {

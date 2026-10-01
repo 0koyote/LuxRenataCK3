@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿
+=======
 ﻿adopt_steppe_administration = {
 	picture = {
 		reference = "gfx/interface/illustrations/decisions/tgp_great_project.dds"
@@ -560,3 +563,4 @@ convert_to_meritocratic_decision = {
 		}
 	}
 }
+>>>>>>> Lux-Renata-main

@@ -3964,7 +3964,11 @@ Amaterasu_I_Yamato = { #Amaterasu Ōmikami
 	name = "shintoism_high_god_name"
 	female = yes
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	3395.1.1 = {
 		birth = yes
@@ -3976,7 +3980,11 @@ Amaterasu_I_Yamato = { #Amaterasu Ōmikami
 Amenooshihomimi_I_Yamato = { #Amenooshihomimi
 	name = "Amenooshihomimi"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	mother = Amaterasu_I_Yamato
 	3495.1.1 = {
@@ -3989,7 +3997,11 @@ Amenooshihomimi_I_Yamato = { #Amenooshihomimi
 Ninigi_I_Yamato = { #Ninigi-no-Mikoto
 	name = "Ninigi"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Amenooshihomimi_I_Yamato
 	3595.1.1 = {
@@ -4002,7 +4014,11 @@ Ninigi_I_Yamato = { #Ninigi-no-Mikoto
 Hoori_I_Yamato = { #Kami
 	name = "Hoori"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Ninigi_I_Yamato
 	3695.1.1 = {
@@ -4015,7 +4031,11 @@ Hoori_I_Yamato = { #Kami
 Ugayafukiaezu_I_Yamato = { #Kami
 	name = "Ugayafukiaezu"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Hoori_I_Yamato
 	3795.1.1 = {
@@ -4028,7 +4048,11 @@ Ugayafukiaezu_I_Yamato = { #Kami
 Jimmu_I_Yamato = {
 	name = "Jimmu"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Ugayafukiaezu_I_Yamato
 	4290.1.1 = {
@@ -4042,7 +4066,11 @@ Jimmu_I_Yamato = {
 Suizei_I_Yamato = {
 	name = "Suizei"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Jimmu_I_Yamato
 	4369.1.1 = {
@@ -4056,7 +4084,11 @@ Suizei_I_Yamato = {
 Annei_I_Yamato = {
 	name = "Annei"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Suizei_I_Yamato
 	4434.1.1 = {
@@ -4070,7 +4102,11 @@ Annei_I_Yamato = {
 Itoku_I_Yamato = {
 	name = "Itoku"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Annei_I_Yamato
 	4448.1.1 = {
@@ -4084,7 +4120,11 @@ Itoku_I_Yamato = {
 Kosho_I_Yamato = {
 	name = "Ko_sho_"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Itoku_I_Yamato
 	4500.1.1 = {
@@ -4098,7 +4138,11 @@ Kosho_I_Yamato = {
 Koan_I_Yamato = {
 	name = "Ko_an"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Kosho_I_Yamato
 	4574.1.1 = {
@@ -4112,7 +4156,11 @@ Koan_I_Yamato = {
 Korei_I_Yamato = {
 	name = "Ko_rei"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Koan_I_Yamato
 	4659.1.1 = {
@@ -4126,7 +4174,11 @@ Korei_I_Yamato = {
 Kogen_I_Yamato = {
 	name = "Ko_gen"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Korei_I_Yamato
 	4728.1.1 = {
@@ -4140,7 +4192,11 @@ Kogen_I_Yamato = {
 Kaika_I_Yamato = {
 	name = "Wakayamato"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Kogen_I_Yamato
 	4793.1.1 = {
@@ -4154,7 +4210,11 @@ Kaika_I_Yamato = {
 Mimaki_I_Yamato = {
 	name = "Mimaki"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Kaika_I_Yamato
 	4853.1.1 = {
@@ -4168,7 +4228,11 @@ Mimaki_I_Yamato = {
 Suinin_I_Yamato = {
 	name = "Ikume"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Mimaki_I_Yamato
 	4932.1.1 = {
@@ -4182,7 +4246,11 @@ Suinin_I_Yamato = {
 Keiko_I_Yamato = {
 	name = "O_tarashihiko"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Suinin_I_Yamato
 	4988.1.1 = {
@@ -4196,7 +4264,11 @@ Keiko_I_Yamato = {
 O_usu_I_Yamato = {
 	name = "O_usu"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Keiko_I_Yamato
 	5068.1.1 = {
@@ -4209,7 +4281,11 @@ O_usu_I_Yamato = {
 Takeru_I_Yamato = {
 	name = "Ousu"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Keiko_I_Yamato
 	trait = brave
@@ -4226,7 +4302,11 @@ Takeru_I_Yamato = {
 Seimu_I_Yamato = {
 	name = "Wakatarashihiko"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Keiko_I_Yamato
 	5084.1.1 = {
@@ -4240,7 +4320,11 @@ Seimu_I_Yamato = {
 Wakanuke_I_Yamato = {
 	name = "Wakanuke"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Seimu_I_Yamato
 	5170.1.1 = {
@@ -4253,7 +4337,11 @@ Wakanuke_I_Yamato = {
 Chuai_I_Yamato = {
 	name = "Tarashinakatsuhiko"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Takeru_I_Yamato
 	5149.1.1 = {
@@ -4267,7 +4355,11 @@ Chuai_I_Yamato = {
 Ojin_I_Yamato = {
 	name = "Homutawake"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Chuai_I_Yamato
 	5201.1.1 = {
@@ -4281,7 +4373,11 @@ Ojin_I_Yamato = {
 Nintoku_I_Yamato = {
 	name = "Ohosazaki"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Ojin_I_Yamato
 	5290.1.1 = {
@@ -4295,7 +4391,11 @@ Nintoku_I_Yamato = {
 Richu_I_Yamato = {
 	name = "O_enoizahowake"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Nintoku_I_Yamato
 	5336.1.1 = {
@@ -4309,7 +4409,11 @@ Richu_I_Yamato = {
 Hanzei_I_Yamato = {
 	name = "Mizuhawake"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Nintoku_I_Yamato
 	5352.1.1 = {
@@ -4323,7 +4427,11 @@ Hanzei_I_Yamato = {
 Ingyo_I_Yamato = {
 	name = "Oasatsuma"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Nintoku_I_Yamato
 	5373.1.1 = {
@@ -4337,7 +4445,11 @@ Ingyo_I_Yamato = {
 Anko_I_Yamato = {
 	name = "Anaho"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Ingyo_I_Yamato
 	5400.1.1 = {
@@ -4351,7 +4463,11 @@ Anko_I_Yamato = {
 Yuryaku_I_Yamato = {
 	name = "O_hatuse"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Ingyo_I_Yamato
 	5417.1.1 = {
@@ -4365,7 +4481,11 @@ Yuryaku_I_Yamato = {
 Seinei_I_Yamato = {
 	name = "Shiraka"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Yuryaku_I_Yamato
 	5444.1.1 = {
@@ -4379,7 +4499,11 @@ Seinei_I_Yamato = {
 Ichinobe_I_Yamato = {
 	name = "Ichinobe"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Richu_I_Yamato
 	5430.1.1 = {
@@ -4392,7 +4516,11 @@ Ichinobe_I_Yamato = {
 Woke_I_Yamato = {
 	name = "Woke"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Ichinobe_I_Yamato
 	5450.1.1 = {
@@ -4406,7 +4534,11 @@ Woke_I_Yamato = {
 Oke_I_Yamato = {
 	name = "Oke"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Ichinobe_I_Yamato
 	5449.1.1 = {
@@ -4420,7 +4552,11 @@ Oke_I_Yamato = {
 Buretsu_Yamato_I = {
 	name = "Ohatsuse"
 	dynasty = japanese_yamato
+<<<<<<< HEAD
+	religion = shinto
+=======
 	rite = shinto
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	father = Oke_I_Yamato
 	5489.1.1 = {
@@ -102993,7 +103129,11 @@ Ikko-Ikki_1 = {
 Geki_Tyrannoranger_easteregg = {
 	name = "Geki"
 	dynasty = dynasty_zyuranger_Tyrannoranger
+<<<<<<< HEAD
+	religion = mahayana
+=======
 	rite = mahayana
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	#father = Takahira_I_Yamato
 	trait = diligent
@@ -103011,7 +103151,11 @@ Geki_Tyrannoranger_easteregg = {
 Burai_Dragonranger_easteregg = {
 	name = "Burai"
 	dynasty = dynasty_zyuranger_Dragonranger
+<<<<<<< HEAD
+	religion = mahayana
+=======
 	rite = mahayana
+>>>>>>> Lux-Renata-main
 	culture = japanese
 	#father = Takahira_I_Yamato
 	trait = wrathful

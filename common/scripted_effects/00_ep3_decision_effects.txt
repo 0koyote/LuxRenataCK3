@@ -37,6 +37,34 @@ convert_to_administrative_from_feudalism_effect = {
 				value = flag:japan_administrative
 			}
 		}
+<<<<<<< HEAD
+		flag:roman_administrative = { # Classical Administrative
+			save_scope_value_as = {
+				name = has_selected_a_government
+				value = flag:roman_administrative
+			}
+		}
+		flag:alexandrian_administrative = { # Diadochi Administrative
+			save_scope_value_as = {
+				name = has_selected_a_government
+				value = flag:alexandrian_administrative
+			}
+		}
+		flag:gaul_administrative = { # Gaul Administrative
+			save_scope_value_as = {
+				name = has_selected_a_government
+				value = flag:gaul_administrative
+			}
+		}
+		flag:western_administrative = { # Frankish Administrative
+			save_scope_value_as = {
+				name = has_selected_a_government
+				value = flag:western_administrative
+			}
+		}
+
+=======
+>>>>>>> Lux-Renata-main
 	}
 
 	change_to_administrative_effect = yes

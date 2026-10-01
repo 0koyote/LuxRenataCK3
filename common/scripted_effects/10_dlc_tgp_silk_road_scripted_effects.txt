@@ -298,6 +298,10 @@ tgp_silk_road_innovation_setup_effect = {
 				tgp_silk_road_innovation_setup_add_effect = { INNOVATION = grenades }
 			}
 		}
+<<<<<<< HEAD
+		# Chinese heritage cultures without han.txt 1044 entry: match heritage_chinese history date
+=======
+>>>>>>> Lux-Renata-main
 	}
 }
 

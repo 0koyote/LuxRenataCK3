@@ -441,11 +441,14 @@ window = {
 		{
 			visible = "[Not(LoadIngameWindow.HasSelectedSavegame)]"
 		}
+<<<<<<< HEAD
+=======
 
 		blockoverride "button_delete_all_saves"
 		{
 			onclick = "[LoadIngameWindow.OnDeleteAll]"
 		}
+>>>>>>> Lux-Renata-main
 	}
 }
 

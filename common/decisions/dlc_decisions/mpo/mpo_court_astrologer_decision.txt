@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#empty
+=======
 ﻿#Divination
 
 ### Consult the Skies ###
@@ -65,3 +68,4 @@ mpo_divination_decision = {
         base = 100
     }
 }
+>>>>>>> Lux-Renata-main

@@ -764,7 +764,11 @@
 # 4777 - IRBIL
 4777 = {	#Misc
 	culture = assyrian
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	6200.1.1 = { rite = yazidi }
@@ -981,7 +985,11 @@
 # 4803 - KIRKUK
 4803 = {	#Misc
 	culture = assyrian
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 
@@ -992,7 +1000,11 @@
 	
 	# Misc
 	culture = levantine
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 
@@ -1001,7 +1013,11 @@
 # 4805 - SAMARRA
 4805 = {	#Misc
 	culture = assyrian
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = {
@@ -1020,7 +1036,11 @@
 	
 	# Misc
 	culture = levantine
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	
@@ -1032,7 +1052,11 @@
 	
 	# Misc
 	culture = levantine
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	
@@ -1044,7 +1068,11 @@
 	
 	# Misc
 	culture = kurdish
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -1057,7 +1085,11 @@
 	
 	# Misc
 	culture = kurdish
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	5867.1.1 = { rite = ashari }
@@ -1196,7 +1228,11 @@
 # 4829 - AL-ANBAR
 4829 = {	#Misc
 	culture = assyrian
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	6066.1.1 = {
@@ -1232,7 +1268,11 @@
 	
 	# Misc
 	culture = levantine
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 
@@ -1255,7 +1295,11 @@
 	
 	# Misc
 	culture = levantine
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 
@@ -1264,7 +1308,11 @@
 # 4835 - TAKRIT
 4835 = {	#Misc
 	culture = assyrian
+<<<<<<< HEAD
+	religion = syriac_christ
+=======
 	rite = syriac_christ
+>>>>>>> Lux-Renata-main
 	
 	# History
 	

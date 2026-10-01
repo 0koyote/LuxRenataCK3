@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#cleaned
+=======
 ﻿##################################################
 
 #	Fury of the Northmen Other Decisions List
@@ -124,3 +127,4 @@ raise_stele_decision = {
 		base = 50
 	}
 }
+>>>>>>> Lux-Renata-main

@@ -1685,11 +1685,11 @@
  is_de_jure_vassal_check: "[TARGET_CHARACTER.GetShortUIName|U] [CharAreIs(TARGET_CHARACTER)] a [de_jure|E] vassal"
  is_at_war_with_another_vassal: "[TARGET_CHARACTER.GetShortUIName|U] [CharAreIs(TARGET_CHARACTER)] at war with one of [CHARACTER.GetShortUINamePossessive] other vassals"
 
- feudalize_holding_interaction: "Feudalize Holding"
+ feudalize_holding_interaction: "Urbanize Holding"
  feudalize_holding_interaction_desc: "Destroy all [buildings|E] in this [holding|E] and change its [holding_type|E]"
  feudalize_holding_interaction_title_not_county_or_below: "Select a [county|E] or [barony|E]"
- feudalize_holding_interaction_notification: "Holding Feudalized"
- liege_feudalized_holding_interaction_notification: "Liege Feudalized Holding"
+ feudalize_holding_interaction_notification: "Holding Urbanized"
+ liege_feudalized_holding_interaction_notification: "Liege Urbanized Holding"
  sanctified_holding_interaction_notification: "Holding Sanctified"
  liege_sanctified_holding_interaction_notification: "Liege Sanctified Holding"
 

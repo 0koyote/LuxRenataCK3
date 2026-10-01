@@ -66,7 +66,11 @@
 	
 	# Misc
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	
 	holding = castle_holding
 	
@@ -92,7 +96,11 @@
 	
 	# Misc
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	
 	# History
 	#6000.1.1 = {
@@ -108,7 +116,11 @@
 	# History
 	6000.1.1 = {
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	}
 
 }
@@ -119,7 +131,11 @@
 	# History
 	6000.1.1 = {
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	}
 
 }
@@ -128,7 +144,11 @@
 751 = {	# XXXX - XXX
 	
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 
 }
@@ -139,7 +159,11 @@
 	
 	# Misc
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	
 	# History
 	#6000.1.1 = {
@@ -163,7 +187,11 @@
 5586 = {	# XXXX - XXX
 	
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 
 }
@@ -174,7 +202,11 @@
 	# History
 	#6000.1.1 = {
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	#}
 
 }
@@ -185,7 +217,11 @@
 	
 	# Misc
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	
 	holding = castle_holding
 	
@@ -651,21 +687,33 @@
 # ELAIOS in c_honorias
 13396 = {	# Elaios
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = city_holding
 }
 
 # DADYBRA in c_honorias
 13393 = {	# Dadybra
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = roman_jupiter
+=======
 	rite = roman_jupiter
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 
 # TIOS in c_honorias
 13397 = {	# Tios
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = church_holding
 }
 
@@ -693,28 +741,44 @@
 # PARTHENIA in c_amastris
 13398 = {	# Parthenia
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = none
 }
 
 # ERYTHRINOI in c_amastris
 13399 = {	# Erythrinoi
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = none
 }
 
 # THYMENA in c_ionopolis
 13400 = {	# Thymena
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = none
 }
 
 # SORA in c_kimiatene
 13392 = {	# Sora
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = none
 }
 
@@ -735,14 +799,22 @@
 # KAROUSA in c_sinope
 13387 = {	# Karousa
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = city_holding
 }
 
 # ARMENE in c_sinope
 13386 = {	# Armene
 	culture = hellenistic
+<<<<<<< HEAD
+	religion = hypsistarian
+=======
 	rite = hypsistarian
+>>>>>>> Lux-Renata-main
 	holding = none
 }
 

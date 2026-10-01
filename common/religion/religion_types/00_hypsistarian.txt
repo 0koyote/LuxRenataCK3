@@ -1,4 +1,28 @@
 ﻿hypsistarian_religion = {
+<<<<<<< HEAD
+	family = rf_graeco_roman
+	graphical_faith = zoroastrian_gfx
+
+	pagan_roots = yes
+
+	doctrine = graeco_roman_hostility_doctrine
+    doctrine = graeco_roman_special_hostility_doctrine
+	doctrine = lux_doctrine_pantheon_hellenic
+
+	#Main Group
+	doctrine = doctrine_monotheist
+	doctrine = doctrine_no_head
+	doctrine = doctrine_gender_male_dominated
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_temporal
+
+	# Faith Aspects
+	#doctrine = unreformed_faith_doctrine
+	doctrine = lux_doctrine_jewish_ascendant
+	doctrine = lux_doctrine_traditional_soul
+	doctrine = lux_doctrine_mainstream_status
+
+=======
 	religion_details = {
 		family = rf_pagan
 		graphical_faith = "catholic_gfx"
@@ -15,6 +39,7 @@
 	doctrine = doctrine_pluralism_pluralistic
 	doctrine = doctrine_theocracy_temporal
 
+>>>>>>> Lux-Renata-main
 	#Marriage
 	doctrine = doctrine_concubines
 	doctrine = doctrine_divorce_allowed
@@ -27,21 +52,51 @@
 	doctrine = doctrine_adultery_women_shunned
 	doctrine = doctrine_kinslaying_close_kin_crime
 	doctrine = doctrine_deviancy_shunned
+<<<<<<< HEAD
+	doctrine = doctrine_witchcraft_shunned
+=======
 	doctrine = doctrine_witchcraft_accepted
+>>>>>>> Lux-Renata-main
 
 	#Clerical Functions
 	doctrine = doctrine_clerical_function_recruitment
 	doctrine = doctrine_clerical_gender_either
 	doctrine = doctrine_clerical_marriage_allowed
 	doctrine = doctrine_clerical_succession_temporal_appointment
+<<<<<<< HEAD
+=======
 	doctrine = doctrine_monasticism_absent
 	doctrine = doctrine_sacraments_absent
+>>>>>>> Lux-Renata-main
 
 	#Allow pilgrimages
 	doctrine = doctrine_pilgrimage_encouraged
 
 	#Funeral tradition
 	doctrine = doctrine_funeral_bewailment # Ancient Greeks were encouraged to grieve publicly
+<<<<<<< HEAD
+	doctrine = doctrine_no_anointment # Greek kings were not anointed
+
+
+	traits = {
+		virtues = { brave just honest }
+		sins = { craven arbitrary deceitful }
+	}
+
+	reserved_male_names = {
+		Alexandros Adonis Aniketos Antiochos Apollinaris Apollodotos Apollodoros Arkadios Artemidoros Attikos Khrysos Khrysanthos Kleitos Kleisthenes Diodoros Diodotos Diogenes
+		Diokles Dionysios Eirenaios Erastos Eustathios Euthymios Eutropios Eutychios Heliodoros Heliodotos Herakleios Herakleitos Iason Isidoros Leontios Lysandros
+		Menandros Metrophanes Miltiades Neoptolemos Nikandros Nikodemos Pankratios Pantaleon Philippos Philadelphos Polydoros Ptolemaios Pyrrhos Seleukos Serapion Sophronides
+		Telemachos Timaios Xanthos Zagreus Zenon Zephyros
+		}
+	reserved_female_names = {
+		Alexandra Aristomache Arsinoe Anthousa Antigone Apollonia Arete Berenike Cleopatra Dorothea Eirene Eudokia Euphemia Eurydice Eutychia Helene Hypatia
+		Lysandra Lysistrate Melissa Nymphodora Olympias Parthena Philippa Pyrrha Roxana Sappho Sophia Stateira Timarete Xanthe Xenia Zenais Zenobia Zoe
+		}
+
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil custom_faith_boromian_circles custom_faith_lotus custom_faith_aum_tibetan custom_faith_pentagram custom_faith_pentagram_inverted custom_faith_burning_bush custom_faith_allah custom_faith_gankyil custom_faith_eye_of_providence custom_faith_dove custom_faith_ichthys custom_faith_lamb custom_faith_black_sheep custom_faith_ankh custom_faith_chi_rho custom_faith_hamsa custom_faith_cool_s custom_faith_roman_alexandros custom_faith_roman_alexandros_gold
+=======
 
 	#Coronation tradition
 	doctrine = doctrine_no_anointment
@@ -146,6 +201,7 @@
 		taoism_custom_1 custom_faith_10 custom_faith_3 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9
 		custom_faith_cool_s custom_faith_cool_s_01 custom_faith_cool_s_02 custom_faith_cool_s_03 custom_faith_cool_s_04 custom_faith_cool_s_05 custom_faith_eye_of_providence custom_faith_eye_of_providence_01 custom_faith_eye_of_providence_02 custom_faith_eye_of_providence_03 custom_faith_eye_of_providence_04 custom_faith_eye_of_providence_05 custom_faith_pentagram custom_faith_pentagram_01 custom_faith_pentagram_02 custom_faith_pentagram_03 custom_faith_pentagram_04 custom_faith_pentagram_05 custom_faith_pentagram_inverted custom_faith_elephant_01 custom_faith_elephant_02 custom_faith_elephant_03 custom_faith_elephant_04 custom_faith_elephant_05 custom_faith_horse_01 custom_faith_horse_02 custom_faith_horse_03 custom_faith_horse_04 custom_faith_horse_05 custom_faith_tree_01 custom_faith_tree_02 custom_faith_tree_03 custom_faith_tree_04 custom_faith_tree_05 custom_faith_pentagram_inverted_01 custom_faith_pentagram_inverted_02 custom_faith_pentagram_inverted_03 custom_faith_pentagram_inverted_04 custom_faith_pentagram_inverted_05
 		judaism_01 judaism_02 judaism_03 judaism_04 judaism_05 judaism_06 hinduism_01 hinduism_02 hinduism_03 hinduism_04 hinduism_05 hinduism_06 yazidi_01 yazidi_02 yazidi_03 yazidi_04 yazidi_05 yazidi_06 jainism_01 jainism_02 jainism_03 jainism_04 jainism_05 jainism_06 achamanism_01 achamanism_02 achamanism_03 achamanism_04 achamanism_05 utaki_01 utaki_02 utaki_03 utaki_04 utaki_05 west_african_roog_sene_01 west_african_roog_sene_02 west_african_roog_sene_03 west_african_roog_sene_04 west_african_roog_sene_05 spulugaism_01 spulugaism_02 spulugaism_03 spulugaism_04 spulugaism_05
+>>>>>>> Lux-Renata-main
 	}
 
 	holy_order_names = {
@@ -159,6 +215,10 @@
 		#High God Name
 		HighGodName = hypsistarian_high_god_name
 		HighGodName2 = hypsistarian_high_god_name_2
+<<<<<<< HEAD
+		HighGodName3 = hypsistarian_high_god_name_2
+=======
+>>>>>>> Lux-Renata-main
 		HighGodNamePossessive = hypsistarian_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
@@ -249,13 +309,33 @@
 		PantheonTerm2 = religion_the_gods_2
 		PantheonTerm3 = religion_the_gods_3
 		PantheonTermHasHave = pantheon_term_have
+<<<<<<< HEAD
+		GoodGodNames = { 
+			hypsistarian_good_god_poseidon
+			hypsistarian_good_god_athena
+			hypsistarian_good_god_ares
+			hypsistarian_good_god_hera
+			hypsistarian_good_god_apollo
+			hypsistarian_good_god_artemis
+			hypsistarian_good_god_hermes
+			hypsistarian_good_god_aphrodite 
+		}
+=======
 		GoodGodNames = { hypsistarian_good_god_poseidon hypsistarian_good_god_athena hypsistarian_good_god_ares hypsistarian_good_god_hera hypsistarian_good_god_apollo hypsistarian_good_god_artemis hypsistarian_good_god_hermes hypsistarian_good_god_aphrodite }
+>>>>>>> Lux-Renata-main
 		DevilName = hypsistarian_devil_name
 		DevilNamePossessive = hypsistarian_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_HE
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
+<<<<<<< HEAD
+		EvilGodNames = { 
+			hypsistarian_evil_god_menoetius
+			hypsistarian_evil_god_erinyes 
+		}
+=======
 		EvilGodNames = { hypsistarian_evil_god_menoetius hypsistarian_evil_god_erinyes }
+>>>>>>> Lux-Renata-main
 		HouseOfWorship = paganism_house_of_worship
 		HouseOfWorship2 = paganism_house_of_worship_2
 		HouseOfWorship3 = paganism_house_of_worship_3
@@ -267,6 +347,15 @@
 		ReligiousText2 = hypsistarian_religious_text_2
 		ReligiousText3 = hypsistarian_religious_text_3
 		ReligiousHeadName = hypsistarian_religious_head_title
+<<<<<<< HEAD
+		ReligiousHeadTitleName = dualism_religious_head_title_name
+		DevoteeMale = paganism_devotee
+		DevoteeMalePlural = paganism_devotee_plural
+		DevoteeFemale = paganism_devotee
+		DevoteeFemalePlural = paganism_devotee_plural
+		DevoteeNeuter = paganism_devotee
+		DevoteeNeuterPlural = paganism_devotee_plural
+=======
 		ReligiousHeadNameFemale = hypsistarian_religious_head_title
 		ReligiousHeadTitleName = dualism_religious_head_title_name
 		DevoteeMale = paganism_devotee
@@ -275,6 +364,7 @@
 		DevoteeFemalePlural = paganism_devoteeplural
 		DevoteeNeuter = paganism_devotee
 		DevoteeNeuterPlural = paganism_devoteeplural
+>>>>>>> Lux-Renata-main
 		PriestMale = hypsistarian_priest_male
 		PriestMalePlural = hypsistarian_priest_male_plural
 		PriestFemale = hypsistarian_priest_female
@@ -314,4 +404,200 @@
 		GHWName = ghw_great_holy_war
 		GHWNamePlural = ghw_great_holy_wars
 	}
+<<<<<<< HEAD
+
+	faiths = {
+		hypsistarian = {
+			color = { 10 81 243 }
+			icon = hypsistian
+			#reformed_icon = hellenic_pagan_reformed
+
+			holy_site = panticapaeum
+			holy_site = tanais
+			holy_site = constantinople
+			holy_site = amaseia
+			holy_site = dion
+			
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_heretical_status
+			doctrine = doctrine_monotheist
+
+
+
+			doctrine = tenet_legalism
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_pursuit_of_power
+		}
+
+		hypsistian = { #"Royal" Hypsistianism
+			color = hsv{ 0.83 0.7 0.2 }
+			icon = hypsistian
+
+			holy_site = panticapaeum
+			holy_site = tanais
+			holy_site = constantinople
+			holy_site = amaseia
+			holy_site = dion
+			# Faith Aspects
+			#doctrine = unreformed_faith_doctrine
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_mainstream_status
+			doctrine = doctrine_monotheist
+
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_adaptive
+			doctrine = tenet_ritual_celebrations
+		}
+
+		theosebian = {
+			color = { 153 77 153 }
+			icon = theosebian
+			#reformed_icon = hellenic_pagan_reformed
+
+			holy_site = klaros
+			holy_site = tanais
+			holy_site = constantinople
+			holy_site = oenoanda
+			holy_site = jerusalem
+
+			# Faith Aspects
+			#doctrine = unreformed_faith_doctrine
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_heretical_status
+			doctrine = doctrine_monotheist
+
+			doctrine = tenet_legalism
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_pursuit_of_power
+		}
+		pantokratic = {
+			color = { 204 77 204 }
+			icon = pantokratic
+			#reformed_icon = hellenic_pagan_reformed
+
+			holy_site = dion
+			holy_site = athens
+			holy_site = oenoanda
+			holy_site = constantinople
+			holy_site = klaros
+
+			# Faith Aspects
+			#doctrine = unreformed_faith_doctrine
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_heretical_status
+			doctrine = doctrine_monotheist
+
+			doctrine = tenet_ritual_hospitality
+			doctrine = tenet_ritual_celebrations
+			doctrine = tenet_pursuit_of_power
+
+		}
+		menist = {
+			color = { 200 77 52 }
+			icon = menist
+			#reformed_icon = hellenic_pagan_reformed
+
+			holy_site = constantinople
+			holy_site = klaros
+			holy_site = oenoanda
+			holy_site = amaseia
+			holy_site = pergamon
+
+			# Faith Aspects
+			#doctrine = unreformed_faith_doctrine
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_heretical_status
+			doctrine = doctrine_monotheist
+
+
+			#doctrine = tenet_princely_bishops # Localised as 'Temple States'
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_pursuit_of_power
+			doctrine = tenet_ritual_celebrations
+
+		}
+		gaithasuran = {
+			color = { 95 6 70 }
+			icon = gaithasuran
+			#reformed_icon = hellenic_pagan_reformed
+
+			holy_site = panticapaeum
+			holy_site = tanais
+			holy_site = constantinople
+			holy_site = amaseia
+			holy_site = sarmizegetusa
+
+			# Faith Aspects
+			#doctrine = unreformed_faith_doctrine
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_heretical_status
+			doctrine = doctrine_monotheist
+
+			doctrine = tenet_aniconism
+			doctrine = tenet_unrelenting_faith
+			
+			doctrine_selection_pair = {
+				requires_dlc_flag = the_northern_lords
+				doctrine = tenet_gruesome_festivals
+				fallback_doctrine = tenet_human_sacrifice
+			}
+		}
+		decenean = {
+			color = { 77 51 51 }
+			icon = decenean
+			#reformed_icon = hellenic_pagan_reformed
+
+			holy_site = constantinople
+			holy_site = sarmizegetusa
+			holy_site = panticapaeum
+			holy_site = kazanlak
+			holy_site = dion
+
+			# Faith Aspects
+			#doctrine = unreformed_faith_doctrine
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_heretical_status
+			doctrine = doctrine_monotheist
+
+			doctrine = tenet_reincarnation
+			doctrine = tenet_esotericism
+			doctrine = tenet_mountain_worship
+
+		}
+
+		sabazaic = {
+			color = { 50 75 85 }
+			icon = sabazaic
+			#reformed_icon = hellenic_pagan_reformed
+
+			holy_site = constantinople
+			holy_site = sarmizegetusa
+			holy_site = panticapaeum
+			holy_site = kazanlak
+			holy_site = dion
+
+			# Faith Aspects
+			#doctrine = unreformed_faith_doctrine
+			doctrine = lux_doctrine_jewish_ascendant
+			doctrine = lux_doctrine_traditional_soul
+			doctrine = lux_doctrine_heretical_status
+			doctrine = doctrine_monotheist
+
+			doctrine = tenet_cthonic_redoubts
+			doctrine = tenet_unreformed_syncretism
+			doctrine = tenet_monasticism
+		}
+
+
+
+	}
+=======
+>>>>>>> Lux-Renata-main
 }

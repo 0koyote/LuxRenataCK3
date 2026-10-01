@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#emptied to clean errors
+=======
 ﻿### Avenge the Battle of Nahrawan ###
 avenge_the_battle_of_nahrawan_decision = {
 	picture = {
@@ -486,3 +489,4 @@ fp3_name_read_in_friday_prayer_decision = {
 
 	# No AI checks here as we handle them taking the decision as part of general struggle stuff.
 }
+>>>>>>> Lux-Renata-main

@@ -5846,7 +5846,11 @@ texticon = {
 }
 
 texticon = {
+<<<<<<< HEAD
+	icon = government_type_roman_administrative
+=======
 	icon = pam_the_christian_church_saeculum_obscurum_icon
+>>>>>>> Lux-Renata-main
 	iconsize = {
 		texture = "gfx/interface/icons/the_christian_church/phase_type_icons/saeculum_obscurum.dds"
 		size = { 28 28 }
@@ -5904,3 +5908,34 @@ texticon = {
 		fontsize = 16
 	}
 }
+<<<<<<< HEAD
+
+texticon = {
+	icon = government_type_despotic
+	iconsize = {
+		texture = "gfx/interface/icons/government_types/despotic_government.dds"
+		size = { 28 28 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = government_type_despotic_administrative
+	iconsize = {
+		texture = "gfx/interface/icons/government_types/persianate_administrative_government.dds"
+		size = { 28 28 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+texticon = {
+	icon = government_type_classical_steppe_admin
+	iconsize = {
+		texture = "gfx/interface/icons/government_types/classical_steppe_admin_government.dds"
+		size = { 28 28 }
+		offset = { 0 6 }
+		fontsize = 16
+	}
+}
+=======
+>>>>>>> Lux-Renata-main

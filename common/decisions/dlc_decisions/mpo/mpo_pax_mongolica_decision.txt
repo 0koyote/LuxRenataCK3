@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#empty
+=======
 ﻿##Pax Mongolica
 ### Peace of the Great Khan ###
 mpo_pax_mongolica_decision = {
@@ -134,3 +137,4 @@ mpo_pax_mongolica_decision = {
 		}
 	}
 }
+>>>>>>> Lux-Renata-main

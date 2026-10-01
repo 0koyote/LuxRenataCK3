@@ -43,7 +43,11 @@ persian_achaemenid_3 = {
 Ariaramnes_I_Achaemenid = {
 	name = "Aryaran"
 	dynasty = dynasty_persian_achaemenid
+<<<<<<< HEAD
+	faith = mazdayasna
+=======
 	rite = mazdayasna
+>>>>>>> Lux-Renata-main
 	father = 1710194 # Teispes
 	culture = persian
 	4360.1.1 = { birth = yes }  # 550 BC (approx)
@@ -54,7 +58,11 @@ Arsames_I_Achaemenid = {
 	name = "Arsames"
 	dynasty = dynasty_persian_achaemenid
 	father = Ariaramnes_I_Achaemenid
+<<<<<<< HEAD
+	faith = mazdayasna
+=======
 	rite = mazdayasna
+>>>>>>> Lux-Renata-main
 	culture = persian
 	4400.1.1 = { birth = yes }  # 550 BC (approx)
 	4479.1.1  = { death = yes }  # 486 BC
@@ -64,7 +72,11 @@ Hystaspes_I_Achaemenid = {
 	name = VI_S_tap
 	dynasty = dynasty_persian_achaemenid
 	father = Arsames_I_Achaemenid
+<<<<<<< HEAD
+	faith = mazdayasna
+=======
 	rite = mazdayasna
+>>>>>>> Lux-Renata-main
 	culture = persian
 	4430.1.1 = { birth = yes }  # 550 BC (approx)
 	4502.1.1  = { death = yes }  # 486 BC
@@ -74,7 +86,11 @@ persian_achaemenid_4 = {
 	name = Dariush # Darius I
 	dynasty = dynasty_persian_achaemenid
 	father = Hystaspes_I_Achaemenid
+<<<<<<< HEAD
+	faith = mazdayasna
+=======
 	rite = mazdayasna
+>>>>>>> Lux-Renata-main
 	culture = persian
 	give_nickname = nick_the_great
 	4451.1.10 = { birth = yes }  # 550 BC (approx)
@@ -145,7 +161,11 @@ persian_achaemenid_10 = {
 Ostanes_I_Achaemenid = {
 	name = Hostanes
 	dynasty = dynasty_persian_achaemenid
+<<<<<<< HEAD
+	faith = mazdayasna
+=======
 	rite = mazdayasna
+>>>>>>> Lux-Renata-main
 	culture = persian
 	father = persian_achaemenid_9
 	4587.1.1 = { birth = yes }  # 436 BC (approx)
@@ -154,7 +174,11 @@ Ostanes_I_Achaemenid = {
 Arsames_II_Achaemenid = {
 	name = Arsames
 	dynasty = dynasty_persian_achaemenid
+<<<<<<< HEAD
+	faith = mazdayasna
+=======
 	rite = mazdayasna
+>>>>>>> Lux-Renata-main
 	culture = persian
 	father = Ostanes_I_Achaemenid
 	4600.1.1 = { birth = yes }  # 436 BC (approx)
@@ -4168,7 +4192,11 @@ Mandane_I_Hvakshathran = {
 	female = yes
 	dynasty = dynasty_persian_Hvakhshathran
 	father = persian_Hvakhshathran_05
+<<<<<<< HEAD
+	faith = "mazdayasna" 
+=======
 	rite = "mazdayasna" 
+>>>>>>> Lux-Renata-main
 	culture = "persian"
 	4385.1.1 = {
 		birth = yes
@@ -4730,7 +4758,11 @@ persian_Hvakhshathran_06 = {
 	name = Achaemenes #first king of Persia
 	dynasty = dynasty_persian_Hvakhshathran
 	father = likymnios_perseid #Cyaxares 
+<<<<<<< HEAD
+	faith = "mazdayasna"
+=======
 	rite = "mazdayasna"
+>>>>>>> Lux-Renata-main
 	culture = "persian"
 	trait = "bastard"
 	4281.1.1 = {

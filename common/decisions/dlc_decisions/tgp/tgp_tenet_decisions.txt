@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿
+=======
 ﻿#tgp_divine_reincarnation_decision
 
 ### Divine Reincarnation ###
@@ -139,3 +142,4 @@ tgp_divine_reincarnation_decision = {
 		}
 	}
 }
+>>>>>>> Lux-Renata-main

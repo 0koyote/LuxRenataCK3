@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#empty
+=======
 ﻿#############################################
 # Hire Agents								#
 # by Emil Tisander							#
@@ -1997,3 +2000,4 @@ change_imperial_aspirations_decision = {
 		}
 	}
 }
+>>>>>>> Lux-Renata-main

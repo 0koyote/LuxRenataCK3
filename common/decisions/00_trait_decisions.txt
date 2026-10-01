@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#
+=======
 ﻿################
 ####   VALUES  ####
 ###################
@@ -285,3 +288,4 @@ impatient_rushing_all_schemes_decision = {
 		base = 100
 	}
 }
+>>>>>>> Lux-Renata-main

@@ -1440,7 +1440,11 @@ on_game_start = {
 					limit = {
 						has_government = mandala_government
 					}
+<<<<<<< HEAD
+					change_government = indic_feudal_government
+=======
 					change_government = feudal_government
+>>>>>>> Lux-Renata-main
 				}
 				### Every Celestial/Meritocratic/Japanese Government becomes feudal if DLC not enabled, pre-lobby history setup ###
 				else_if = {

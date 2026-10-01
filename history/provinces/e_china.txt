@@ -2694,7 +2694,11 @@
 ###c_lam_tay # LAM TAY
 10855 = {	# LAM TAY
 	culture = viet
+<<<<<<< HEAD
+	religion = dhyana
+=======
 	rite = dhyana
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 10859 = {	# TAM GIANG
@@ -2709,7 +2713,11 @@
 ###c_quoc_oai # QUOC OAI
 10860 = {	# QUOC OAI
 	culture = viet
+<<<<<<< HEAD
+	religion = dhyana
+=======
 	rite = dhyana
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 10858 = {	# HOANG GIANG
@@ -3197,7 +3205,11 @@
 ###c_nam_dinh # NAM DINH
 10843 = {	# NAM DINH
 	culture = viet
+<<<<<<< HEAD
+	religion = theravada
+=======
 	rite = theravada
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 10841 = {	# THANH HOA
@@ -3212,7 +3224,11 @@
 ###c_nghe_an # NGHE AN
 10839 = {	# NGHE AN
 	culture = viet
+<<<<<<< HEAD
+	religion = theravada
+=======
 	rite = theravada
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 10840 = {	# DIEN CHAU
@@ -3881,7 +3897,11 @@
 ###c_long_hung # LONG HUNG
 10844 = {	# LONG HUNG
 	culture = viet_hellenic
+<<<<<<< HEAD
+	religion = theravada
+=======
 	rite = theravada
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 10845 = {	# KIEN XUONG
@@ -3893,7 +3913,11 @@
 ###c_thang_long # THANG LONG
 10861 = {	# THANG LONG
 	culture = viet
+<<<<<<< HEAD
+	religion = dhyana
+=======
 	rite = dhyana
+>>>>>>> Lux-Renata-main
 	holding = castle_holding
 }
 10857 = {	# HA BAC

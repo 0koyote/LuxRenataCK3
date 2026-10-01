@@ -3,7 +3,11 @@ lux_renata_1 = {
 	name = Photios #personal name is the same
 	dynasty = dynasty_eastern_roman_julianos #port dynasty and make cadet houses
 	#dna = 1732_konstantinos_x
+<<<<<<< HEAD
+	faith = sol_imperial
+=======
 	rite = sol_imperial
+>>>>>>> Lux-Renata-main
 	culture = greek
 	father = 12550 
 	trait = education_learning_4
@@ -75,7 +79,11 @@ lux_renata_1 = {
 12547 = { # Julian IV
 	name = Ioulianos
 	dynasty = dynasty_eastern_roman_julianos
+<<<<<<< HEAD
+	faith = sol_imperial
+=======
 	rite = sol_imperial
+>>>>>>> Lux-Renata-main
 	culture = greek
 	father = 12546
 	trait = bloodline_julianos
@@ -94,7 +102,11 @@ lux_renata_1 = {
 12548 = { # Julian V
 	name = Ioulianos
 	dynasty = dynasty_eastern_roman_julianos
+<<<<<<< HEAD
+	faith = sol_imperial
+=======
 	rite = sol_imperial
+>>>>>>> Lux-Renata-main
 	culture = greek
 	father = 12547
 	trait = bloodline_julianos
@@ -111,7 +123,11 @@ lux_renata_1 = {
 12549 = { # Julian VI
 	name = Ioulianos
 	dynasty = dynasty_eastern_roman_julianos
+<<<<<<< HEAD
+	faith = sol_imperial
+=======
 	rite = sol_imperial
+>>>>>>> Lux-Renata-main
 	culture = greek
 	father = 12548
 	trait = bloodline_julianos
@@ -127,7 +143,11 @@ lux_renata_1 = {
 12550 = { # Julian VII
 	name = Ioulianos
 	dynasty = dynasty_eastern_roman_julianos
+<<<<<<< HEAD
+	faith = sol_imperial
+=======
 	rite = sol_imperial
+>>>>>>> Lux-Renata-main
 	culture = greek
 	father = 12549
 	trait = bloodline_julianos
@@ -5253,7 +5273,11 @@ NerissaArcadia = {
 Publius_I_Scipio = {
 	name = Publius 
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	4726.1.1 = {
 		birth = yes
@@ -5265,7 +5289,11 @@ Publius_I_Scipio = {
 Africanus_I_Scipo = {
 	name = Publius 
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	give_nickname = nick_the_african
 	father = Publius_I_Scipio
@@ -5281,7 +5309,11 @@ Cornelia_I_Scipo = {
 	name = Cornelia 
 	female = yes
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Africanus_I_Scipo
 	4815.1.1 = {
@@ -5295,7 +5327,11 @@ Cornelia_II_Scipo = {
 	name = Cornelia 
 	female = yes
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Africanus_I_Scipo
 	4811.1.1 = {
@@ -5308,7 +5344,11 @@ Cornelia_II_Scipo = {
 Lucius_I_Scipio = {
 	name = Lucius 
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Africanus_I_Scipo
 	4786.1.1 = {
@@ -5321,7 +5361,11 @@ Lucius_I_Scipio = {
 Gnaeus_I_Scipio = {
 	name = Gnaeus 
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Africanus_I_Scipo
 	4787.1.1 = {
@@ -5334,7 +5378,11 @@ Gnaeus_I_Scipio = {
 Publius_II_Scipio = {
 	name = Publius  
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Africanus_I_Scipo
 	4785.1.1 = {
@@ -5347,7 +5395,11 @@ Publius_II_Scipio = {
 Aemilianus_I_Scipio = {
 	name = Aemilianus  
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Publius_II_Scipio
 	give_nickname = nick_the_younger
@@ -5361,7 +5413,11 @@ Aemilianus_I_Scipio = {
 Aemilianus_II_Scipio = {
 	name = Aemilianus  
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Aemilianus_I_Scipio
 	mother = Sempronia_I_Scipio
@@ -5375,7 +5431,11 @@ Aemilianus_II_Scipio = {
 Lucius_II_Scipio = {
 	name = Lucius 
 	dynasty = dynasty_roman_scipones
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Publius_I_Scipio
 	4770.1.1 = {
@@ -5389,7 +5449,11 @@ Lucius_II_Scipio = {
 Tiberius_I_Gracchi = {
 	name = Tiberius
 	dynasty = dynasty_roman_grachhi
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	4781.1.1 = {
 		birth = yes
@@ -5404,7 +5468,11 @@ Tiberius_I_Gracchi = {
 Tiberius_II_Gracchi = {
 	name = Tiberius
 	dynasty = dynasty_roman_grachhi
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Tiberius_I_Gracchi
 	mother = Cornelia_II_Scipo
@@ -5420,7 +5488,11 @@ Tiberius_II_Gracchi = {
 Gaius_I_Gracchi = {
 	name = Gaius 
 	dynasty = dynasty_roman_grachhi
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Tiberius_I_Gracchi
 	mother = Cornelia_II_Scipo
@@ -5437,7 +5509,11 @@ Sempronia_I_Scipio = {
 	name = Sempronia   
 	female = yes
 	dynasty = dynasty_roman_grachhi
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	mother = Cornelia_II_Scipo
 	father = Tiberius_I_Gracchi
@@ -5454,7 +5530,11 @@ Sempronia_I_Scipio = {
 Lucius_I_Gracchi = {
 	name = Lucius
 	dynasty = dynasty_roman_grachhi #Equitius
+<<<<<<< HEAD
+	faith = roman_pagan
+=======
 	rite = roman_pagan
+>>>>>>> Lux-Renata-main
 	culture = roman
 	father = Tiberius_II_Gracchi
 	mother = Sempronia_I_Scipio

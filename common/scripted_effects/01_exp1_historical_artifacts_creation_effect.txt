@@ -2430,7 +2430,11 @@ create_artifact_wall_muhammad_sword_effect = {
 		scope:muhammad_sword = {
 			add_artifact_history = {
 				type = given
+<<<<<<< HEAD
+				date = 5624.3.13
+=======
 				date = 624.3.13
+>>>>>>> Lux-Renata-main
 				recipient = character:33922 #Muhammad the Prophet
 			}
 			set_variable = sword_muhammad_aladb
@@ -2443,7 +2447,11 @@ create_artifact_wall_muhammad_sword_effect = {
 		scope:muhammad_sword = {
 			add_artifact_history = {
 				type = inherited
+<<<<<<< HEAD
+				date = 5570.6.1
+=======
 				date = 570.6.1
+>>>>>>> Lux-Renata-main
 				recipient = character:33922 #Muhammad the Prophet
 			}
 			set_variable = sword_muhammad_almathur
@@ -2456,7 +2464,11 @@ create_artifact_wall_muhammad_sword_effect = {
 		scope:muhammad_sword = {
 			add_artifact_history = {
 				type = inherited
+<<<<<<< HEAD
+				date = 5570.6.1
+=======
 				date = 570.6.1
+>>>>>>> Lux-Renata-main
 				recipient = character:33922 #Muhammad the Prophet
 			}
 			set_variable = sword_muhammad_arrasub
@@ -2473,7 +2485,11 @@ create_artifact_wall_muhammad_sword_effect = {
 		scope:muhammad_sword = {
 			add_artifact_history = {
 				type = conquest
+<<<<<<< HEAD
+				date = 5622.5.1
+=======
 				date = 622.5.1
+>>>>>>> Lux-Renata-main
 				recipient = character:33922 #Muhammad the Prophet
 				location = province:718
 			}
@@ -2497,7 +2513,11 @@ create_artifact_wall_muhammad_sword_effect = {
 		scope:muhammad_sword = {
 			add_artifact_history = {
 				type = conquest
+<<<<<<< HEAD
+				date = 5624.3.13
+=======
 				date = 624.3.13
+>>>>>>> Lux-Renata-main
 				recipient = character:33922 #Muhammad the Prophet
 				location = province:6210 #Al-Jar
 			}
@@ -2511,7 +2531,11 @@ create_artifact_wall_muhammad_sword_effect = {
 		scope:muhammad_sword = {
 			add_artifact_history = {
 				type = given
+<<<<<<< HEAD
+				date = 5610.1.1
+=======
 				date = 610.1.1
+>>>>>>> Lux-Renata-main
 				recipient = character:33922 #Muhammad the Prophet
 			}
 			set_variable = sword_muhammad_mikhdham
@@ -2524,7 +2548,11 @@ create_artifact_wall_muhammad_sword_effect = {
 		scope:muhammad_sword = {
 			add_artifact_history = {
 				type = given
+<<<<<<< HEAD
+				date = 5610.1.1
+=======
 				date = 610.1.1
+>>>>>>> Lux-Renata-main
 				recipient = character:33922 #Muhammad the Prophet
 			}
 			set_variable = sword_muhammad_alqadib

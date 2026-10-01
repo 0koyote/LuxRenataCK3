@@ -131,6 +131,72 @@ special_doctrine_is_gnostic_faith = {
 	}
 }
 
+<<<<<<< HEAD
+special_doctrine_is_anti_zoroastrian_faith = {
+	parameters = {
+		hostility_override_lux_doctrine_persian_ascendant = 3
+		#hostility_override_tenet_zoroastrian_syncretism = 3
+		hostility_override_lux_doctrine_dualist_ascendant = 3
+		hostility_override_tenet_gnosticism = 3
+		hostility_override_special_doctrine_is_gnostic_faith = 3
+		hostility_override_special_doctrine_is_zoroastrian_faith = 3
+		hates_light_religions_loc_override = 3 #for localisation
+	}
+}
+
+pagan_special_hostility_doctrine = {
+	parameters = {
+		hostility_override_pagan_special_hostility_doctrine = 1
+		hostility_override_lux_doctrine_folk_ascendant = 1
+		hostility_override_tenet_unreformed_syncretism = 1
+	}
+}
+
+graeco_roman_special_hostility_doctrine = {
+	parameters = {
+		hostility_override_graeco_roman_special_hostility_doctrine = 1
+		hostility_override_lux_doctrine_graeco_roman_ascendant = 1
+	}
+}
+
+archaic_special_hostility_doctrine = {
+	parameters = {
+		hostility_override_archaic_special_hostility_doctrine = 1
+		hostility_override_lux_doctrine_archaic_ascendant = 1
+	}
+}
+
+christian_special_hostility_doctrine = {
+	parameters = {
+		hostility_override_christian_special_hostility_doctrine = 1
+		hostility_override_lux_doctrine_christian_ascendant = 1
+	}
+}
+
+eastern_special_hostility_doctrine = {
+	parameters = {
+		hostility_override_eastern_special_hostility_doctrine = 1
+		hostility_override_lux_doctrine_eastern_ascendant = 1
+	}
+}
+
+sinitic_special_hostility_doctrine = {
+	parameters = {
+		hostility_override_sinitic_special_hostility_doctrine = 1
+		hostility_override_lux_doctrine_sinitic_ascendant = 1
+	}
+}
+
+indo_hellenic_special_hostility_doctrine = {
+	parameters = {
+		hostility_override_indo_hellenic_special_hostility_doctrine = 1
+		hostility_override_lux_doctrine_indo_hellenic_ascendant = 1
+	}
+}
+###
+
+=======
+>>>>>>> Lux-Renata-main
 special_doctrine_ecumenical_christian = {
 	doctrine_group_type = special_tolerance
 	icon = "special_doctrine_ecumenical_christian"

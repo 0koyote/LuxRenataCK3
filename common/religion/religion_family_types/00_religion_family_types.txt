@@ -36,3 +36,26 @@ rf_pagan = {
 	tenet_neutral_background_icon = tenet_banner_known_neutral
 	tenet_unknown_background_icon = tenet_banner_unknown_neutral
 }
+<<<<<<< HEAD
+
+rf_steppe = {
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = pagan_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+rf_graeco_roman = {
+	piety_icon_group = "hellenic"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = graeco_roman_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+rf_graeco_dharma = {
+	piety_icon_group = "eastern"
+	graphical_faith = "dharmic_gfx"
+	hostility_doctrine = indo_hellenic_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_eastern.dds
+}
+
+=======
+>>>>>>> Lux-Renata-main

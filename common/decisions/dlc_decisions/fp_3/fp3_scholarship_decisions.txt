@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿#emptied to clean errors
+=======
 ﻿### Sponsor Persian Scholars ###
 fp3_sponsor_persian_scholars_decision = {
 	picture = {
@@ -313,3 +316,4 @@ fp3_sponsor_research_project_decision = {
 		}
 	}
 }
+>>>>>>> Lux-Renata-main

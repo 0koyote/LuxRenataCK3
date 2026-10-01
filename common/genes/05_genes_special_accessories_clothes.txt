@@ -99,14 +99,22 @@
 					1 = m_clothes_sec_dde_abbasid_war_nob_01_hi
 					1 = m_clothes_sec_dde_abbasid_war_nob_01_roy
 					1 = male_clothes_religious_orthodox_high_01
+<<<<<<< HEAD
+					1 = male_clothes_religious_orthodox_head_01_common
+=======
 					1 = male_clothes_religious_orthodox_head_01
+>>>>>>> Lux-Renata-main
 					1 = male_clothes_religious_muslim_high_01
 					1 = male_clothes_religious_dde_muslim_head_01_common
 					1 = male_clothes_religious_catholic_devoted_01_dominican
 					1 = male_clothes_religious_catholic_devoted_02_franciscan
 					1 = male_clothes_religious_catholic_devoted_02_benedictine
 					1 = male_clothes_religious_catholic_high_01
+<<<<<<< HEAD
+					1 = male_clothes_religious_dde_catholic_high_01_common
+=======
 					1 = male_clothes_religious_dde_catholic_high_01
+>>>>>>> Lux-Renata-main
 					1 = male_clothes_religious_catholic_high_01
 					1 = male_clothes_religious_catholic_head_01
 					1 = male_clothes_religious_northern_high_01
@@ -204,7 +212,11 @@
 					1 = m_clothes_sec_mpo_mongol_roy_01
 					1 = m_clothes_sec_mpo_mongol_imp_01
 					1 = m_clothes_sec_mpo_mongol_war_01
+<<<<<<< HEAD
+					
+=======
 
+>>>>>>> Lux-Renata-main
 					# POl
 					1 = m_clothes_sec_pol_common_01
 					1 = m_clothes_sec_pol_common_02
@@ -234,12 +246,18 @@
                      # ccp9
 
 					1 = m_clothes_ccp9_dal_nob_01
+<<<<<<< HEAD
+					1 = m_clothes_ccp9_lia_nob_01   
+					1 = m_clothes_ccp9_min_nob_01 
+					1 = m_clothes_ccp9_tan_nob_01 					
+=======
 					1 = m_clothes_ccp9_lia_nob_01
 					1 = m_clothes_ccp9_min_nob_01
 					1 = m_clothes_ccp9_tan_nob_01
 					1 = m_clothes_ccp9_lia_nob_01
 					1 = m_clothes_ccp9_min_nob_01
 					1 = m_clothes_ccp9_tan_nob_01
+>>>>>>> Lux-Renata-main
 
 
 				}
@@ -336,7 +354,10 @@
 					1 = female_clothes_religious_northern_high_01
 					1 = female_clothes_religious_african_high_01_common
 					1 = female_clothes_religious_hindu_devoted_01
+<<<<<<< HEAD
+=======
 					1 = female_clothes_religious_buddhist_devoted_01
+>>>>>>> Lux-Renata-main
 					1 = female_clothes_religious_zoroastrian_high_01
 					1 = female_clothes_religious_steppe_high_01_common
 					1 = female_clothes_secular_fp1_common_01
@@ -419,7 +440,11 @@
 					1 = f_clothes_sec_ep3_byzantine_era2_war_nob_01_lo
 					1 = f_clothes_sec_ep3_byzantine_era2_war_nob_01_hi
 					1 = f_clothes_sec_ep3_byzantine_era1_imp_01
+<<<<<<< HEAD
+					
+=======
 
+>>>>>>> Lux-Renata-main
 					# POL
 					1 = f_clothes_sec_pol_common_01
 					1 = f_clothes_sec_pol_common_02
@@ -459,7 +484,11 @@
 
 					# ccp9 #---------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
+                    1 = f_clothes_ccp9_lia_nob_01   
+=======
                     1 = f_clothes_ccp9_lia_nob_01
+>>>>>>> Lux-Renata-main
 					1 = f_clothes_ccp9_uyg_nob_01
 					1 = f_clothes_ccp9_uyg_roy_01
 					1 = f_clothes_ccp9_tan_roy_01
@@ -1395,7 +1424,11 @@
 				}
 
 				female = {
+<<<<<<< HEAD
+					1 = female_clothes_religious_catholic_devoted_01_common
+=======
 					1 = female_clothes_religious_orthodox_high_01
+>>>>>>> Lux-Renata-main
 				}
 
 				boy = male
@@ -1406,11 +1439,19 @@
 				index = 51
 
 				male = {
+<<<<<<< HEAD
+					1 = male_clothes_religious_orthodox_head_01_common
+				}
+
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+=======
 					1 = male_clothes_religious_orthodox_head_01
 				}
 
 				female = {
 					1 = female_clothes_religious_orthodox_head_01
+>>>>>>> Lux-Renata-main
 				}
 
 				boy = male
@@ -1475,15 +1516,23 @@
 
 				male = { # Duplicate weights to make seed different from catholic_high headgear gene
 					1 = male_clothes_religious_catholic_high_01
+<<<<<<< HEAD
+					2 = male_clothes_religious_dde_catholic_high_01_common
+=======
 					2 = male_clothes_religious_dde_catholic_high_01
+>>>>>>> Lux-Renata-main
 					1 = male_clothes_religious_catholic_high_01
 
 				}
 
 				female = {
+<<<<<<< HEAD
+					1 = female_clothes_religious_catholic_devoted_01_common
+=======
 					1 = female_clothes_religious_catholic_high_01
 					2 = female_clothes_religious_dde_catholic_high_01
 					1 = female_clothes_religious_catholic_high_01
+>>>>>>> Lux-Renata-main
 				}
 
 				boy = male
@@ -1496,7 +1545,11 @@
 					1 = male_clothes_religious_catholic_head_01
 				}
 				female = {
+<<<<<<< HEAD
+					1 = female_clothes_religious_catholic_devoted_01_common
+=======
 					1 = female_clothes_religious_catholic_head_01
+>>>>>>> Lux-Renata-main
 
 				}
 				boy = male
@@ -1512,7 +1565,11 @@
 			#	index = 57
 			#
 			#	male = {
+<<<<<<< HEAD
+			#		1 = male_clothes_religious_dde_catholic_high_01_common
+=======
 			#		1 = male_clothes_religious_dde_catholic_high_01
+>>>>>>> Lux-Renata-main
 			#
 			#	}
 			#
@@ -1611,7 +1668,11 @@
 				}
 
 				female = {
+<<<<<<< HEAD
+					1 = female_clothes_religious_hindu_devoted_01
+=======
 					1 = female_clothes_religious_buddhist_devoted_01
+>>>>>>> Lux-Renata-main
 				}
 
 				boy = male
@@ -2668,7 +2729,11 @@
 					male = {
 					1 = m_clothes_sec_ep3_byzantine_era2_roy_01
 				}
+<<<<<<< HEAD
+				
+=======
 
+>>>>>>> Lux-Renata-main
 				female = {
 					1 = f_clothes_sec_ep3_byzantine_era2_roy_01
 				}
@@ -2682,7 +2747,11 @@
 					male = {
 					1 = m_clothes_sec_ep3_byzantine_era2_imp_01
 				}
+<<<<<<< HEAD
+				
+=======
 
+>>>>>>> Lux-Renata-main
 				female = {
 					1 = f_clothes_sec_ep3_byzantine_era2_imp_01
 				}
@@ -2750,7 +2819,11 @@
 				}
 				female = {
 					1 = f_clothes_sec_ep3_byzantine_era1_war_nob_01
+<<<<<<< HEAD
+					
+=======
 
+>>>>>>> Lux-Renata-main
 				}
 				boy = male
 				girl = female
@@ -2771,7 +2844,11 @@
 				boy = male
 				girl = female
 			}
+<<<<<<< HEAD
+			
+=======
 
+>>>>>>> Lux-Renata-main
 			pol_low_nobility_clothes = {
 				index = 132
 				male = {
@@ -2785,7 +2862,11 @@
 				boy = male
 				girl = female
 			}
+<<<<<<< HEAD
+			
+=======
 
+>>>>>>> Lux-Renata-main
 			pol_high_nobility_clothes = {
 				index = 133
 				male = {
@@ -2895,7 +2976,11 @@
 					1 = f_clothes_sec_northern_war_nob_01_hi
 				}
 				boy = male
+<<<<<<< HEAD
+				girl = female				
+=======
 				girl = female
+>>>>>>> Lux-Renata-main
 			}
 
 			### CCP4 Khanty ###-------------------------------------------------------------------------------
@@ -2929,7 +3014,11 @@
 				boy = male
 				girl = female
 			}
+<<<<<<< HEAD
+			
+=======
 
+>>>>>>> Lux-Renata-main
 			ccp4_khanty_high_nobility_clothes = {
 				index = 143
 				male = {
@@ -2944,7 +3033,11 @@
 				girl = female
 			}
 
+<<<<<<< HEAD
+			
+=======
 
+>>>>>>> Lux-Renata-main
 			ccp4_khanty_war_nobility_clothes = {
 				index = 144
 				male = {
@@ -2958,7 +3051,11 @@
 					1 = f_clothes_sec_ccp4_khanty_war_hi_nob_01
 				}
 				boy = male
+<<<<<<< HEAD
+				girl = female				
+=======
 				girl = female
+>>>>>>> Lux-Renata-main
 			}
 
 			ccp4_khanty_children_commoner_clothes = {
@@ -2970,11 +3067,19 @@
 					1 = f_clothes_sec_ccp4_khanty_lo_nob_01
 				}
 				boy = male
+<<<<<<< HEAD
+				girl = female				
+			}
+
+			### MPO - Khans of the Steppe ###
+				
+=======
 				girl = female
 			}
 
 			### MPO - Khans of the Steppe ###
 
+>>>>>>> Lux-Renata-main
 			mpo_mongol_commoner_clothes = {
 				index = 146
 
@@ -2986,7 +3091,11 @@
 					1 = f_clothes_sec_mpo_mongol_com_01
 				}
 				boy = male
+<<<<<<< HEAD
+				girl = female				
+=======
 				girl = female
+>>>>>>> Lux-Renata-main
 			}
 
 			mpo_mongol_low_nobility_clothes = {
@@ -2999,7 +3108,11 @@
 					1 = f_clothes_sec_mpo_mongol_nob_01_lo
 				}
 				boy = male
+<<<<<<< HEAD
+				girl = female				
+=======
 				girl = female
+>>>>>>> Lux-Renata-main
 			}
 
 			mpo_mongol_high_nobility_clothes = {
@@ -3050,7 +3163,11 @@
 				}
 				boy = male
 				girl = female
+<<<<<<< HEAD
+			}			
+=======
 			}
+>>>>>>> Lux-Renata-main
 
 			### TGP - Asia ###
 
@@ -3094,7 +3211,11 @@
 				girl = female
 			}
 
+<<<<<<< HEAD
+			tgp_chinese_high_nobility_clothes = { 
+=======
 			tgp_chinese_high_nobility_clothes = {
+>>>>>>> Lux-Renata-main
 				index = 155
 				male = {
 					1 = m_clothes_sec_tgp_chinese_nob_01
@@ -3156,7 +3277,11 @@
 				boy = male
 				girl = female
 			}
+<<<<<<< HEAD
+			
+=======
 
+>>>>>>> Lux-Renata-main
 			tgp_japanese_nobility_clothes = {
 				index = 160
 				male = {
@@ -3270,7 +3395,11 @@
 				}
 				female = {
 					1 = f_clothes_rel_tgp_shinto_priest
+<<<<<<< HEAD
+				}				
+=======
 				}
+>>>>>>> Lux-Renata-main
 				boy = male
 				girl = female
 			}
@@ -3409,6 +3538,29 @@
 					1 = m_clothes_sec_tgp_chinese_nob_01_m1
 					1 = m_clothes_sec_tgp_chinese_roy_01_m1
 					1 = m_clothes_sec_tgp_chinese_nob_02_m1
+<<<<<<< HEAD
+					
+					1 = m_clothes_sec_tgp_chinese_nob_01_m2
+					1 = m_clothes_sec_tgp_chinese_roy_01_m2
+					1 = m_clothes_sec_tgp_chinese_nob_02_m2
+					
+					1 = m_clothes_sec_tgp_chinese_nob_01_m3
+					1 = m_clothes_sec_tgp_chinese_roy_01_m3
+					1 = m_clothes_sec_tgp_chinese_nob_02_m3
+					
+					1 = m_clothes_sec_tgp_chinese_nob_01_m4
+					1 = m_clothes_sec_tgp_chinese_roy_01_m4
+					1 = m_clothes_sec_tgp_chinese_nob_02_m4
+					
+					1 = m_clothes_sec_tgp_chinese_nob_01_m5
+					1 = m_clothes_sec_tgp_chinese_roy_01_m5
+					1 = m_clothes_sec_tgp_chinese_nob_02_m5
+					
+					1 = m_clothes_sec_tgp_chinese_nob_01_m6
+					1 = m_clothes_sec_tgp_chinese_roy_01_m6
+					1 = m_clothes_sec_tgp_chinese_nob_02_m6
+					
+=======
 
 					1 = m_clothes_sec_tgp_chinese_nob_01_m2
 					1 = m_clothes_sec_tgp_chinese_roy_01_m2
@@ -3430,6 +3582,7 @@
 					1 = m_clothes_sec_tgp_chinese_roy_01_m6
 					1 = m_clothes_sec_tgp_chinese_nob_02_m6
 
+>>>>>>> Lux-Renata-main
 				}
 				female = {
 					1 = f_clothes_sec_tgp_chinese_nob_01
@@ -3490,7 +3643,11 @@
 				}
 				boy = male
 				girl = female
+<<<<<<< HEAD
+			}	
+=======
 			}
+>>>>>>> Lux-Renata-main
 
 			tgp_ainu_low_nobility_clothes = {
 				index = 182
@@ -3520,7 +3677,11 @@
 				}
 				boy = male
 				girl = female
+<<<<<<< HEAD
+			}	
+=======
 			}
+>>>>>>> Lux-Renata-main
 
 			ccp5_french_era3_war_commoners_clothes = {
 				index = 184
@@ -3674,7 +3835,11 @@
 				}
 				boy = male
 				girl = female
+<<<<<<< HEAD
+			}			
+=======
 			}
+>>>>>>> Lux-Renata-main
 
 			ccp7_emishi_war_nob_clothes = {
 				index = 193
@@ -3719,6 +3884,24 @@
 
 			### ccp9  ###
 
+<<<<<<< HEAD
+			ccp9_lia_nob_01_clothes = { 
+
+				index = 196
+				male = {
+					1 = m_clothes_ccp9_lia_nob_01  
+				}
+				female = {
+					1 = f_clothes_ccp9_lia_nob_01 
+				}
+				boy = male 
+				girl = female 		
+			}
+
+			ccp9_dal_nob_01_clothes = { 
+
+				index = 197 
+=======
 			ccp9_lia_nob_01_clothes = {
 
 				index = 196
@@ -3735,11 +3918,23 @@
 			ccp9_dal_nob_01_clothes = {
 
 				index = 197
+>>>>>>> Lux-Renata-main
 				male = {
 					1 = m_clothes_ccp9_dal_nob_01
 					}
 				female = {
 					1 = f_clothes_sec_tgp_chinese_nob_01
+<<<<<<< HEAD
+					1 = f_clothes_sec_tgp_chinese_nob_02 
+				}
+				boy = male 
+				girl = female 
+			}
+
+			ccp9_uyg_nob_01_clothes = { 
+
+				index = 198 
+=======
 					1 = f_clothes_sec_tgp_chinese_nob_02
 				}
 				boy = male
@@ -3749,12 +3944,22 @@
 			ccp9_uyg_nob_01_clothes = {
 
 				index = 198
+>>>>>>> Lux-Renata-main
 				male = {
 				    1 = m_clothes_sec_tgp_chinese_nob_02
 				}
 				female = {
 					1 = f_clothes_ccp9_uyg_nob_01
 				}
+<<<<<<< HEAD
+				boy = male 
+				girl = female 
+			}
+
+			ccp9_uyg_roy_01_clothes = { 
+
+				index = 199 
+=======
 				boy = male
 				girl = female
 			}
@@ -3762,17 +3967,26 @@
 			ccp9_uyg_roy_01_clothes = {
 
 				index = 199
+>>>>>>> Lux-Renata-main
 				male = {
 				    1 = m_clothes_sec_tgp_chinese_nob_02
 					}
 				female = {
 					1 = f_clothes_ccp9_uyg_roy_01
 				}
+<<<<<<< HEAD
+				boy = male 
+				girl = female 
+			}
+
+			ccp9_tan_nob_01_clothes = { 
+=======
 				boy = male
 				girl = female
 			}
 
 			ccp9_tan_nob_01_clothes = {
+>>>>>>> Lux-Renata-main
 
 				index = 200
 				male = {
@@ -3781,11 +3995,19 @@
 				female = {
 					1 = f_clothes_ccp9_tan_nob_01
 				}
+<<<<<<< HEAD
+				boy = male 
+				girl = female 
+			}
+
+			ccp9_tan_roy_01_clothes = { 
+=======
 				boy = male
 				girl = female
 			}
 
 			ccp9_tan_roy_01_clothes = {
+>>>>>>> Lux-Renata-main
 
 				index = 201
 				male = {
@@ -3794,11 +4016,19 @@
 				female = {
 					1 = f_clothes_ccp9_tan_roy_01
 				}
+<<<<<<< HEAD
+				boy = male 
+				girl = female 
+			}
+
+			ccp9_min_nob_01_clothes = { 
+=======
 				boy = male
 				girl = female
 			}
 
 			ccp9_min_nob_01_clothes = {
+>>>>>>> Lux-Renata-main
 
 				index = 202
 				male = {
@@ -3807,6 +4037,41 @@
 				female = {
 					1 = f_clothes_ccp9_min_nob_01
 				}
+<<<<<<< HEAD
+				boy = male 
+				girl = female 
+			}
+			### RENOVATIO CLOTHES ###
+			renov_roman_clothes = {
+				index = 203
+
+				male = {
+					1 = male_clothes_renov_roman_toga_1_senatorial
+					1 = male_clothes_renov_roman_toga_2_imperial
+					1 = male_clothes_renov_roman_toga_1_high
+					1 = male_clothes_renov_roman_toga_1_low
+					1 = male_clothes_renov_roman_toga_2_high
+					1 = male_clothes_renov_roman_toga_2_low
+					1 = male_clothes_renov_roman_tunica_talaris_1_priestly
+					1 = male_clothes_renov_roman_lorica_musculata_armour
+					1 = male_clothes_renov_roman_lorica_musculata_armour_imperial
+					1 = male_clothes_renov_roman_lorica_musculata_armour_neptune
+					1 = male_clothes_renov_roman_centurion_armour
+					1 = male_clothes_renov_roman_lorica_squamata_armour
+					1 = male_clothes_renov_roman_lorica_segmentata_armour
+				}
+				female = {
+					1 = female_clothes_renov_roman_toga_1_senatorial
+					1 = female_clothes_renov_roman_dress_1_high
+					1 = female_clothes_renov_roman_dress_1_low
+					1 = female_clothes_renov_roman_tunica_talaris_1_priestly
+					1 = female_clothes_renov_roman_lorica_musculata_armour
+					1 = female_clothes_renov_roman_lorica_musculata_armour_imperial
+					1 = female_clothes_renov_roman_lorica_musculata_armour_neptune
+					1 = female_clothes_renov_roman_centurion_armour
+					1 = female_clothes_renov_roman_lorica_squamata_armour
+					1 = female_clothes_renov_roman_lorica_segmentata_armour
+=======
 				boy = male
 				girl = female
 			}
@@ -4186,6 +4451,7 @@
 					3 = female_clothes_religious_catholic_high_01
 					1 = female_clothes_religious_dde_catholic_high_01
 					3 = f_clothes_rel_pam_catholic_hi_01
+>>>>>>> Lux-Renata-main
 				}
 				boy = male
 				girl = female

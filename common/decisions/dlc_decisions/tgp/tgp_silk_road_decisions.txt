@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+﻿
+=======
 ﻿#Decisions for East Asia
 ### Visit a Silk Road Market ###
 visit_silk_road_market_decision = {
@@ -503,3 +506,4 @@ visit_silk_road_market_decision = {
 		}
 	}
 }
+>>>>>>> Lux-Renata-main

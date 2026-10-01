@@ -239,6 +239,7 @@ window = {
 							name = "open_inventory"
 							size = { 35 35 }
 						}
+						Historical_Bloodline_Button = {}
 					}
 
 					button_normal = {
@@ -452,6 +453,10 @@ window = {
 						onclick = "[Character.CopyCharacterPersistentDna]"
 						raw_tooltip = "Copy Persistent DNA"
 					}
+<<<<<<< HEAD
+					
+=======
+>>>>>>> Lux-Renata-main
 				}
 
 				blockoverride "button_close"
@@ -4319,7 +4324,10 @@ window = {
 			}
 		}
 	}
+<<<<<<< HEAD
+=======
 
+>>>>>>> Lux-Renata-main
 	window_character_filter = {
 		name = "court_character_filter_window"
 		datacontext = "[CharacterWindow.GetCourt]"
@@ -4477,6 +4485,10 @@ window = {
 			}
 		}
 	}
+<<<<<<< HEAD
+	secondary_widget = {}
+	textbox = {}
+=======
 
 	window_character_filter = {
 		name = "subordinates_filter_window"
@@ -4557,6 +4569,7 @@ window = {
 			}
 		}
 	}
+>>>>>>> Lux-Renata-main
 }
 
 
