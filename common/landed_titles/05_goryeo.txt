@@ -22,7 +22,7 @@ e_goryeo = {
 			custom_tooltip = {
 				text = unify_goryeo_decision_requirement_tt
 				NOT = {
-					government_allows = administrative
+					government_has_mechanic = administrative
 				}
 			}
 		}

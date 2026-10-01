@@ -461,7 +461,7 @@ found_the_empire_of_hindustan_decision = {
 		OR = {	#Government conditions.
 			government_has_flag = government_is_feudal
 			government_has_flag = government_is_clan
-			government_allows = administrative
+			government_has_mechanic = administrative
 			government_has_flag = government_is_landless_adventurer
 		}
 		OR = {

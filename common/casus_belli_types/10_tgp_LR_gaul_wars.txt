@@ -1121,7 +1121,7 @@ gaul_demand_administrative_cb = {
 			if = {
 				limit = { is_independent_ruler = no }
 				if = {
-					limit = { government_allows = administrative }
+					limit = { government_has_mechanic = administrative }
 					change_influence = gaul_demand_administrative_war_influence_value
 				}
 				else = { add_prestige_experience = gaul_demand_administrative_war_prestige_value }
@@ -1446,7 +1446,7 @@ gaul_sacral_expansion_cb = {
 			if = {
 				limit = { is_independent_ruler = no }
 				if = {
-					limit = { government_allows = administrative }
+					limit = { government_has_mechanic = administrative }
 					change_influence = gaul_sacral_expansion_war_influence_value
 				}
 				else = { add_prestige_experience = gaul_sacral_expansion_war_prestige_value }
@@ -1751,7 +1751,7 @@ gaul_sacral_reconquest_cb = {
 			if = {
 				limit = { is_independent_ruler = no }
 				if = {
-					limit = { government_allows = administrative }
+					limit = { government_has_mechanic = administrative }
 					change_influence = gaul_sacral_reconquest_war_influence_value
 				}
 				else = { add_prestige_experience = gaul_sacral_reconquest_war_prestige_value }

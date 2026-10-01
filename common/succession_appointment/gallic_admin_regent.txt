@@ -523,7 +523,7 @@
 			# Block non-admin
 			if = {
 				limit = {
-					NOT = { government_allows = administrative }
+					NOT = { government_has_mechanic = administrative }
 				}
 				add = -2500
 			}

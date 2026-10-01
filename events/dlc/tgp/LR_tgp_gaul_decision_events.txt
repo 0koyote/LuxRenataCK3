@@ -42,14 +42,14 @@ LR_tgp_gaul_decision.9001 = { # CHOOSE HOUSE NAME EVENT - WITH WIDGET
 				trigger = {
 					has_character_flag = establish_house_fief
 					var:petition_liege_house_fief_allowed_flag ?= top_liege
-					top_liege = { government_allows = administrative }
+					top_liege = { government_has_mechanic = administrative }
 				}
 				desc = LR_tgp_gaul_decision.9001.desc.permission
 			}
 			triggered_desc = {
 				trigger = {
 					has_character_flag = establish_house_fief
-					top_liege = { government_allows = administrative }
+					top_liege = { government_has_mechanic = administrative }
 				}
 				desc = LR_tgp_gaul_decision.9001.desc.crime
 			}
@@ -1609,7 +1609,7 @@ LR_tgp_gaul_decision.9001 = { # CHOOSE HOUSE NAME EVENT - WITH WIDGET
 					trigger = {
 						exists = scope:old_head
 						has_character_flag = found_cadet_branch
-						government_allows = administrative
+						government_has_mechanic = administrative
 					}
 					set_variable = {
 						name = new_gallic_house_name
@@ -1755,13 +1755,13 @@ LR_tgp_gaul_decision.9002 = { # SAME CLAN EVENT - NO WIDGET
 			triggered_desc = {
 				trigger = {
 					var:petition_liege_house_fief_allowed_flag ?= top_liege
-					top_liege = { government_allows = administrative }
+					top_liege = { government_has_mechanic = administrative }
 				}
 				desc = LR_tgp_gaul_decision.9001.desc.permission
 			}
 			triggered_desc = {
 				trigger = {
-					top_liege = { government_allows = administrative }
+					top_liege = { government_has_mechanic = administrative }
 				}
 				desc = LR_tgp_gaul_decision.9001.desc.crime
 			}
@@ -2220,7 +2220,7 @@ LR_tgp_gaul_decision.9602 = { # Vassal AI event
 				}
 				modifier = {
 					add = 15
-					government_allows = administrative
+					government_has_mechanic = administrative
 				}
 				save_temporary_scope_as = war_joiner_temp
 				scope:sacral_magister_militum = {

@@ -92,7 +92,7 @@ tgp_japan_establish_house_fief_decision = {
 		trigger_if = {
 			limit = {
 				top_liege = { 
-					government_allows = administrative 
+					government_has_mechanic = administrative 
 					NOT = { government_has_flag = government_is_japan_feudal }
 				}
 			}
@@ -152,7 +152,7 @@ tgp_japan_establish_house_fief_decision = {
 			if = {
 				limit = {
 					is_independent_ruler = no
-					top_liege = { government_allows = administrative }
+					top_liege = { government_has_mechanic = administrative }
 					NOR = { 
 						var:petition_liege_house_fief_allowed_flag ?= scope:new_head.top_liege
 						top_liege = {
@@ -344,7 +344,7 @@ tgp_japan_establish_house_fief_decision = {
 					limit = {
 						is_landed = yes
 						top_liege = root.top_liege
-						NOT = { government_allows = administrative }
+						NOT = { government_has_mechanic = administrative }
 					}
 					add = 30
 				}
@@ -468,7 +468,7 @@ tgp_japan_establish_soryo_manor_decision = {
 		# Crown Authority
 		trigger_if = {
 			limit = {
-				top_liege = { government_allows = administrative }
+				top_liege = { government_has_mechanic = administrative }
 			}
 			custom_tooltip = {
 				text = tgp_japan_establish_house_fief_centralization_trigger
@@ -1511,7 +1511,7 @@ tgp_japan_restore_japanese_government_decision = {
 		completely_controls = title:d_west_bando
 		completely_controls = title:d_north_saikaido
 		OR = {
-			government_allows = administrative
+			government_has_mechanic = administrative
 			government_allows = create_cadet_branches
 		}
 	}

@@ -838,7 +838,7 @@ shared_raid_estate_participant_valid_trigger = {
 		house.house_head ?= this
 	}
 	OR = {
-		government_allows = administrative
+		government_has_mechanic = administrative
 		government_is_japanese_trigger = yes
 	}
 	tgp_is_ceremonial_liege_trigger = no

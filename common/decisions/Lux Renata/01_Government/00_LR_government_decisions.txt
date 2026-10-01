@@ -625,14 +625,14 @@ convert_to_administrative_decision = {
 		}
 		trigger_if = {
 			limit = { top_liege != this }
-			liege = { government_allows = administrative }
+			liege = { government_has_mechanic = administrative }
 		}
 	}
 
 	is_valid = {
 		trigger_if = {
 			limit = { top_liege != this }
-			liege = { government_allows = administrative }
+			liege = { government_has_mechanic = administrative }
 		}
 		trigger_else = {
 			OR = {
@@ -1314,7 +1314,7 @@ convert_to_feudalism_from_administrative_decision = {
 			NOT = { government_has_flag = government_is_celestial }
 
 		}
-		government_allows = administrative
+		government_has_mechanic = administrative
 		tgp_is_ceremonial_liege_trigger = no
 		tgp_is_ceremonial_regent_trigger = no
 		tgp_is_any_minister = no

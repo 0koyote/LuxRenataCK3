@@ -91,7 +91,7 @@ lux_tradition_diadochi_phalanx = {
 		if = {
 			limit = { # Admin should be more into this
 				scope:character = {
-					government_allows = administrative
+					government_has_mechanic = administrative
 				}
 			}
 			multiply = 2
@@ -201,7 +201,7 @@ lux_tradition_diadochi_kingship = {
 		if = {
 			limit = { # Admin should be more into this
 				scope:character = {
-					government_allows = administrative
+					government_has_mechanic = administrative
 				}
 			}
 			multiply = 2
@@ -672,7 +672,7 @@ lux_tradition_persian_splendour = {
 		}
 	}	
 	can_pick = {
-		scope:character = { government_allows = administrative }
+		scope:character = { government_has_mechanic = administrative }
 
 		trigger_if = {
 			limit = {
@@ -770,7 +770,7 @@ lux_tradition_imperial_polygamy = {
 			scope:character.primary_title = {
 				tier >= tier_empire
 			}
-			scope:character = { government_allows = administrative }
+			scope:character = { government_has_mechanic = administrative }
 		}
 		NOT = {
 			scope:replacing = culture_tradition:tradition_ep3_palace_politics
@@ -882,7 +882,7 @@ lux_tradition_slave_soldiers = {
 				culture_tradition:tradition_ep3_imperial_tagmata = { is_in_list = traits }
 			}
 		}		
-		scope:character = { government_allows = administrative }
+		scope:character = { government_has_mechanic = administrative }
 	}
 	
 	parameters = {

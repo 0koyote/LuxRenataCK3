@@ -665,7 +665,7 @@ consolidate_rule_decision = {
 	}
 
 	is_valid = {
-		government_allows = administrative
+		government_has_mechanic = administrative
 	}
 
 	is_valid_showing_failures_only = {

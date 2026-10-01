@@ -92,7 +92,7 @@ LR_tgp_gaul_establish_house_fief_decision = {
 		trigger_if = {
 			limit = {
 				top_liege = { 
-					government_allows = administrative 
+					government_has_mechanic = administrative 
 					NOT = { government_has_flag = government_is_gaul_feudal }
 				}
 			}
@@ -152,7 +152,7 @@ LR_tgp_gaul_establish_house_fief_decision = {
 			if = {
 				limit = {
 					is_independent_ruler = no
-					top_liege = { government_allows = administrative }
+					top_liege = { government_has_mechanic = administrative }
 					NOR = { 
 						var:petition_liege_house_fief_allowed_flag ?= scope:new_head.top_liege
 						top_liege = {
@@ -344,7 +344,7 @@ LR_tgp_gaul_establish_house_fief_decision = {
 					limit = {
 						is_landed = yes
 						top_liege = root.top_liege
-						NOT = { government_allows = administrative }
+						NOT = { government_has_mechanic = administrative }
 					}
 					add = 30
 				}
@@ -468,7 +468,7 @@ LR_tgp_gaul_establish_manorial_manor_decision = {
 		# Crown Authority
 		trigger_if = {
 			limit = {
-				top_liege = { government_allows = administrative }
+				top_liege = { government_has_mechanic = administrative }
 			}
 			custom_tooltip = {
 				text = LR_tgp_gaul_establish_house_fief_centralization_trigger
@@ -1263,7 +1263,7 @@ LR_tgp_gaul_restore_sacral_government_decision = {
 		completely_controls = title:k_france
 		completely_controls = title:k_neustria
 		OR = {
-			government_allows = administrative
+			government_has_mechanic = administrative
 			government_allows = create_cadet_branches
 		}
 	}

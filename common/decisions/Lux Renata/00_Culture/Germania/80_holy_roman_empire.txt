@@ -143,7 +143,7 @@ restore_holy_roman_empire_decision = {
 		OR = {	#Government conditions.
 			government_has_flag = government_is_feudal
 			government_has_flag = government_is_clan
-			government_allows = administrative
+			government_has_mechanic = administrative
 		}
 		exists = faith.religious_head
 	}

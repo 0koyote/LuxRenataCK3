@@ -146,7 +146,7 @@
 
 	every_vassal = {
 		custom = custom.every_admin_vassal
-		limit = { government_allows = administrative }
+		limit = { government_has_mechanic = administrative }
 		add_opinion = {
 			target = scope:root_scope
 			modifier = admiration_opinion
@@ -1833,7 +1833,7 @@ LR_restore_eastern_hegemony_decision_effect = {
 	
 	every_vassal = {
 		custom = custom.every_admin_vassal
-		limit = { government_allows = administrative }
+		limit = { government_has_mechanic = administrative }
 		add_opinion = {
 			target = scope:root_scope
 			modifier = admiration_opinion
