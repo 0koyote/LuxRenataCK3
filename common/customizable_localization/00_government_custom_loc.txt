@@ -1423,6 +1423,59 @@ GetGovernmentIcon = {
 	}
 }
 
+GetGovernmentTypeIcon = {
+	type = government_type
+
+	text = { # Military Order
+		trigger = {
+			government_type_has_flag = government_is_holy_order
+		}
+		localization_key = holy_order_icon_concept
+	}
+	text = { # Mercenary
+		trigger = {
+			government_type_has_flag = government_is_mercenary
+		}
+		localization_key = mercenary_icon_concept
+	}
+	text = { # Adventurer
+		trigger = {
+			government_type_has_flag = government_is_landless_adventurer
+		}
+		localization_key = adventurer_icon_concept
+	}
+	text = { # Nomad
+		trigger = {
+			government_type_has_flag = government_is_nomadic
+		}
+		localization_key = nomadic_icon_concept
+	}
+	text = { # Herder
+		trigger = {
+			government_type_has_flag = government_is_herder
+		}
+		localization_key = herder_icon_concept
+	}
+	text = { # Celestial
+		trigger = {
+			government_type_has_flag = government_is_celestial
+		}
+		localization_key = celestial_icon_concept
+	}
+	text = { # Mandala
+		trigger = {
+			government_type_has_flag = government_is_mandala
+		}
+		localization_key = mandala_icon_concept
+	}
+	text = { # Maritime Tribal
+		trigger = {
+			government_type_has_flag = government_is_wanua
+		}
+		localization_key = wanua_icon_concept
+	}
+}
+
 GetTribalFeudal = {
 	type = character
 
