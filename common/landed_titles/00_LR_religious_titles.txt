@@ -156,7 +156,7 @@ k_sol = {
 	destroy_if_invalid_heir = yes
 }
 
-d_sol_apollo = {
+d_solar_apollo = {
 	color = { 33 31 30 }
 	landless = yes
 	capital = c_barqa
