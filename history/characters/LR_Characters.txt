@@ -2330,7 +2330,7 @@ desideria_lombards = {
 	#dna = bgkuoyfqzih
 	#properties = cj0ecd00000
 	health = 7
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	culture = greek
 	trait = bloodline_hieron
 
@@ -11318,7 +11318,7 @@ syriac_abgarid_27 = {
 17250 = {
 	name = Demetrios
 	dynasty = 63
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	culture = greek
 	6040.1.1 = {
 		birth = 6040.1.1

@@ -2663,7 +2663,7 @@ pleuratus_3_ardiaean_illyria = {
 eurydice_ardiaean_illyria = {
 	name = "Eurydike"
 	female = yes
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	culture = hellenistic
 
 	4758.1.1 = {
@@ -6946,7 +6946,7 @@ beroea_aeacid_illyria = {
 	name = "Beroia"
 	female = yes
 	dynasty = dynasty_aeacidae
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	culture = hellenistic
 	father = Arybbas_I_Aeacid
 

@@ -92,8 +92,8 @@ solar_christ_rite = {
 	# TODO_PAM_DESIGN TIT-72804
 	cultures = { greek roman }
 }
-hellenic_pagan = {
-	faith = hellenic_faith
+hellenic_pagan_rite = {
+	faith = hellenic_pagan
 
 	color = { 0.031 0.098 0.859 }
 

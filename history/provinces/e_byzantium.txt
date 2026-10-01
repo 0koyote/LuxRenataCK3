@@ -214,7 +214,7 @@
 ###c_abydos
 744 = {		#Abydos
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding	
 	5867.1.1 = {
 		buildings = {
@@ -238,7 +238,7 @@
 }
 3751 = {	#Alexandria Troas
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 3748 = {	#Pagaea
@@ -248,7 +248,7 @@
 ###c_lesbos
 487 = {		#Lesbos
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 3752 = {	#Lemnos
@@ -422,7 +422,7 @@
 ###c_demetrias
 488 = {		#Demetrias
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 3789 = {	#Velestino
@@ -693,7 +693,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	
 	holding = castle_holding #none
 	
@@ -2492,7 +2492,7 @@
 	
 	# Misc
 	culture = perso_hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	
 	holding = castle_holding
 	
@@ -2506,7 +2506,7 @@
 	
 	# Misc
 	culture = perso_hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	
 	holding = castle_holding
 	
@@ -2519,7 +2519,7 @@
 	
 	# Misc
 	culture = perso_hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	
 	holding = castle_holding
 	
@@ -2541,13 +2541,13 @@
 # 5609 - Tanadaris
 5609 = {	# 5609 - Tanadaris
 	culture = perso_hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding #none
 }
 
 5613 = {	# 5613 - Ariaratheia
 	culture = perso_hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 
@@ -2556,7 +2556,7 @@
 	
 	# Misc
 	culture = perso_hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	
 	holding = castle_holding #none
 	
@@ -2568,7 +2568,7 @@
 	
 	# Misc
 	culture = perso_hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	
 	holding = castle_holding
 	
@@ -2640,7 +2640,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	
 	holding = city_holding
 	
@@ -3141,7 +3141,7 @@
 }
 3731 = {	#Megara
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 
@@ -3223,7 +3223,7 @@
 }
 3798 = {	#Argos
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 3799 = {	#Damala AKA Troezen
@@ -3234,7 +3234,7 @@
 ###c_messenia
 3733 = {	#Karytaina
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 3734 = {	#Arcadia
@@ -3242,7 +3242,7 @@
 }
 3800 = {	#Kalamata
 	culture = hellenistic
-	rite = hellenic_pagan #Could be the Dioscuri? Messenians stubbornly refuse to convert to the religion of the Lacedemonians. 
+	rite = hellenic_pagan_rite #Could be the Dioscuri? Messenians stubbornly refuse to convert to the religion of the Lacedemonians. 
 	holding = castle_holding
 }
 477 = {		#Methone
@@ -5525,24 +5525,24 @@
 ### c_delphi  
 13472 = {	# Delphi
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = church_holding
 }
 
 ### c_eretria  
 13284 = {	# Eretria
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 13443 = {	# Karystos
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = city_holding
 }
 13444 = {	# Styra Euboea
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding #none
 }
 
@@ -5582,12 +5582,12 @@
 ### c_lemnos  
 13376 = {	# Imbros
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding #none
 }
 13377 = {	# Samothrake
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 
@@ -5712,7 +5712,7 @@
 # KLEISOURA EUBOEA in c_euboea
 13442 = {	# Kleisoura Euboea
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = city_holding
 }
 
@@ -5761,7 +5761,7 @@
 # METHYMNA in c_lesbos
 13362 = {	# Methymna
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = city_holding
 }
 
@@ -5782,14 +5782,14 @@
 # PHERAI in c_demetrias
 13489 = {	# Pherai
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding #none
 }
 
 # GONNOI THESSALIA in c_demetrias
 13476 = {	# Gonnoi Thessalia
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = city_holding
 }
 
@@ -5817,7 +5817,7 @@
 # TEGAIA in c_arcadia
 13461 = {	# Tegaia
 	culture = hellenistic
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 

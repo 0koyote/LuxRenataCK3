@@ -963,15 +963,15 @@
 ###c_messina
 2633 = {	#MESSINA
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 	5869.1.1 = {
 		culture = greek
-		rite = hellenic_pagan
+		rite = hellenic_pagan_rite
 	}
 	6057.1.1 = {
 		culture = greek
-		rite = hellenic_pagan
+		rite = hellenic_pagan_rite
 	}
 	6066.1.1 = {
 		culture = roman
@@ -979,7 +979,7 @@
 	}
 	6178.1.1 = {
 		culture = greek # "an overwhelmingly Greek city, whose character only began to change through immigration from the mainland in the later twelfth century"
-		rite = hellenic_pagan
+		rite = hellenic_pagan_rite
 	}
 }
 2634 = {	#CEFALU
@@ -992,11 +992,11 @@
 ###c_siracusa
 2638 = {	#SYRACUSE
 	culture = greek
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 	5904.1.1 = {
 		culture = greek
-		rite = hellenic_pagan
+		rite = hellenic_pagan_rite
 	}
 	6066.1.1 = {
 		buildings = {
@@ -1007,7 +1007,7 @@
 	}
 	6116.1.1 = {
 		culture = greek
-		rite = hellenic_pagan
+		rite = hellenic_pagan_rite
 	}
 }
 2643 = {	#LENTINI

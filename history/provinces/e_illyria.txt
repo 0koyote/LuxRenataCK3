@@ -425,7 +425,7 @@
 ###c_pagania
 3555 = {	#Mokro
 	culture = liburnian
-	rite = hellenic_pagan
+	rite = hellenic_pagan_rite
 	holding = castle_holding
 }
 3553 = {	#Omi�
@@ -439,7 +439,7 @@
 ###c_ragusa
 468 = {		#Ragusa
 	culture = liburnian
-	rite = hellenic_pagan	
+	rite = hellenic_pagan_rite	
 	holding = castle_holding
 	6066.1.1 = {
 		buildings = {
