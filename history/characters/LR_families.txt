@@ -1078,7 +1078,7 @@
 	father = 1710576
 	#dna = "yffrkivunhl"
 	health = 8
-	rite = "mithras"
+	rite = "mithras_rite"
 	culture = "hellenistic"
 	trait = "bloodline_mithridates"
 	6054.1.1 = {
@@ -1093,7 +1093,7 @@
 	dynasty = dynasty_hellenistic_mithridates
 	father = 1710576
 	health = 8
-	rite = "mithras"
+	rite = "mithras_rite"
 	culture = "hellenistic"
 	trait = "bloodline_mithridates"
 	6049.1.1 = {

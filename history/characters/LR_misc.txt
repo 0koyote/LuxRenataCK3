@@ -137,7 +137,7 @@
 
 1822010 = {
 	name = "Maximianus"
-	rite = "mithras"
+	rite = "mithras_rite"
 	culture = "roman"
 	6029.1.1 = {
 		birth = "6029.1.1"

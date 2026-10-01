@@ -5,7 +5,7 @@
 	dynasty = 1820000
 	#=bfbgdshbcbw
 	#properties=0m00c
-	rite = mithras
+	rite = mithras_rite
 	culture = romano_gothic
 	trait = education_learning_3
 	trait = compassionate

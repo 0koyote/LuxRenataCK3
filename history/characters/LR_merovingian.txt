@@ -1051,7 +1051,7 @@
 	name = "Ascyla"
 	female = yes
 	culture = "galatian"
-	rite = "mithras" #mithrasic Solar
+	rite = "mithras_rite" #mithrasic Solar
 	5343.1.1 = { birth = yes }
 	5422.1.1 = { death = yes }
 }

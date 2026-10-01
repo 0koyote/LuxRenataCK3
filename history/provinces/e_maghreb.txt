@@ -406,7 +406,7 @@
 ###c_fuerteventura
 8714 = {	#FUERTEVENTURA	
 	culture = roman
-	rite = mithras
+	rite = mithras_rite
 	holding = tribal_holding
 }
 8715 = {	#LANZAROTE
@@ -1110,7 +1110,7 @@
 ###c_tripolitana
 4557 = {	#LIBTRIPOLI
 	culture = afro_roman
-	rite = mithras
+	rite = mithras_rite
 	holding = castle_holding
 }
 4568 = {	#SABRATHA
@@ -1123,7 +1123,7 @@
 ###c_djerba
 4562 = {	#JERBA
 	culture = afro_roman
-	rite = mithras
+	rite = mithras_rite
 	holding = castle_holding
 }
 4565 = {	#JARJIS
@@ -1146,7 +1146,7 @@
 ###c_jafara
 4561 = {	#ZUWARA
 	culture = afro_roman
-	rite = mithras
+	rite = mithras_rite
 	holding = castle_holding
 }
 4558 = {	#TIRI

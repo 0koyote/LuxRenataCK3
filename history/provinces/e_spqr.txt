@@ -975,7 +975,7 @@
 	}
 	6066.1.1 = {
 		culture = roman
-		rite = mithras
+		rite = mithras_rite
 	}
 	6178.1.1 = {
 		culture = greek # "an overwhelmingly Greek city, whose character only began to change through immigration from the mainland in the later twelfth century"
@@ -1307,7 +1307,7 @@
 ###c_ajaccio
 2650 = {	#AJACCIO
 	culture = roman
-	rite = mithras
+	rite = mithras_rite
 	holding = castle_holding
 }
 2649 = {	#CALVI
@@ -1317,7 +1317,7 @@
 ###c_bastia
 2647 = {	#BASTIA
 	culture = roman
-	rite = mithras
+	rite = mithras_rite
 	holding = castle_holding
 }
 2648 = {	#CORTE
@@ -1327,7 +1327,7 @@
 ###c_vecchio
 2652 = {	#BONIFACIO
 	culture = roman
-	rite = mithras
+	rite = mithras_rite
 	holding = castle_holding
 }
 2651 = {	#VECCHIO

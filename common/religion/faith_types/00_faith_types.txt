@@ -2311,6 +2311,42 @@ roman_faith = {
 	cultures = { greek roman ancient_egyptian trojan macedonian carthaginian }
 }
 
+mithras = {
+	main_rite = mithras_rite
+	historical = yes
+	head_of_faith = k_mithras
+
+	faith_details = {
+		religion = mithras_religion
+		color = rgb { 204 0 0 }
+		icon = mithras
+	}
+
+	eminent_holy_sites = {
+		rome
+		carthage
+	}
+
+	holy_sites = {
+		cartagena
+		alexandria
+		takht-e_soleyman
+	}
+
+	tenets = {
+		tenet_astrology
+		tenet_communal_identity
+		tenet_esotericism
+	}
+
+	doctrines = {
+		unreformed_faith_doctrine
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman ancient_egyptian trojan macedonian carthaginian }
+}
+
 hellenic_faith = {
 	main_rite = hellenic_pagan
 	historical = yes

@@ -1418,11 +1418,11 @@
 	
 	# History
 	5800.1.1 = { culture = vandal }
-	5812.1.1 = { rite = mithras }
+	5812.1.1 = { rite = mithras_rite }
 }
 1851 = {	# CARTAGENA
 	culture = vandal
-	rite = mithras
+	rite = mithras_rite
 	holding = castle_holding
 	special_building_slot = drassanes_01 #Maritime barracks of Carthago Nova
 	
@@ -1502,7 +1502,7 @@
 1853 = {	# ALICANTE
 	# Misc
 	culture = romano_hispanic
-	rite = mithras
+	rite = mithras_rite
 	
 	holding = castle_holding
 	
@@ -1536,7 +1536,7 @@
 1967 = {	# ALCARAZ
 	# Misc
 	culture = vandal
-	rite = mithras
+	rite = mithras_rite
 	
 	# History
 

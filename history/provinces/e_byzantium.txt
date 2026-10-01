@@ -484,7 +484,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = mithras
+	rite = mithras_rite
 	
 	holding = castle_holding
 	
@@ -1202,7 +1202,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = mithras
+	rite = mithras_rite
 	
 	holding = city_holding
 	
@@ -1241,7 +1241,7 @@
 	
 	# Misc
 	culture = hellenistic
-	rite = mithras
+	rite = mithras_rite
 	
 	holding = castle_holding
 	

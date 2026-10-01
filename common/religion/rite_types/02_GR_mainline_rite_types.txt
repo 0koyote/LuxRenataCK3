@@ -32,6 +32,28 @@ roman_pagan = {
 	cultures = { greek roman }
 }
 
+mithras_rite = {
+	faith = mithras
+	icon = mithras
+
+	color = rgb { 204 0 0 }
+
+	tenets = {
+		tenet_astrology
+		tenet_communal_identity
+		tenet_esotericism
+	}
+
+	doctrines = {
+		lux_doctrine_ascendant_pure
+		lux_doctrine_traditional_soul
+		unreformed_faith_doctrine
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
 solar_imperial_rite = {
 	faith = solar_imperial_faith
 

@@ -395,3 +395,72 @@ solar_islam_rite = {
 	# TODO_PAM_DESIGN TIT-72804
 	cultures = { greek hellenistic }
 }
+
+mithras_christ = {
+	faith = mithras
+	icon = mithras
+	head_of_rite = k_mithras_christ
+
+	color = rgb { 245 75 45 }
+
+	tenets = {
+		tenet_astrology
+		tenet_communal_identity
+		tenet_esotericism
+	}
+
+	doctrines = {
+		lux_doctrine_ascendant_pure
+		lux_doctrine_traditional_soul
+		unreformed_faith_doctrine
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
+mani_mithras = {
+	faith = mithras
+	icon = mani_mithra
+	head_of_rite = d_mani_mithras
+
+	color = rgb { 109 109 208 }
+
+	tenets = {
+		tenet_astrology
+		tenet_communal_identity
+		tenet_esotericism
+	}
+
+	doctrines = {
+		lux_doctrine_ascendant_pure
+		lux_doctrine_traditional_soul
+		unreformed_faith_doctrine
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
+
+mithras_sol = {
+	faith = mithras
+	icon = mithras_sol
+	head_of_rite = k_mithras_sol
+
+	color = rgb { 245 75 45 }
+
+	tenets = {
+		tenet_astrology
+		tenet_communal_identity
+		tenet_esotericism
+	}
+
+	doctrines = {
+		lux_doctrine_ascendant_pure
+		lux_doctrine_traditional_soul
+		unreformed_faith_doctrine
+	}
+
+	# TODO_PAM_DESIGN TIT-72804
+	cultures = { greek roman }
+}
