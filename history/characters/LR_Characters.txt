@@ -569,7 +569,7 @@
 	#properties = mj0ggk00000
 	health = 7
 	father = 1830092
-	rite = sol_islam
+	rite = solar_islam
 	culture = levantine
 	6044.1.1 = {
 		birth = 6044.1.1
@@ -3052,7 +3052,7 @@ desideria_lombards = {
 	#dna = wmjnuixjpkv
 	#properties = aak00b00000
 	health = 7
-	rite = sol_islam
+	rite = solar_islam
 	culture = arab_hellenistic
 	father = 1714728
 	6038.1.2 = {

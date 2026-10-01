@@ -909,7 +909,7 @@ d_sol_victor = {
 	}
 }
 
-d_sol_apollo = {
+d_solar_apollo = {
 	6066.1.1 = {
 		holder = 1822007
 		liege = k_kyrene

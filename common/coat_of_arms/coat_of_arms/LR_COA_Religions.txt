@@ -31,7 +31,7 @@ k_sol = {
 }
 
 # Apollo-Helios
-d_sol_apollo = {
+d_solar_apollo = {
 	pattern="pattern_solid.dds"
 	color1=red
 	color2=yellow

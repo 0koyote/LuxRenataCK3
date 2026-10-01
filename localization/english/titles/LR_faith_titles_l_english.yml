@@ -7,9 +7,9 @@
  k_sol: "Sol Invictus Priesthood"
  k_sol_adj: "Solar Imperial"
  
- d_sol_apollo_article: "the "
- d_sol_apollo: "Great Solar Cult of Apollo"
- d_sol_apollo_adj: "Apollonian"
+ d_solar_apollo_article: "the "
+ d_solar_apollo: "Great Solar Cult of Apollo"
+ d_solar_apollo_adj: "Apollonian"
 
  d_sol_boreas_article: "the "
  d_sol_boreas: "Archonate of Boreas"
