@@ -341,7 +341,7 @@
 ###c_friuli
 2512 = {	#CAORLE
 	culture = roman
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 	5442.1.1 = {
 		culture = ostrogothic
@@ -364,7 +364,7 @@
 ###c_pula
 2518 = {	#PULA
 	culture = roman
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 2519 = {	#PIRAN
@@ -1090,7 +1090,7 @@
 ###c_capua
 2606 = {	#CAPUA
 	culture = roman
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = castle_holding
 	6098.1.1 = { culture = roman }
 }
@@ -1104,7 +1104,7 @@
 ###c_napoli
 2608 = {	#NAPOLI
 	culture = roman
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = castle_holding
 	5867.1.1 = {
 		buildings = {
@@ -1122,7 +1122,7 @@
 	}
 	6139.4.1 = {
 		culture = roman
-		rite = roman_caesar_cult
+		rite = roman_caesar_cult_rite
 	}
 }
 2611 = {	#AMALFI

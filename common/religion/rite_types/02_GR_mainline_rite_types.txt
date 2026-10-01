@@ -54,7 +54,7 @@ solar_imperial_rite = {
 solar_christ_rite = {
 	faith = solar_christ_faith
 
-	color = rgb { 209 208 0 }
+	color = rgb { 255 255 77 }
 
 	tenets = {
 		tenet_sun_worship

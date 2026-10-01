@@ -959,7 +959,7 @@ d_alexandros = {
 	}
 }
 
-d_roman_caesar_cult = {
+d_roman_caesar_cult_rite = {
 	6060.1.1 = {
 		holder = 1822019
 		government = theocracy_government
@@ -967,7 +967,7 @@ d_roman_caesar_cult = {
 	}
 }
 
-d_roman_jupiter = {
+d_roman_jupiter_rite = {
 	6060.1.1 = {
 		holder = 1822017
 		government = theocracy_government

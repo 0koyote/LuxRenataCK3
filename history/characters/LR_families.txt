@@ -193,7 +193,7 @@
 	#dynasty = dynasty_roman_julio_argeadai
 	dynasty_house = house_augustus
 	health = 8
-	rite = "roman_caesar_cult"
+	rite = "roman_caesar_cult_rite"
 	culture = "roman"
 	trait = "bloodline_augustus"
 	trait = "zealous"
@@ -213,7 +213,7 @@
 	dynasty_house = house_augustus
 	father = 1712500
 	health = 8
-	rite = "roman_caesar_cult"
+	rite = "roman_caesar_cult_rite"
 	culture = "roman"
 	trait = "bloodline_augustus"
 	trait = "education_learning_3"
@@ -820,7 +820,7 @@
 	dynasty = eastern_roman_trapezounos
 	father = 1710847
 	health = 9
-	rite = "roman_caesar_cult"
+	rite = "roman_caesar_cult_rite"
 	culture = "greek"
 	6054.1.1 = {
 		birth = "6054.1.1"
@@ -834,7 +834,7 @@
 	dynasty = eastern_roman_trapezounos
 	father = 1710847
 	health = 9
-	rite = "roman_caesar_cult"
+	rite = "roman_caesar_cult_rite"
 	culture = "greek"
 	6049.1.1 = {
 		birth = "6049.1.1"

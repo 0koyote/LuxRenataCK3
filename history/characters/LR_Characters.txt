@@ -175,7 +175,7 @@
 	#dna = wxdkkqmoxbv
 	#properties = cc0c0d00000
 	health = 7
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	culture = roman
 	father = 1712216
 	6045.1.1 = {
@@ -269,7 +269,7 @@
 	#dna = dclflahsxki
 	#properties = 0fyh0h00000
 	health = 7
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	culture = roman
 	trait = bloodline_augustus
 	trait = education_diplomacy_3
@@ -519,7 +519,7 @@
 	#dna = xrdrvqddobx
 	#properties = ch0f0k00000
 	health = 9
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	culture = greek
 	6044.1.1 = {
 		birth = 6044.1.1
@@ -4314,7 +4314,7 @@ desideria_lombards = {
 1500 = {
 	name = Lucius # Aquilea
 	dynasty = dynasty_roman_traianus # Traianus
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	culture = roman
 	father = 1712192
 	5372.1.1 = {

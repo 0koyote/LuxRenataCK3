@@ -3,7 +3,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	
 	holding = castle_holding
 	
@@ -26,7 +26,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	
 	holding = castle_holding
 	
@@ -38,7 +38,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	
 	holding = castle_holding
 	
@@ -334,7 +334,7 @@
 	# History
 	6100.1.1 = {
 		culture = greek
-		rite = roman_caesar_cult
+		rite = roman_caesar_cult_rite
 	}
 }
 
@@ -343,7 +343,7 @@
 	
 	holding = castle_holding
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 }
 
 # 5601 - Pedachtoe
@@ -354,7 +354,7 @@
 	# History
 	6100.1.1 = {
 		culture = greek
-		rite = roman_caesar_cult
+		rite = roman_caesar_cult_rite
 	}
 }
 
@@ -366,7 +366,7 @@
 	# History
 	6100.1.1 = {
 		culture = greek
-		rite = roman_caesar_cult
+		rite = roman_caesar_cult_rite
 	}
 }
 
@@ -459,7 +459,7 @@
 # 5689 - Oinaion
 5689 = {	# 5689 - Oinaion
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = city_holding
 	
 }
@@ -468,7 +468,7 @@
 5690 = {	# 5690 - Polemonium
 	
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	
 	holding = castle_holding
 	
@@ -484,7 +484,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	
 	holding = castle_holding
 	
@@ -505,7 +505,7 @@
 5693 = {	# 5693 - Hyspiratis
 	
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	
 	holding = castle_holding
 	
@@ -516,7 +516,7 @@
 	
 	holding = castle_holding
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 }
 
 # 5695 - Keltzine
@@ -527,7 +527,7 @@
 	# History
 	6100.1.1 = {
 		culture = greek
-		rite = roman_caesar_cult
+		rite = roman_caesar_cult_rite
 	}
 }
 
@@ -536,7 +536,7 @@
 	
 	holding = castle_holding
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 }
 
 # 5699 - Sinoria
@@ -558,7 +558,7 @@
 	
 	holding = castle_holding
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	
 }
 
@@ -609,7 +609,7 @@
 # CHORSABIA in c_colonea
 13453 = {	# Chorsabia
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = none
 }
 
@@ -623,28 +623,28 @@
 # HERMONASSA in c_trebizond
 13449 = {	# Hermonassa
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = city_holding
 }
 
 # KAINE PAREMBOLE in c_trebizond
 13450 = {	# Kaine Parembole
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = none
 }
 
 # OPHIOS in c_trebizond
 13451 = {	# Ophios
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = none
 }
 
 # ZIGANE in c_trebizond
 13452 = {	# Zigane
 	culture = greek
-	rite = roman_caesar_cult
+	rite = roman_caesar_cult_rite
 	holding = none
 }
 
@@ -658,7 +658,7 @@
 # DADYBRA in c_honorias
 13393 = {	# Dadybra
 	culture = hellenistic
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 
@@ -672,21 +672,21 @@
 # DADOKOME in c_bythinion
 13494 = {	# Dadokome
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # DOKAIA in c_gangra
 13391 = {	# Dokaia
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # IKOTARION in c_gangra
 13404 = {	# Ikotarion
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = none
 }
 

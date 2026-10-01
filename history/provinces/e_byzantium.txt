@@ -581,7 +581,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -594,7 +594,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -649,7 +649,7 @@
 # 3747 - Lopadion
 3747 = {	# 3747 - Lopadion
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 }
 
 
@@ -719,7 +719,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -758,7 +758,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -797,7 +797,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -823,7 +823,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -836,7 +836,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -849,7 +849,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -914,7 +914,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -940,7 +940,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -966,7 +966,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -979,7 +979,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -992,7 +992,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1018,7 +1018,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -1031,7 +1031,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -1044,7 +1044,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1057,7 +1057,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1070,7 +1070,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding
 	
@@ -1083,7 +1083,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -1096,7 +1096,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1109,7 +1109,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1137,7 +1137,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -1150,7 +1150,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -1163,7 +1163,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1176,7 +1176,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding
 	
@@ -1189,7 +1189,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -1215,7 +1215,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1228,7 +1228,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -1254,7 +1254,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1267,7 +1267,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
@@ -1280,7 +1280,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -1293,7 +1293,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1306,7 +1306,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding #none
 	
@@ -1332,7 +1332,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = church_holding
 	
@@ -1933,7 +1933,7 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = castle_holding
 	
@@ -2040,14 +2040,14 @@
 	
 	# Misc
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	
 	holding = city_holding
 	
 	# History
 	4000.1.1 = {
 		culture = greek
-		rite = roman_jupiter
+		rite = roman_jupiter_rite
 	}
 }
 
@@ -5824,7 +5824,7 @@
 # KALASYRTA in c_nikomedia
 13412 = {	# Kalasyrta
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding #none
 }
 
@@ -5836,70 +5836,70 @@
 # DIOLKIDES in c_nikomedia
 13394 = {	# Diolkides
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # KALPE in c_nikomedia
 13331 = {	# Kalpe
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 
 # PYLAI SANGAROS in c_nikomedia
 13402 = {	# Pylai Sangaros
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 
 # TATTAIOS in c_nikaea
 13334 = {	# Tattaios
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding #none
 }
 
 # PYTHOPOLIS in c_nikaea
 13401 = {	# Pythopolis
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # AURELIANE in c_nikaea
 13403 = {	# Aureliane
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # DIA DIOPOLIS in c_prusias
 13395 = {	# Dia Diopolis
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 
 # PROKONESSOS in c_kyzikos
 13357 = {	# Prokonessos
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 
 # ZELEIA in c_kyzikos
 13358 = {	# Zeleia
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # ADRASTEIA in c_kyzikos
 13355 = {	# Adrasteia
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding #none
 }
 
@@ -6108,7 +6108,7 @@
 # ALIASSON in c_tectosagia_galatia
 13407 = {	# Aliasson
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 
@@ -6192,28 +6192,28 @@
 # TEOS EPHESUS in c_ionia
 13328 = {	# Teos Ephesus
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # MAGNESIA in c_ionia
 13372 = {	# Magnesia
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = church_holding
 }
 
 # DIDYMA in c_miletus
 13370 = {	# Didyma
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = church_holding
 }
 
 # ALABANDA in c_miletus
 13371 = {	# Alabanda
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding #none
 }
 
@@ -6255,14 +6255,14 @@
 # IDYMA in c_halikarnassos
 13368 = {	# Idyma
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
 # BARGYLIA in c_halikarnassos
 13366 = {	# Bargylia
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
@@ -6311,7 +6311,7 @@
 # KOLOPHON in c_sardes
 13374 = {	# Kolophon
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
@@ -6332,14 +6332,14 @@
 # INDI STRATONIKEIA in c_attalia_lydica
 13422 = {	# Indi Stratonikeia
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 
 # ERGASTERIA in c_attalia_lydica
 13421 = {	# Ergasteria
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = city_holding
 }
 
@@ -6367,7 +6367,7 @@
 # ANKYRA SIDERA in c_synaos
 13419 = {	# Ankyra Sidera
 	culture = greek
-	rite = roman_jupiter
+	rite = roman_jupiter_rite
 	holding = castle_holding
 }
 

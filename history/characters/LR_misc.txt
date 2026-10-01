@@ -2,7 +2,7 @@
 1715926 = {
 	name= "Occia" 
 	learning = 20
-	rite = "roman_caesar_cult"
+	rite = "roman_caesar_cult_rite"
 	culture = "roman"
 	female = yes
 	6043.1.1 = {
@@ -221,7 +221,7 @@
 
 1822017 = {
 	name = "Silvanus"
-	rite = "roman_jupiter"
+	rite = "roman_jupiter_rite"
 	culture = "roman"
 	6029.1.1 = {
 		birth = "6029.1.1"
@@ -245,7 +245,7 @@
 
 1822019 = {
 	name = "Saturninus"
-	rite = "roman_caesar_cult"
+	rite = "roman_caesar_cult_rite"
 	culture = "roman"
 	6029.1.1 = {
 		birth = "6029.1.1"

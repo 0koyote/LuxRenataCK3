@@ -222,3 +222,15 @@
  siberian_pagan_old_adj: "Old Turumic"
  siberian_pagan_old_adherent: "Old Turumist"
  siberian_pagan_old_adherent_plural: "Old Turumists"
+
+ #Illyrian
+ 
+ holy_order_watcher_of_the_tower: "Watcher of the Tower"
+ holy_order_watcher_of_the_tower_adj: "Watcher of the Tower"
+
+ holy_order_chosen_of_medaurus: "Chosen of Medaurus"
+ holy_order_chosen_of_medaurus_adj: "Medauran"
+ holy_order_riders_of_hauel: "Riders of Hauel"
+ holy_order_riders_of_hauel_adj: "Hauelian"
+ holy_order_deadsingers: "Deadsingers"
+ holy_order_deadsingers_adj: "Deadsinger"
