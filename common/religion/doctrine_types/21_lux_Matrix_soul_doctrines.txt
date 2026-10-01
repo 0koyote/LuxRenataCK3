@@ -3,7 +3,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_statist_soul }
+				limit = { rite_has_doctrine = lux_doctrine_statist_soul }
 				value = 0
 			}
 			else = {
@@ -35,7 +35,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_martial_soul }
+				limit = { rite_has_doctrine = lux_doctrine_martial_soul }
 				value = 0
 			}
 			else = {
@@ -67,7 +67,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_populist_soul }
+				limit = { rite_has_doctrine = lux_doctrine_populist_soul }
 				value = 0
 			}
 			else = {
@@ -97,7 +97,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_scholarly_soul }
+				limit = { rite_has_doctrine = lux_doctrine_scholarly_soul }
 				value = 0
 			}
 			else = {
@@ -128,7 +128,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_messianic_soul }
+				limit = { rite_has_doctrine = lux_doctrine_messianic_soul }
 				value = 0
 			}
 			else = {
@@ -160,7 +160,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_traditional_soul }
+				limit = { rite_has_doctrine = lux_doctrine_traditional_soul }
 				value = 0
 			}
 			else = {
@@ -188,7 +188,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_clerical_soul }
+				limit = { rite_has_doctrine = lux_doctrine_clerical_soul }
 				value = 0
 			}
 			else = {

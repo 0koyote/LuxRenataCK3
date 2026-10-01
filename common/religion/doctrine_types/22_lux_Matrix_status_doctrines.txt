@@ -3,7 +3,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_mainstream_status }
+				limit = { rite_has_doctrine = lux_doctrine_mainstream_status }
 				value = 0
 			}
 			else = {
@@ -24,7 +24,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_local_status }
+				limit = { rite_has_doctrine = lux_doctrine_local_status }
 				value = 0
 			}
 			else = {
@@ -46,7 +46,7 @@
 		piety_cost = {
 			value = 0
 			if = {
-				limit = { has_doctrine = lux_doctrine_heretical_status }
+				limit = { rite_has_doctrine = lux_doctrine_heretical_status }
 				value = 0
 			}
 			else = {

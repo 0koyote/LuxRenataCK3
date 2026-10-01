@@ -3,23 +3,23 @@
 	piety_cost = {
 		value = 0
 		if = {
-			limit = { has_doctrine = lux_doctrine_ascendant_pure }
+			limit = { rite_has_doctrine = lux_doctrine_ascendant_pure }
 			value = 0
 		}
 		else_if = {
 			limit = { 
 				OR = { 	
-					has_doctrine = lux_doctrine_christian_ascendant
-					has_doctrine = lux_doctrine_islamic_ascendant
-					has_doctrine = lux_doctrine_persian_ascendant
-					has_doctrine = lux_doctrine_jewish_ascendant
-					has_doctrine = lux_doctrine_graeco_roman_ascendant
-					has_doctrine = lux_doctrine_eastern_ascendant
-					has_doctrine = lux_doctrine_dualist_ascendant
-					has_doctrine = lux_doctrine_archaic_ascendant
-					has_doctrine = lux_doctrine_subsaharan_ascendant
-					has_doctrine = lux_doctrine_folk_ascendant
-					has_doctrine = lux_doctrine_sinitic_ascendant
+					rite_has_doctrine = lux_doctrine_christian_ascendant
+					rite_has_doctrine = lux_doctrine_islamic_ascendant
+					rite_has_doctrine = lux_doctrine_persian_ascendant
+					rite_has_doctrine = lux_doctrine_jewish_ascendant
+					rite_has_doctrine = lux_doctrine_graeco_roman_ascendant
+					rite_has_doctrine = lux_doctrine_eastern_ascendant
+					rite_has_doctrine = lux_doctrine_dualist_ascendant
+					rite_has_doctrine = lux_doctrine_archaic_ascendant
+					rite_has_doctrine = lux_doctrine_subsaharan_ascendant
+					rite_has_doctrine = lux_doctrine_folk_ascendant
+					rite_has_doctrine = lux_doctrine_sinitic_ascendant
 				} 
 			}
 			value = faith_tenet_cost_high
@@ -48,14 +48,14 @@ lux_doctrine_graeco_roman_ascendant = {
 
 		# Multiplier for keeping same tenet
 		if = {
-			limit = { has_doctrine = lux_doctrine_graeco_roman_ascendant }
+			limit = { rite_has_doctrine = lux_doctrine_graeco_roman_ascendant }
 			multiply = faith_unchanged_doctrine_cost_mult
 		}
 	}
 
 
 	is_shown = {
-		NOT = { has_doctrine = graeco_roman_special_hostility_doctrine }
+		NOT = { rite_has_doctrine = graeco_roman_special_hostility_doctrine }
 	}
 	can_pick = { always = yes }
 	parameters = {
@@ -90,7 +90,7 @@ lux_doctrine_christian_ascendant = {
 
 		# Multiplier for keeping same tenet
 		if = {
-			limit = { has_doctrine = lux_doctrine_christian_ascendant }
+			limit = { rite_has_doctrine = lux_doctrine_christian_ascendant }
 			multiply = faith_unchanged_doctrine_cost_mult
 		}
 	}
@@ -131,7 +131,7 @@ lux_doctrine_islamic_ascendant = {
 		}
 		# Multiplier for keeping same tenet
 			if = {
-			limit = { has_doctrine = lux_doctrine_islamic_ascendant }
+			limit = { rite_has_doctrine = lux_doctrine_islamic_ascendant }
 			multiply = faith_unchanged_doctrine_cost_mult
 		}
 	}
@@ -169,7 +169,7 @@ lux_doctrine_persian_ascendant = {
 		}
 		# Multiplier for keeping same tenet
 		if = {
-			limit = { has_doctrine = lux_doctrine_persian_ascendant }
+			limit = { rite_has_doctrine = lux_doctrine_persian_ascendant }
 			multiply = faith_unchanged_doctrine_cost_mult
 		}
 	}
@@ -211,7 +211,7 @@ lux_doctrine_jewish_ascendant = {
 
 		# Multiplier for keeping same tenet
 		if = {
-			limit = { has_doctrine = lux_doctrine_jewish_ascendant }
+			limit = { rite_has_doctrine = lux_doctrine_jewish_ascendant }
 			multiply = faith_unchanged_doctrine_cost_mult
 		}
 	}
@@ -252,7 +252,7 @@ lux_doctrine_dualist_ascendant = {
 		}
 		# Multiplier for keeping same tenet
 		if = {
-			limit = { has_doctrine = lux_doctrine_dualist_ascendant }
+			limit = { rite_has_doctrine = lux_doctrine_dualist_ascendant }
 			multiply = faith_unchanged_doctrine_cost_mult
 		}
 	}
@@ -282,7 +282,7 @@ lux_doctrine_dualist_ascendant = {
 				limit = {
 					OR = {
 						religion_tag = buddhism_religion
-						has_doctrine = pagan_special_hostility_doctrine
+						rite_has_doctrine = pagan_special_hostility_doctrine
 					}
 				}
 				value = faith_tenet_cost_low
@@ -299,7 +299,7 @@ lux_doctrine_dualist_ascendant = {
 
 			# Multiplier for keeping same tenet
 			if = {
-				limit = { has_doctrine = lux_doctrine_sinitic_ascendant }
+				limit = { rite_has_doctrine = lux_doctrine_sinitic_ascendant }
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
 		}
@@ -330,7 +330,7 @@ lux_doctrine_dualist_ascendant = {
 				limit = {
 					OR = {
 						religion_tag = dualism_religion
-						has_doctrine = pagan_special_hostility_doctrine
+						rite_has_doctrine = pagan_special_hostility_doctrine
 					}
 				}
 				value = faith_tenet_cost_low
@@ -347,14 +347,14 @@ lux_doctrine_dualist_ascendant = {
 
 			# Multiplier for keeping same tenet
 			if = {
-				limit = { has_doctrine = lux_doctrine_eastern_ascendant }
+				limit = { rite_has_doctrine = lux_doctrine_eastern_ascendant }
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
 		}
 
 		is_shown = {
 			OR = {
-				NOT = { has_doctrine = special_doctrine_is_eastern_faith }
+				NOT = { rite_has_doctrine = special_doctrine_is_eastern_faith }
 				religion = { is_in_family = rf_sinitic }
 			}
 		}
@@ -379,7 +379,7 @@ lux_doctrine_dualist_ascendant = {
 	#			limit = {
 	#				OR = {
 	#					religion_tag = dualism_religion
-	#					has_doctrine = pagan_special_hostility_doctrine
+	#					rite_has_doctrine = pagan_special_hostility_doctrine
 	#				}
 	#			}
 	#			value = faith_tenet_cost_low
@@ -396,14 +396,14 @@ lux_doctrine_dualist_ascendant = {
 	#
 	#		# Multiplier for keeping same tenet
 	#		if = {
-	#			limit = { has_doctrine = lux_doctrine_steppe_ascendant }
+	#			limit = { rite_has_doctrine = lux_doctrine_steppe_ascendant }
 	#			multiply = faith_unchanged_doctrine_cost_mult
 	#		}
 	#	}
 	#
 	#	is_shown = {
 	#		OR = {
-	#			NOT = { has_doctrine = eastern_special_hostility_doctrine }
+	#			NOT = { rite_has_doctrine = eastern_special_hostility_doctrine }
 	#			religion = { is_in_family = rf_sinitic }
 	#		}
 	#	}
@@ -434,7 +434,7 @@ lux_doctrine_dualist_ascendant = {
 	#			limit = {
 	#				OR = {
 	#					religion_tag = dualism_religion
-	#					has_doctrine = pagan_special_hostility_doctrine
+	#					rite_has_doctrine = pagan_special_hostility_doctrine
 	#				}
 	#			}
 	#			value = faith_tenet_cost_low
@@ -451,14 +451,14 @@ lux_doctrine_dualist_ascendant = {
 	#
 	#		# Multiplier for keeping same tenet
 	#		if = {
-	#			limit = { has_doctrine = lux_doctrine_eastern_ascendant }
+	#			limit = { rite_has_doctrine = lux_doctrine_eastern_ascendant }
 	#			multiply = faith_unchanged_doctrine_cost_mult
 	#		}
 	#	}
 	#
 	#	is_shown = {
 	#		OR = {
-	#			NOT = { has_doctrine = eastern_special_hostility_doctrine }
+	#			NOT = { rite_has_doctrine = eastern_special_hostility_doctrine }
 	#			religion = { is_in_family = rf_sinitic }
 	#		}
 	#	}
@@ -489,7 +489,7 @@ lux_doctrine_dualist_ascendant = {
 	#			limit = {
 	#				OR = {
 	#					religion_tag = dualism_religion
-	#					has_doctrine = pagan_special_hostility_doctrine
+	#					rite_has_doctrine = pagan_special_hostility_doctrine
 	#				}
 	#			}
 	#			value = faith_tenet_cost_low
@@ -506,14 +506,14 @@ lux_doctrine_dualist_ascendant = {
 	#
 	#		# Multiplier for keeping same tenet
 	#		if = {
-	#			limit = { has_doctrine = lux_doctrine_eastern_ascendant }
+	#			limit = { rite_has_doctrine = lux_doctrine_eastern_ascendant }
 	#			multiply = faith_unchanged_doctrine_cost_mult
 	#		}
 	#	}
 	#
 	#	is_shown = {
 	#		OR = {
-	#			NOT = { has_doctrine = eastern_special_hostility_doctrine }
+	#			NOT = { rite_has_doctrine = eastern_special_hostility_doctrine }
 	#			religion = { is_in_family = rf_pagan }
 	#		}
 	#	}
@@ -544,7 +544,7 @@ lux_doctrine_dualist_ascendant = {
 	#			limit = {
 	#				OR = {
 	#					religion_tag = dualism_religion
-	#					has_doctrine = pagan_special_hostility_doctrine
+	#					rite_has_doctrine = pagan_special_hostility_doctrine
 	#				}
 	#			}
 	#			value = faith_tenet_cost_low
@@ -561,14 +561,14 @@ lux_doctrine_dualist_ascendant = {
 	#
 	#		# Multiplier for keeping same tenet
 	#		if = {
-	#			limit = { has_doctrine = lux_doctrine_eastern_ascendant }
+	#			limit = { rite_has_doctrine = lux_doctrine_eastern_ascendant }
 	#			multiply = faith_unchanged_doctrine_cost_mult
 	#		}
 	#	}
 	#
 	#	is_shown = {
 	#		OR = {
-	#			NOT = { has_doctrine = eastern_special_hostility_doctrine }
+	#			NOT = { rite_has_doctrine = eastern_special_hostility_doctrine }
 	#			religion = { is_in_family = rf_sinitic }
 	#		}
 	#	}
@@ -599,7 +599,7 @@ lux_doctrine_dualist_ascendant = {
 				limit = {
 					OR = {
 						religion_tag = dualism_religion
-						has_doctrine = pagan_special_hostility_doctrine
+						rite_has_doctrine = pagan_special_hostility_doctrine
 					}
 				}
 				value = faith_tenet_cost_low
@@ -616,14 +616,14 @@ lux_doctrine_dualist_ascendant = {
 	
 			# Multiplier for keeping same tenet
 			if = {
-				limit = { has_doctrine = lux_doctrine_eastern_ascendant }
+				limit = { rite_has_doctrine = lux_doctrine_eastern_ascendant }
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
 		}
 	
 		is_shown = {
 			NOT = {
-				has_doctrine = pagan_special_hostility_doctrine
+				rite_has_doctrine = pagan_special_hostility_doctrine
 				#religion = { is_in_family = rf_pagan }
 			}
 		}
@@ -647,7 +647,7 @@ lux_doctrine_dualist_ascendant = {
 				limit = {
 					OR = {
 						religion_tag = dualism_religion
-						has_doctrine = pagan_special_hostility_doctrine
+						rite_has_doctrine = pagan_special_hostility_doctrine
 					}
 				}
 				value = faith_tenet_cost_low
@@ -664,13 +664,13 @@ lux_doctrine_dualist_ascendant = {
 
 			# Multiplier for keeping same tenet
 			if = {
-				limit = { has_doctrine = lux_doctrine_eastern_ascendant }
+				limit = { rite_has_doctrine = lux_doctrine_eastern_ascendant }
 				multiply = faith_unchanged_doctrine_cost_mult
 			}
 		}
 
 		is_shown = {
-			NOT = { has_doctrine = archaic_special_hostility_doctrine }
+			NOT = { rite_has_doctrine = archaic_special_hostility_doctrine }
 		}
 		can_pick = { always = yes }
 		parameters = {
@@ -692,7 +692,7 @@ lux_doctrine_dualist_ascendant = {
 				limit = {
 					OR = {
 						religion_tag = dualism_religion
-						has_doctrine = pagan_special_hostility_doctrine
+						rite_has_doctrine = pagan_special_hostility_doctrine
 					}
 				}
 				value = faith_tenet_cost_low
@@ -709,13 +709,13 @@ lux_doctrine_dualist_ascendant = {
 
 			# Multiplier for keeping same tenet
 			#if = {
-			#	limit = { has_doctrine = lux_doctrine_steppe_ascendant }
+			#	limit = { rite_has_doctrine = lux_doctrine_steppe_ascendant }
 			#	multiply = faith_unchanged_doctrine_cost_mult
 			#}
 		}
 
 		is_shown = {
-			NOT = { has_doctrine = west_african_unreformed_faith_doctrine }
+			NOT = { rite_has_doctrine = west_african_unreformed_faith_doctrine }
 		}
 		can_pick = { always = yes }
 		parameters = {
