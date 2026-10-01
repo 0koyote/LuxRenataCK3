@@ -578,3 +578,8 @@ house_shu_han = {
 		name = "dynn_Liu_5289"
 		dynasty = han_imperial_liu
 }
+
+house_chokai = {
+	name = "dynn_chokai" #Chokai
+	dynasty = japanese_taira_kanmu #Fictional placeholder for Chokai dynasty
+}
