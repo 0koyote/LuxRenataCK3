@@ -891,7 +891,7 @@ recreate_byzantine_empire_decision = {
 			AND = {
 				OR = {
 					ep3_orthodox_faith_trigger = yes
-					faith = faith:hellenic_pagan
+					faith = faith_hellenic_faith
 				}
 				primary_title = {
 					tier <= tier_empire
@@ -901,7 +901,7 @@ recreate_byzantine_empire_decision = {
 			AND = {
 				OR = {
 					ep3_orthodox_faith_trigger = yes
-					faith = faith:hellenic_pagan
+					faith = faith_hellenic_faith
 				}
 				primary_title = {
 					tier <= tier_empire
@@ -933,7 +933,7 @@ recreate_byzantine_empire_decision = {
 				text = is_greek_descendent_tt
 			}
 			ep3_orthodox_faith_trigger = yes
-			faith = faith:hellenic_pagan
+			faith = faith_hellenic_faith
 		}
 		highest_held_title_tier >= tier_kingdom
 		
@@ -1106,7 +1106,7 @@ recreate_byzantine_empire_decision = {
 				}
 				OR = {
 					ep3_orthodox_faith_trigger = yes
-					faith = faith:hellenic_pagan
+					faith = faith_hellenic_faith
 				}
 			}
 			add = -30

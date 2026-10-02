@@ -93,7 +93,7 @@ solar_christ_rite = {
 	cultures = { greek roman }
 }
 hellenic_pagan_rite = {
-	faith = hellenic_pagan
+	faith = hellenic_faith
 
 	color = { 0.031 0.098 0.859 }
 

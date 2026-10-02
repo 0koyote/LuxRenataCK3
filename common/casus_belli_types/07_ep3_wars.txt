@@ -5587,7 +5587,7 @@ greek_anarchy_cb = {
 					}
 					NOR = {
 						ep3_orthodox_faith_trigger = yes
-						faith = faith:hellenic_pagan
+						faith = faith_hellenic_faith
 						culture = culture:greek
 						culture = {
 							any_parent_culture_or_above = {

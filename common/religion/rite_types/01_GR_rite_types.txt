@@ -49,7 +49,7 @@ dionysos_rite = {
 	faith = hellenic_faith
 
 	color = rgb { 190 150 180 }
-	icon = hellenic_cybele
+	icon = hellenic_dionysos
     tenets = {
         tenet_carnal_exaltation
 		tenet_ritual_celebrations

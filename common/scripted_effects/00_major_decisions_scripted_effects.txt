@@ -1148,7 +1148,7 @@ destroy_papacy_scripted_effect = {
 		}
 		else_if = {
 			limit = {
-				faith.religion = faith:hellenic_pagan.religion
+				faith.religion = faith_hellenic_faith.religion
 			}
 			scope:scoped_pope = {
 				death = {
