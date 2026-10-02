@@ -1,18 +1,17 @@
 ﻿hypsistarian_rite = {
-	name = cybele
-	desc = cybele_desc
+	name = hypsistarian
+	desc = hypsistarian_desc
 	founder = k_pontus
 	faith = hellenic_faith
 
-	color = rgb { 179 128 144 }
-	icon = hellenic_cybele
+	color = rgb { 142 128 179 }
+	icon = hypsistarian
     tenets = {
         tenet_astrology
 		tenet_household_gods
 		tenet_esotericism
     }
 	doctrines = {
-		doctrine_gender_female_dominated
 		lux_doctrine_clerical_soul
 		lux_doctrine_archaic_ascendant
 	}
