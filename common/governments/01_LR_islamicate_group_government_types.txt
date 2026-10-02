@@ -1,5 +1,4 @@
-﻿### Brief: clan_government
-iqta_government = {
+﻿iqta_government = {
 	government_rules = {
 		create_cadet_branches = yes
 		rulers_should_have_dynasty = yes
@@ -62,20 +61,33 @@ iqta_government = {
 	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_clan
-		#Lux Renata Edit
-		government_is_iqta
+		government_has_tax_slot
 		may_appoint_viziers
 		government_is_settled
 		government_uses_crown_authority
 		government_uses_domain_limit
-		government_is_islamic_group
+		government_is_iqta
 	}
 
 	mechanic_type = clan
-	is_mechanic_type_default = no
+	is_mechanic_type_default = yes
+
+	possible_grant_vassal_governments = { theocracy_government }
+
+	# Grant candidate for nomads and herders who want to settle
+	grant_vassal_ai_will_do = {
+		value = 0
+		if = {
+			limit = {
+				pam_nomad_grant_settled_government_trigger = yes
+				faith = { religion = religion:islam_religion }
+			}
+			add = 10
+		}
+	}
 
 	color = hsv{ 0.39 0.93 0.54 }
-	realm_mask_offset = { 0.0 0.05 }
+	realm_mask_offset = { 0.0 0.03 }
 	realm_mask_scale = { 1 1 }
 }
 

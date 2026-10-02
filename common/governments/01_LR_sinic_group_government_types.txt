@@ -1,10 +1,16 @@
-﻿chinese_feudal_government = {
+﻿### Brief: feudal_government
+#
+# This is referenced in code
+#
+chinese_feudal_government = {
 	government_rules = {
 		create_cadet_branches = yes
 		rulers_should_have_dynasty = yes
-		dynasty_named_realms = no
+		dynasty_named_realms = yes
 		legitimacy = yes
+		allow_accolades = yes
 	}
+
 	royal_court = any
 
 	fallback = 5
@@ -12,23 +18,15 @@
 	primary_holding = castle_holding
 	valid_holdings = { temple_citadel_holding }
 	required_county_holdings = { castle_holding city_holding church_holding }
-	primary_heritages = { heritage_tibetan heritage_chinese heritage_mongolic heritage_qiangic heritage_korean heritage_tocharian heritage_tai heritage_tungusic }
-
-	#preferred_religions = { hellenism_religion roman_religion mithras_religion neoplatonic_religion solar_religion bud_hellenic_religion indo_hellenic_religion }
+	primary_heritages = { heritage_tibetan heritage_chinese heritage_mongolic heritage_qiangic heritage_korean heritage_tocharian heritage_tai }
 
 	vassal_contract_group = feudal_vassal
-	tax_slot_type = classical_tax_slot
-	
-	#character_modifier = {
-	#	clan_tax_slot_add = 2
-	#}
 
 	ai = {
 		use_legends = yes
 	}
-	
-	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 
+	# Use flags instead of has_government for moddability if possible (i.e., wherever not visible to the player).
 	flags = {
 		government_is_feudal
 		government_is_sinic_group
@@ -38,9 +36,30 @@
 		government_uses_crown_authority
 		government_uses_domain_limit
 	}
+
 	mechanic_type = feudal
 	is_mechanic_type_default = no
-	color = { 17 156 70 }
+
+	possible_grant_vassal_governments = { theocracy_government ecclesiastical_government }
+
+	# Grant candidate for nomads and herders who want to settle
+	grant_vassal_ai_will_do = {
+		value = 0
+		if = {
+			limit = {
+				pam_nomad_grant_settled_government_trigger = yes
+				faith = {
+					NOT = {
+						religion = religion:islam_religion
+						#has_doctrine_parameter = unreformed
+					}
+				}
+			}
+			add = 10
+		}
+	}
+
+	color = rgb { 17 156 70 }
 	realm_mask_offset = { 0.0 0.01 }
 	realm_mask_scale = { 1 1 }
 }
